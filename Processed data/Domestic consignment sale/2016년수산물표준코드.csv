@@ -1,0 +1,2162 @@
+수산물품목코드,대분류코드,대분류명,중분류코드,중분류명,소분류코드,소분류명,이명,학명,한글과명,영문과명,수과원계통ID
+610000,61,해면어류,00,,00,,,,,,
+610100,61,해면어류,01,가오리류,00,가오리류,,,,,
+610101,61,해면어류,01,가오리류,01,노랑가오리,"Redsting ray, Red skate, 노랑가부리(부산), 창가오리, 간재미, 가오리(전남), 딱장가오리, 딱장가부리",Dasyatis akajei,색가오리과,Family Dasyatidae,MF0008652
+610102,61,해면어류,01,가오리류,02,목탁가오리,"Fanray, 목대기(전남), 박대(평북), 목대, 목대가오리(정주)",Platyrhina sinensis,가래상어과,Family Rhinobatidae,MF0006268
+610103,61,해면어류,01,가오리류,03,흰가오리,"Sepia stingray, 흰가부리(부산)",Urolophus aurantiacus,흰가오리과,Family Urolophidae,MF0001416
+610104,61,해면어류,01,가오리류,04,거울가오리,"Brown ray, Homelyn mirror ray,거울홍어",Raja miraletus,가오리과,Family Rajidae,MF0006119
+610105,61,해면어류,01,가오리류,05,전기가오리,"Japanese sleeper ray, 시끈가오리, 시끈가부리(부산), 밀가우리, 쟁개비(서해안)",Narke japonica,전기가오리과,Family Narcinidae,MF0007476
+610106,61,해면어류,01,가오리류,06,나비가오리,,Gymnura japonica,나비가오리과,Family Gymnuridae,
+610107,61,해면어류,01,가오리류,07,만타가오리,,,만타가오리과,,
+610108,61,해면어류,01,가오리류,08,보라색가오리,"Pelagic stingray, Violet stingray",Dasyatis violacea,색가오리과,Family Dasyatidae,MF0008657
+610109,61,해면어류,01,가오리류,09,쥐가오리,,Mobula japonica,매가오리과,Family Myliobatididae,
+610199,61,해면어류,01,가오리류,99,기타가오리류,,,,,
+610200,61,해면어류,02,가자미류,00,가자미류,,,,,
+610201,61,해면어류,02,가자미류,01,도다리,Finespotted flounder,Pleuronichthys cornutus,가자미과,Family Pleuronectidae,MF0014568
+610202,61,해면어류,02,가자미류,02,용가자미,Pointhead flounder,Hippoglossoides pinetorum,가자미과,Family Pleuronectidae,MF0011202
+610203,61,해면어류,02,가자미류,03,참가자미,"Brown sole, 참가재미, 개재미",Pleuronectes herzensteini,가자미과,Family Pleuronectidae,MF0007335
+610204,61,해면어류,02,가자미류,04,물가자미,"Shotted halibut, 감중어, 물가재미(함북)",Eopsetta grigorjewi,가자미과,Family Pleuronectidae,MF0000920
+610205,61,해면어류,02,가자미류,05,기름가자미,Blackfin flounder,Glyptocephalus stelleri,가자미과,Family Pleuronectidae,MF0004253
+610206,61,해면어류,02,가자미류,06,문치가자미,,Pleuronectes yokohamae,가자미과,Family Pleuronectidae,MF0007995
+610207,61,해면어류,02,가자미류,07,홍가자미,"Flathead flounder, Red halibut",Hippoglossoides dubius,가자미과,Family Pleuronectidae,MF0006751
+610208,61,해면어류,02,가자미류,08,돌가자미,"Stone flounder, 돌가재미(황해도, 부산)",Kareius bicoloratus,가자미과,Family Pleuronectidae,MF0000634
+610209,61,해면어류,02,가자미류,09,노랑가자미,,Verasper moseri,가자미과,Family Pleuronectidae,
+610210,61,해면어류,02,가자미류,10,각시가자미,"Yellowfin sole, Alaska dab",Pleuronectes aspera,가자미과,Family Pleuronectidae,MF0007332
+610211,61,해면어류,02,가자미류,11,줄가자미,Roughscale sole,Clidoderma asperrimum,가자미과,Family Pleuronectidae,MF0013977
+610212,61,해면어류,02,가자미류,12,강도다리,"Starry flounder, Diamond back",Platichthys stellatus,가자미과,Family Pleuronectidae,MF0014069
+610213,61,해면어류,02,가자미류,13,갈가자미,"Willowy flounder, 갈가재미(전남), 납세미(부산)",Tanakius kitaharai,가자미과,Family Pleuronectidae,MF0004281
+610214,61,해면어류,02,가자미류,14,범가자미,"Spotted halibut, 범가재미(강원), 별납생이(전남)",Verasper variegatus,가자미과,Family Pleuronectidae,MF0003969
+610215,61,해면어류,02,가자미류,15,점가자미,,Limanda schrenki,가자미과,Family Pleuronectidae,MF0007994
+610216,61,해면어류,02,가자미류,16,까지가자미,"Rock sole, Broadfin sole",Pleuronectes bilineatus,가자미과,Family Pleuronectidae,MF0002963
+610217,61,해면어류,02,가자미류,17,눈가자미,"Rikuzen flounder, Rikuzen sole, 눈가재미(한어)",Dexistes rikuzenius,가자미과,Family Pleuronectidae,MF0014032
+610218,61,해면어류,02,가자미류,18,말가자미,,,,,
+610219,61,해면어류,02,가자미류,19,주둥가자미,Righteye flounder,Pleuronectes proboscideus,가자미과,Family Pleuronectidae,MF0007334
+610220,61,해면어류,02,가자미류,20,검정가자미,Greenland halibut,Reinhardtius hippoglossoides,가자미과,Family Pleuronectidae,MF0003508
+610221,61,해면어류,02,가자미류,21,넙치가자미,,Laeops lanceolata,넙치과,Family Paralichthyidae,
+610222,61,해면어류,02,가자미류,22,마설가자미,Pacific halibut,Hippoglossus stenolepis,가자미과,Family Pleuronectidae,MF0006746
+610223,61,해면어류,02,가자미류,23,마소치가자미,Fladhead sole,Hippoglossoides elassodon,가자미과,Family Pleuronectidae,MF0006750
+610224,61,해면어류,02,가자미류,24,매듭가자미,Alaska plaice,Pleuronectes quadrituberculatus,가자미과,Family Pleuronectidae,MF0007336
+610225,61,해면어류,02,가자미류,25,별목탁가자미,,Bothus myriaster,둥글넙치과,Family Bothidae,
+610226,61,해면어류,02,가자미류,26,장수기름가자미,,Glyptocephalus zachirus,,,
+610227,61,해면어류,02,가자미류,27,찰가자미,Slime flounder,Microstomus achne,가자미과,Family Pleuronectidae,MF0003233
+610228,61,해면어류,02,가자미류,28,첨치가자미,Arrowtooth flounder,Atheresthes stomias,가자미과,Family Pleuronectidae,MF0013260
+610229,61,해면어류,02,가자미류,29,층거리가자미,"Sand flounder, longsnout flounder, 층거리가재미, 층거리(강원)",Pleuronectes punctatissima,가자미과,Family Pleuronectidae,MF0007337
+610230,61,해면어류,02,가자미류,30,터봇,,Psetta maxima,터봇과,Family Scophthalmidae,
+610231,61,해면어류,02,가자미류,31,까치가자미,,Lepidopsetta bilineata,가자미과,Family Pleuronectidae,
+610232,61,해면어류,02,가자미류,32,목탁가자미,,Arnoglossus japonicus,둥글넙치과,Family Bothidae,MF0015161
+610233,61,해면어류,02,가자미류,33,신월가자미,Crescent sole,Samariscus japonicus,신월가자미과,Family Samaridae,MF0004911
+610234,61,해면어류,02,가자미류,34,중설가자미,Tongue flatfish,Plagiopsetta glossa,신월가자미과,Family Samaridae,MF0004913
+610235,61,해면어류,02,가자미류,35,흰비늘가자미,,Laeops kitaharae,둥글넙치과,Family Bothidae ,
+610299,61,해면어류,02,가자미류,99,기타가자미류,,,,,
+610300,61,해면어류,03,갈치류,00,갈치류,,,,,
+610301,61,해면어류,03,갈치류,01,먹갈치,갈치의 상품분류명,Trichiurus lepturus,갈치과,Family Trichiuridae,MF0004393
+610302,61,해면어류,03,갈치류,02,은갈치,갈치의 상품분류명,Trichiurus lepturus,갈치과,Family Trichiuridae,MF0004393
+610303,61,해면어류,03,갈치류,03,갈치,"Largehead hairtail, 빈쟁이(통영), 풀치(전남에서 새끼를 말함),은갈치,먹갈치",Trichiurus lepturus,갈치과,Family Trichiuridae,MF0004393
+610304,61,해면어류,03,갈치류,04,동갈치,"Needle fish, gar fish, Pacific needlefish, 동가리갈치, 황달치(통영), 청갈치, 황알치, 공치아재비(전남)",Strongylura anastomella,동갈치과,Family Belonidae,MF0005576
+610305,61,해면어류,03,갈치류,05,분장어,,Eupleurogrammus muticus,갈치과,Family Trichiuridae,MF0009880
+610306,61,해면어류,03,갈치류,06,붕동갈치,,Assurger anzac,갈치과,Family Trichiuridae ,
+610399,61,해면어류,03,갈치류,99,기타갈치류,,,,,
+610400,61,해면어류,04,갈치꼬치류,00,갈치꼬치류,,,,,
+610401,61,해면어류,04,갈치꼬치류,01,흑갈치꼬치,"Escolar,기름치",Lepidocybium flavobrunneum,갈치꼬치과,Family Gempylidae,MF0005101
+610402,61,해면어류,04,갈치꼬치류,02,통치,Royal escolar,Rexea prometheoides,갈치꼬치과,Family Gempylidae,MF0002475
+610499,61,해면어류,04,갈치꼬치류,99,기타갈치꼬치류,,,,,
+610500,61,해면어류,05,강달이류,00,강달이류,,,,,
+610501,61,해면어류,05,강달이류,01,황강달이,"Big head croaker, 민강달이(한어),황석어",Collichthys lucidus,민어과,Family Sciaenidae,MF0014234
+610502,61,해면어류,05,강달이류,02,눈강달이,"Big head croaker, 강다리(전남), 청강달어(평남)",Collichthys niveatus,민어과,Family Sciaenidae,MF0014235
+610599,61,해면어류,05,강달이류,99,기타강달이류,,,,,
+610600,61,해면어류,06,개복치류,00,개복치류,,,,,
+610601,61,해면어류,06,개복치류,01,개복치,"common mola, trunkfish, Ocean sunfish, 안진복(부산, 경주), 골복짱이(영덕)",Mola mola,개복치과,Family Molidae,MF0003843
+610602,61,해면어류,06,개복치류,02,물개복치,Sharptail mola,Masturus lanceolatus,개복치과,Family Molidae,MF0003658
+610699,61,해면어류,06,개복치류,99,기타개복치류,,,,,
+610700,61,해면어류,07,게르치류,00,게르치류,,,,,
+610701,61,해면어류,07,게르치류,01,게르치,Gnomefish,Scombrops boops,게르치과,Family Pomatomidae,MF0003705
+610702,61,해면어류,07,게르치류,02,눈볼대,"Blackthroat seaperch, 눈퉁이, 눈뿔다구, 빨간고기(부산), 붉은고기",Doederleinia berycoides,반딧불게르치과,Family Acropomatidae,MF0001691
+610703,61,해면어류,07,게르치류,03,돗돔,"Striped jewfish,돌민어",Stereolepis doederleini,반딧불게르치과,Family Acropomatidae,MF0011736
+610704,61,해면어류,07,게르치류,04,눈퉁바리,,Malakichthys griseus,반딧불게르치과,Family Acropomatidae,
+610705,61,해면어류,07,게르치류,05,반딧불게르치,Glowbelly,Acropoma japonicum,반딧불게르치과,Family Acropomatidae,MF0008296
+610706,61,해면어류,07,게르치류,06,볼기우럭,"Silverbelly sea perch, Silverbelly perch",Malakichthys wakiyae,반딧불게르치과,Family Acropomatidae,MF0004526
+610707,61,해면어류,07,게르치류,07,은눈퉁바리,,Malakichthys elegans,반딧불게르치과,Family Acropomatidae,MF0011960
+610708,61,해면어류,07,게르치류,08,필립흙무굴치,,Synagrops philippinensis,반딧불게르치과,Family Acropomatidae,MF0006840
+610709,61,해면어류,07,게르치류,09,흙무굴치,Blackmouth spiltfin,Synagrops japonicus,반딧불게르치과,Family Acropomatidae,MF0006839
+610799,61,해면어류,07,게르치류,99,기타게르치류,,,,,
+610800,61,해면어류,08,고등어류,00,고등어류,,,,,
+610801,61,해면어류,08,고등어류,01,망치고등어,"Blue mackerel, Spotted chub mackerel, 고등어, 점고등어(부산)",Scomber australasicus,고등어과,Family Scombridae,MF0001594
+610802,61,해면어류,08,고등어류,02,고등어,"Common mackerel, Chub mackerel, 고동어(함남), 고망어(강원도), 고도어, 고도리, 열소고도리, 소고도리, 통소고도리(강원도)",Scomber japonicus,고등어과,Family Scombridae,MF0010790
+610803,61,해면어류,08,고등어류,03,몽치다래,"Bullet tuna, 몽치(제주도), 오고드리(통영)",Auxis rochei,고등어과,Family Scombridae,MF0001577
+610804,61,해면어류,08,고등어류,04,갈고등어,Amberstripe scad,Decapterus muroadsi,전갱이과,Family Carangidae,MF0009115
+610805,61,해면어류,08,고등어류,05,물치다래,뭉치다래,Auxis thazard,고등어과,Family Scombridae,MF0001576
+610806,61,해면어류,08,고등어류,06,재방어,,Scomberomorus sinensis,고등어과,Family Scombridae,
+610807,61,해면어류,08,고등어류,07,줄무늬고등어,Indian mackerel,Rastrelliger kanagurta,고등어과,Family Scombridae,MF0003520
+610899,61,해면어류,08,고등어류,99,기타고등어류,,,,,
+610900,61,해면어류,09,곰치류,00,곰치류,,,,,
+610901,61,해면어류,09,곰치류,01,곰치,,Gymnothorax kidako,곰치과,Family Muraenidae,
+610902,61,해면어류,09,곰치류,02,나망곰치,,Gymnothorax reticularis,곰치과,Family Muraenidae,MF0015203
+610999,61,해면어류,09,곰치류,99,기타곰치류,,,,,
+611000,61,해면어류,10,까나리류,00,까나리류,,,,,
+611001,61,해면어류,10,까나리류,01,까나리,"Pacific sandeel, Pacific sand lance, 양미리(강원)",Ammodytes personatus,까나리과,Family Ammodytidae,MF0011288
+611099,61,해면어류,10,까나리류,99,기타까나리류,,,,,
+611100,61,해면어류,11,꼬리치류,00,꼬리치류,,,,,
+611101,61,해면어류,11,꼬리치류,01,꼬리치,Pacific jellynose fish,Ateleopus japonicus,꼬리치과,Family Ateleopodidae,MF0013243
+611199,61,해면어류,11,꼬리치류,99,기타꼬리치류,,,,,
+611200,61,해면어류,12,꼬치고기류,00,꼬치고기류,,,,,
+611201,61,해면어류,12,꼬치고기류,01,꼬치고기,Red barracuda,Sphyraena pinguis,꼬치고기과,Family Sphyraenidae,MF0009496
+611202,61,해면어류,12,꼬치고기류,02,창꼬치,,Sphyraena obtusata,꼬치고기과,Family Sphyraenidae,MF0014094
+611203,61,해면어류,12,꼬치고기류,03,애꼬치,"Japanese barracuda, 꼬치고기, 꼬지",Sphyraena japonica,꼬치고기과,Family Sphyraenidae,MF0014095
+611299,61,해면어류,12,꼬치고기류,99,기타꼬치고기류,,,,,
+611300,61,해면어류,13,꼼치류,00,꼼치류,,,,,
+611301,61,해면어류,13,꼼치류,01,꼼치,Tanakas snailfish,Liparis tanakai,꼼치과,Family Liparidae,MF0008563
+611302,61,해면어류,13,꼼치류,02,물메기,Cubed snailfish,Liparis tessellatus,꼼치과,Family Liparidae,MF0008564
+611303,61,해면어류,13,꼼치류,03,물미거지,Barred snailfish,Crystallichthys matsushimae,꼼치과,Family Liparidae,MF0006787
+611304,61,해면어류,13,꼼치류,04,아가씨물메기,Agassiz's snailfish,Liparis agassizii,꼼치과,Family Liparidae,MF0008561
+611305,61,해면어류,13,꼼치류,05,노랑물메기,,Liparis chefuensis,꼼치과,Family Liparidae ,
+611306,61,해면어류,13,꼼치류,06,미거지,Okhotsk snailfish,Liparis ochotensis,꼼치과,Family Liparidae,MF0008562
+611307,61,해면어류,13,꼼치류,07,분홍꼼치,Salmon snailfish,Careproctus rastrinus,꼼치과,Family Liparidae,MF0009371
+611399,61,해면어류,13,꼼치류,99,기타꼼치류,,,,,
+611400,61,해면어류,14,꽁치류,00,꽁치류,,,,,
+611401,61,해면어류,14,꽁치류,01,꽁치,Pacific saury,Cololabis saira,꽁치과,Family Scomberesocidae,MF0007000
+611402,61,해면어류,14,꽁치류,02,과메기(꽁치),Pacific saury,Cololabis saira,꽁치과,Family Scomberesocidae,MF0007000
+611499,61,해면어류,14,꽁치류,99,기타꽁치류,,,,,
+611500,61,해면어류,15,나비고기류,00,나비고기류,,,,,
+611501,61,해면어류,15,나비고기류,01,나비고기,,Chaetodon auripes,나비고기과,Family Chaetodontidae,MF0018984
+611502,61,해면어류,15,나비고기류,02,가시나비고기,Threadfin butterflyfish,Chaetodon auriga,나비고기과,Family Chaetodontidae,MF0012513
+611503,61,해면어류,15,나비고기류,03,꼬리줄나비고기,,Chaetodon wiebeli,나비고기과,Family Chaetodontidae,
+611504,61,해면어류,15,나비고기류,04,나비돔,,Chaetodon nippon,나비고기과,Family Chaetodontidae,MF0012507
+611505,61,해면어류,15,나비고기류,05,두동가리돔,,Heniochus acuminatus,나비고기과,Family Chaetodontidae,MF0004716
+611506,61,해면어류,15,나비고기류,06,룰나비고기,,Chaetodon lunula,나비고기과,Family Chaetodontidae,
+611507,61,해면어류,15,나비고기류,07,세동가리돔,"Brown-banded butterfly fish, 세동가리돔(경남)",Chaetodon modestus,나비고기과,Family Chaetodontidae,MF0012508
+611599,61,해면어류,15,나비고기류,99,기타나비고기류,,,,,
+611600,61,해면어류,16,날개멸류,00,날개멸류,,,,,
+611601,61,해면어류,16,날개멸류,01,날개멸,,Bregmaceros japonicus,날개멸과,Family Bregmacerotidae,MF0002376
+611699,61,해면어류,16,날개멸류,99,기타날개멸류,,,,,
+611700,61,해면어류,17,날개줄고기류,00,날개줄고기류,,,,,
+611701,61,해면어류,17,날개줄고기류,01,날개줄고기,Sailfin poacher,Podothecus sachi,날개줄고기과,Family Agonidae,MF0000981
+611702,61,해면어류,17,날개줄고기류,02,갈키고기,,Pallasina barbata,날개줄고기과,Family Agonidae,
+611703,61,해면어류,17,날개줄고기류,03,고양이줄고기,,Hypsagonus jordani,날개줄고기과,Family Agonidae,
+611704,61,해면어류,17,날개줄고기류,04,곱추줄고기,,Hypsagonus proboscidalis,날개줄고기과,Family Agonidae,
+611705,61,해면어류,17,날개줄고기류,05,꽃줄고기,Bering poacher,Occella dodecaedron,날개줄고기과,Family Agonidae,MF0012782
+611706,61,해면어류,17,날개줄고기류,06,네줄고기,Dragon poacher,Percis japonicus,날개줄고기과,Family Agonidae,MF0013172
+611707,61,해면어류,17,날개줄고기류,07,말락줄고기,"Alligatorfish, Poacher",Podothecus sturiodes,날개줄고기과,Family Agonidae,MF0000980
+611708,61,해면어류,17,날개줄고기류,08,민어치,,Anoplagonus occidentalis,날개줄고기과,Family Agonidae,
+611709,61,해면어류,17,날개줄고기류,09,뿔줄고기,,Hypsagonus quadricornis,날개줄고기과,Family Agonidae,
+611710,61,해면어류,17,날개줄고기류,10,실줄고기,,Podothecus thompsoni,날개줄고기과,Family Agonidae,MF0000983
+611711,61,해면어류,17,날개줄고기류,11,왕눈줄고기,,Podothecus veternus,날개줄고기과,Family Agonidae,
+611712,61,해면어류,17,날개줄고기류,12,잔줄고기,,Brachyopsis rostrata,날개줄고기과,Family Agonidae,
+611713,61,해면어류,17,날개줄고기류,13,흑줄고기,,Tilesina gibbosa,날개줄고기과,Family Agonidae,MF0008761
+611714,61,해면어류,17,날개줄고기류,14,가시줄고기,,Hypsagonus corniger,날개줄고기과,Family Agonidae,MF0019442
+611715,61,해면어류,17,날개줄고기류,15,긴코줄고기,Longnose poacher,Leptagonus leptorhynchus,날개줄고기과,Family Agonidae,MF0003592
+611716,61,해면어류,17,날개줄고기류,16,팔각줄고기,,Podothecus hamlini,날개줄고기과,Family Agonidae,MF0015399
+611799,61,해면어류,17,날개줄고기류,99,기타날개줄고기류,,,,,
+611800,61,해면어류,18,날쌔기류,00,날쌔기류,,,,,
+611801,61,해면어류,18,날쌔기류,01,날쌔기,"Cobia, 날새기(전남)",Rachycentron canadum,날쌔기과,Family Rachycentridae,MF0006560
+611899,61,해면어류,18,날쌔기류,99,기타날쌔기류,,,,,
+611900,61,해면어류,19,날치류,00,날치류,,,,,
+611901,61,해면어류,19,날치류,01,날치,"Japanese flyingfish, 날치어, 날치(전남), 날치고기(강원)",Cypselurus agoo agoo,날치과,Family Exocoetidae,MF0012406
+611902,61,해면어류,19,날치류,02,날치알,"Japanese flyingfish, 날치어, 날치(전남), 날치고기(강원)",Cypselurus agoo agoo,날치과,Family Exocoetidae,MF0012406
+611903,61,해면어류,19,날치류,03,제비날치,Darkedged-wing flyingfish,Cypselurus hiraii,날치과,Family Exocoetidae,MF0012393
+611904,61,해면어류,19,날치류,04,새날치,,Cypselurus poecilopterus,날치과,Family Exocoetidae,MF0012394
+611905,61,해면어류,19,날치류,05,매날치,,Danichthys rondeletii,날치과,Family Exocoetidae,MF0000985
+611906,61,해면어류,19,날치류,06,상날치,,Exocoetus volitans,날치과,Family Exocoetidae,MF0000944
+611907,61,해면어류,19,날치류,07,황날치,,Parexocoetus brachypterus brachypterus,날치과,Family Exocoetidae,
+611999,61,해면어류,19,날치류,99,기타날치류,,,,,
+612000,61,해면어류,20,남극암치류,00,남극암치류,,,,,
+612001,61,해면어류,20,남극암치류,01,파타고니아이빨고기,"Patagonian toothfish,비막치어,파타니아이빨고기,메로",Dissostichus eleginoides,남극암치과,Family Nototheniidae,MF0007659
+612002,61,해면어류,20,남극암치류,02,남극이빨고기,TOA,Dissostichus mawsoni,남극암치과,Family Nototheniidae,MF0007658
+612099,61,해면어류,20,남극암치류,99,기타남극암치류,,,,,
+612100,61,해면어류,21,넙치류,00,넙치류,,,,,
+612101,61,해면어류,21,넙치류,01,넙치,"Bastard halibut, Oliver flounder, 광어(남한 일대), 넙(고저)",Paralichthys olivaceus,넙치과,Family Paralichthyidae,MF0008111
+612102,61,해면어류,21,넙치류,02,별넙치,Cinnamon flounder,Pseudorhombus cinnamoneus,넙치과,Family Paralichthyidae,MF0001441
+612103,61,해면어류,21,넙치류,03,왜넙치,,Tarphops oligolepis,넙치과,Family Paralichthyidae,
+612104,61,해면어류,21,넙치류,04,점넙치,"Fivespot flounder, 점넙치(전남)",Pseudorhombus pentophthalmus,넙치과,Family Paralichthyidae,MF0007362
+612105,61,해면어류,21,넙치류,05,풀넙치,Large-scale flounder,Citharoides macrolepidotus,풀넙치과,Family Citharidae,MF0012472
+612106,61,해면어류,21,넙치류,06,검은꼬리넙치,,Japonolaeops dentatus,둥글넙치과,Family Bothidae ,
+612107,61,해면어류,21,넙치류,07,좀넙치,,Tarphops elegans,넙치과,Family Paralichthyidae ,
+612199,61,해면어류,21,넙치류,99,기타넙치류,,,,,
+612200,61,해면어류,22,노랑벤자리류,00,노랑벤자리류,,,,,
+612201,61,해면어류,22,노랑벤자리류,01,노랑벤자리,Yellowsail red bass,Callanthias japonicus,노랑벤자리과,Family Callanthiidae,MF0000843
+612299,61,해면어류,22,노랑벤자리류,99,기타노랑벤자리류,,,,,
+612300,61,해면어류,23,노래미류,00,노래미류,,,,,
+612301,61,해면어류,23,노래미류,01,노래미,"Spottybelly greenling, 노르매, 노랭이, 놀래기, 졸락(제주도),놀래기",Hexagrammos agrammus,쥐노래미과,Family Hexagrammidae,MF0012648
+612302,61,해면어류,23,노래미류,02,임연수어,Okhostk atka mackerel,Pleurogrammus azonus,쥐노래미과,Family Hexagrammidae,MF0007326
+612303,61,해면어류,23,노래미류,03,쥐노래미,"Fat greenling, 석반어(평남), 게르치(부산)",Hexagrammos otakii,쥐노래미과,Family Hexagrammidae,MF0012645
+612304,61,해면어류,23,노래미류,04,단기임연수어,Atka mackerel,Pleurogrammus monopterygius,쥐노래미과,Family Hexagrammidae,MF0007333
+612305,61,해면어류,23,노래미류,05,줄노래미,Rock greenling,Hexagrammos octogrammus,쥐노래미과,Family Hexagrammidae,MF0012644
+612399,61,해면어류,23,노래미류,99,기타노래미류,,,,,
+612400,61,해면어류,24,노메치류,00,노메치류,,,,,
+612401,61,해면어류,24,노메치류,01,동강연치,"Shortfin cigarfish, Indian driftfish",Cubiceps squamiceps,노메치과,Family Nomeidae,MF0006783
+612499,61,해면어류,24,노메치류,99,기타노메치류,,,,,
+612500,61,해면어류,25,놀래기류,00,놀래기류,,,,,
+612501,61,해면어류,25,놀래기류,01,놀래기,,Halichoeres tenuispinnis,놀래기과,Family Labridae,
+612502,61,해면어류,25,놀래기류,02,용치놀래기,"Multicolorfin rainbowfish, 용치(전남), 술맹이(제주도), 이놀래기(포항), 수멩이(통영), 술뱅이(부산)",Halichoeres poecilopterus,놀래기과,Family Labridae,MF0009745
+612503,61,해면어류,25,놀래기류,03,고생놀래기,,Thalassoma cupido,놀래기과,Family Labridae,
+612504,61,해면어류,25,놀래기류,04,꼬치놀래기,,Cheilio inermis,놀래기과,Family Labridae,
+612505,61,해면어류,25,놀래기류,05,무지개놀래기,,Stethojulis interrupta terina,놀래기과,Family Labridae,
+612506,61,해면어류,25,놀래기류,06,비단놀래기,,Thalassoma purpureum,놀래기과,Family Labridae,
+612507,61,해면어류,25,놀래기류,07,사당놀래기,,Bodianus bilunulatus,놀래기과,Family Labridae,
+612508,61,해면어류,25,놀래기류,08,사랑놀래기,"Blackspot hogfish, banded pigfish, rainbowfish, 사랑고기",Bodianus oxycephalus,놀래기과,Family Labridae,MF0002822
+612509,61,해면어류,25,놀래기류,09,실놀래기,,Pseudolabrus gracilis,놀래기과,Family Labridae,
+612510,61,해면어류,25,놀래기류,10,실용치,,Cirrhilabrus temmincki,놀래기과,Family Labridae,
+612511,61,해면어류,25,놀래기류,11,어렝놀래기,"Cocktail wrasse, cocktail fish, 어렝이(제주도)",Pteragogus flagellifer,놀래기과,Family Labridae,MF0007935
+612512,61,해면어류,25,놀래기류,12,옥두놀래기,Goddes razorfish,Xyrichtys dea,놀래기과,Family Labridae,MF0009136
+612513,61,해면어류,25,놀래기류,13,청줄청소놀래기,,Labroides dimidiatuus,놀래기과,Family Labridae,
+612514,61,해면어류,25,놀래기류,14,호박돔,Scarbreast tuskfish,Choerodon azurio,놀래기과,Family Labridae,MF0000038
+612515,61,해면어류,25,놀래기류,15,혹돔,,Semicossyphus reticulatus,놀래기과,Family Labridae,MF0001167
+612516,61,해면어류,25,놀래기류,16,황놀래기,"Bambooleaf wrasse, 황놀래기(경북)",Pseudolabrus sieboldi,놀래기과,Family Labridae,MF0000132
+612599,61,해면어류,25,놀래기류,99,기타놀래기류,,,,,
+612600,61,해면어류,26,농어류,00,농어류,,,,,
+612601,61,해면어류,26,농어류,01,농어,"Japanese seaperch, Japanese seabass, 농에(경남 통영), 까지맥이(부산), 깔다구(전남, 춘천), 껄떡이(전남, 완도)",Lateolabrax japonicus,농어과,Family Moronidae,MF0010664
+612602,61,해면어류,26,농어류,02,점농어,"Spotted sea bass, 농어",Lateolabrax maculatus,농어과,Family Moronidae,MF0002938
+612603,61,해면어류,26,농어류,03,넙치농어,,Lateolabrax latus,농어과,Family Moronidae,
+612699,61,해면어류,26,농어류,99,기타농어류,,,,,
+612700,61,해면어류,27,눈퉁이류,00,눈퉁이류,,,,,
+612701,61,해면어류,27,눈퉁이류,01,꼬리점눈퉁이,,Bembrops caudimacula,꼬리점눈퉁이과,Family Percophidae,MF0009517
+612702,61,해면어류,27,눈퉁이류,02,줄굽은눈퉁이,Flathead,Bembrops curvatura,꼬리점눈퉁이과,Family Percophidae,MF0009518
+612799,61,해면어류,27,눈퉁이류,99,기타눈퉁이류,,,,,
+612800,61,해면어류,28,다동가리류,00,다동가리류,,,,,
+612801,61,해면어류,28,다동가리류,01,아홉동가리,Morwong,Goniistius zonatus,다동가리과,Family Cheilodactylidae,MF0002146
+612802,61,해면어류,28,다동가리류,02,여덟동가리,"Black-barred morwong, 열덟동가리(부산)",Goniistius quadricornis,다동가리과,Family Cheilodactylidae,MF0002147
+612899,61,해면어류,28,다동가리류,99,기타다동가리류,,,,,
+612900,61,해면어류,29,다랑어류,00,다랑어류,,,,,
+612901,61,해면어류,29,다랑어류,01,가다랑어,"Skipjack tuna, 가다리, 에다대, 여다랭이, 강고등어(경남), 소용치, 목맨둥이, 다랭이(포항)",Katsuwonus pelamis,고등어과,Family Scombridae,MF0006689
+612902,61,해면어류,29,다랑어류,02,점다랑어,"Kawakawa, Mackereltuna",Euthynnus affinis,고등어과,Family Scombridae,MF0000336
+612903,61,해면어류,29,다랑어류,03,참다랑어,"Bluefin tuna, 참다랭이, 다랭이, 다랑어, 참치(강원), 태평양참다랑어",Thunnus orientalis,고등어과,Family Scombridae,MF0001149
+612904,61,해면어류,29,다랑어류,04,눈다랑어,"Bigeye tuna, 눈다랭이",Thunnus obesus,고등어과,Family Scombridae,MF0001151
+612905,61,해면어류,29,다랑어류,05,황다랑어,Yellowfin tuna,Thunnus albacares,고등어과,Family Scombridae,MF0001143
+612906,61,해면어류,29,다랑어류,06,남방참다랑어,,Thunnus maccoyii,고등어과,Family Scombridae,
+612907,61,해면어류,29,다랑어류,07,날개다랑어,Albacore,Thunnus alalunga,고등어과,Family Scombridae,MF0001142
+612908,61,해면어류,29,다랑어류,08,백다랑어,Longtail tuna,Thunnus tonggol,고등어과,Family Scombridae,MF0001139
+612909,61,해면어류,29,다랑어류,09,스리랑카다랑어,,,고등어과,Family Scombridae,
+612910,61,해면어류,29,다랑어류,10,북방참다랑어,,Thunnus thynnus,고등어과,Family Scombridae,
+612999,61,해면어류,29,다랑어류,99,기타다랑어류,,,,,
+613000,61,해면어류,30,달고기류,00,달고기류,,,,,
+613001,61,해면어류,30,달고기류,01,달고기,"John dory,점돔,점도미",Zeus faber,달고기과,Family Zeidae,MF0007688
+613002,61,해면어류,30,달고기류,02,블랙오레오도리,,Allocyttus niger,,,
+613003,61,해면어류,30,달고기류,03,남방달고기,스므스오레오도리,Pseudocyttus maculatus,,,MF0006633
+613004,61,해면어류,30,달고기류,04,민달고기,"Mirror dory, 민전갱이(전남)",Zenopsis nebulosa,달고기과,Family Zeidae,MF0014366
+613099,61,해면어류,30,달고기류,99,기타달고기류,,,,,
+613100,61,해면어류,31,대구류,00,대구류,,,,,
+613101,61,해면어류,31,대구류,01,대구,"Pacific cod, 대구어, 대두어(통영), 대기(함남)",Gadus macrocephalus,대구과,Family Gadidae,MF0005786
+613102,61,해면어류,31,대구류,02,민대구,,,대구목,Order Gadiformes,
+613103,61,해면어류,31,대구류,03,대구알,,Gadus macrocephalus,대구과,Family Gadidae,MF0005786
+613104,61,해면어류,31,대구류,04,검정대구,,Pollachius virens,,,
+613105,61,해면어류,31,대구류,05,은대구,,Anoplopoma fimbria,,,MF0019007
+613106,61,해면어류,31,대구류,06,빨간대구,Saffron cod,Eleginus gracilis,대구과,Family Gadidae,MF0004040
+613107,61,해면어류,31,대구류,07,은민대구,Southern hake,Merluccius australis,민대구과,Family Merlucciidae,MF0005314
+613108,61,해면어류,31,대구류,08,대구곤이(이리),"고니, 이리, 곤",Gadus macrocephalus,대구과,Family Gadidae,MF0005786
+613109,61,해면어류,31,대구류,09,남방대구,"Hake, Blue grenadier,새꼬리민태",Macruronus novaezalandiae,남방대구과,Family Macruronidae,MF0006979
+613110,61,해면어류,31,대구류,10,수염대구,,Rhinonemus cimbrius,수염대구과,Family Phycidae,
+613111,61,해면어류,31,대구류,11,파타고니민태,파타마니민태,Macruronus magellanicus,,,MF0006980
+613112,61,해면어류,31,대구류,12,남부블루화이팅,,,,,
+613113,61,해면어류,31,대구류,13,청대구,Blue whiting,Micromesistius poutassou,대구과,Family Gadidae,MF0002593
+613114,61,해면어류,31,대구류,14,극지대구,"Arctic cod, Polar cod",Boreogadus saida,대구과,Family Gadidae,MF0011312
+613115,61,해면어류,31,대구류,15,놀락민태,,Lotella phycis,돌대구과,Family Moridae,
+613116,61,해면어류,31,대구류,16,모오케,"Burbot, 모캐",Lota lota,대구과,Family Gadidae,MF0007788
+613117,61,해면어류,31,대구류,17,해덕대구,해덕,Melanogrammus aeglefinus,대구과,Family Gadidae,
+613118,61,해면어류,31,대구류,18,돌대구,,Physiculus japonicus,돌대구과,Family Moridae ,
+613119,61,해면어류,31,대구류,19,짧은수염대구,,Laemonema nana,돌대구과,Family Moridae ,
+613120,61,해면어류,31,대구류,20,태평수염대구,Common mora,Mora moro,돌대구과,Family Moridae,MF0009834
+613199,61,해면어류,31,대구류,99,기타대구류,,,,,
+613200,61,해면어류,32,대주둥치류,00,대주둥치류,,,,,
+613201,61,해면어류,32,대주둥치류,01,대주둥치,Snipefish,Macrorhamphosus scolopax,대주둥치과,Family Macroramphosidae,MF0006968
+613299,61,해면어류,32,대주둥치류,99,기타대주둥치류,,,,,
+613300,61,해면어류,33,대치류,00,대치류,,,,,
+613301,61,해면어류,33,대치류,01,청대치,Red cornetfish,Fistularia petimba,대치과,Family Fistulariidae,MF0008095
+613302,61,해면어류,33,대치류,02,홍대치,Bluespotted cornetfish,Fistularia commersonii,대치과,Family Fistulariidae,MF0008094
+613399,61,해면어류,33,대치류,99,기타대치류,,,,,
+613400,61,해면어류,34,도루묵류,00,도루묵류,,,,,
+613401,61,해면어류,34,도루묵류,01,도루묵,"Sailfin sandfish, 도루묵이, 도루매이, 은어, 도루맥이(함남)",Arctoscopus japonicus,도루묵과,Family Trichodontidae,MF0011167
+613499,61,해면어류,34,도루묵류,99,기타도루묵류,,,,,
+613500,61,해면어류,35,도치류,00,도치류,,,,,
+613501,61,해면어류,35,도치류,01,뚝지,"Smooth lumpsucker, 뚝저구, 도치, 씬퉁이",Aptocyclus ventricosus,도치과,Family Cyclopteridae,MF0011630
+613502,61,해면어류,35,도치류,02,골린어,,Eumicrotremus Pacificus,도치과,Family Cyclopteridae,
+613503,61,해면어류,35,도치류,03,우릉성치,,Eumicrotremus birulai,도치과,Family Cyclopteridae,MF0003307
+613504,61,해면어류,35,도치류,04,꼬마도치,,Cyclopteropsis bergi,도치과,Family Cyclopteridae ,
+613505,61,해면어류,35,도치류,05,도치,,Eumicrotremus orbis,도치과,Family Cyclopteridae,MF0015225
+613506,61,해면어류,35,도치류,06,엄지도치,,Lethotremus awae,도치과,Family Cyclopteridae ,
+613599,61,해면어류,35,도치류,99,기타도치류,,,,,
+613600,61,해면어류,36,독가시치류,00,독가시치류,,,,,
+613601,61,해면어류,36,독가시치류,01,독가시치,"Mottled spinefoot, Dusky spinefoot, Rabbitfish, 따치(제주도)",Siganus fuscescens,독가시치과,Family Siganidae,MF0004344
+613699,61,해면어류,36,독가시치류,99,기타독가시치류,,,,,
+613700,61,해면어류,37,돔류,00,돔류,,,,,
+613701,61,해면어류,37,돔류,01,감성돔,"Black porgy, Black sea bream, 감성어, 감상어(전남), 감성도미(경북), 감셍이(부산), 구릿(제주도), 맹이, 남정바리(강원도)",Acanthopagrus schlegelii,도미과,Family Sparidae,MF0011670
+613702,61,해면어류,37,돔류,02,참돔,Red seabream,Pagrus major,도미과,Family Sparidae,MF0008712
+613703,61,해면어류,37,돔류,03,옥돔,Red tilefish,Branchiostegus japonicus,옥돔과,Family Malacanthidae,MF0002379
+613704,61,해면어류,37,돔류,04,등흑점옥두어,Silver horsehead,Branchiostegus argentatus,옥돔과,Family Malacanthidae,MF0002369
+613705,61,해면어류,37,돔류,05,갈돔,갈돔,Lethrinus nebulosus,갈돔과,Family Lethrinidae,MF0008690
+613706,61,해면어류,37,돔류,06,돌돔,"Barred knifejaw, rock bream, 청돔(충남), 아홉동가리(경남)",Oplegnathus fasciatus,돌돔과,Family Oplegnathidae,MF0003442
+613707,61,해면어류,37,돔류,07,붉돔,"Red porgy, crimson seabream, 붉도미, 상사리, 풋잎상사리(전남)",Evynnis japonica,도미과,Family Sparidae,MF0000949
+613708,61,해면어류,37,돔류,08,샛돔,"Butterfish,눈샛돔",Psenopsis anomala,샛돔과,Family Centrolophidae,MF0005217
+613709,61,해면어류,37,돔류,09,동갈돗돔,Black grunt,Hapalogenys nitens,하스돔과,Family Haemulidae,MF0009847
+613710,61,해면어류,37,돔류,10,노랑띠자붉돔,Goldbanded jobfish,Pristipomoides multidens,퉁돔과,Family Lutjanidae,MF0010486
+613711,61,해면어류,37,돔류,11,동방실꼬리돔,,Nemipterus aurora,실꼬리돔과,Family Nemipteridae,
+613712,61,해면어류,37,돔류,12,자리돔,"Coralfish, whitesaddled reeffish, pearl-spot chromis, 자돔, 자리(제주도), 생이리(통영)",Chromis notatus,자리돔과,Family Pomacentridae,MF0006803
+613713,61,해면어류,37,돔류,13,흑돔,Black Seabream,Spondyliosoma cantharus,도미과,Family Sparidae,MF0013459
+613714,61,해면어류,37,돔류,14,황돔,"Yellowback seabream, 옥돔(완도, 청산도), 발서청어, 빌전청어(남해안), 벨조쟁이 생선(제주도)",Dentex tumifrons,도미과,Family Sparidae,MF0013564
+613715,61,해면어류,37,돔류,15,꼬리돔,,Etelis carbunculus,퉁돔과,Family Lutjanidae,
+613716,61,해면어류,37,돔류,16,녹줄돔,Threadfin porgy,Evynnis cardinalis,도미과,Family Sparidae,MF0000951
+613717,61,해면어류,37,돔류,17,쥐돔,Scalpel sawtail,Prionurus scalprum,양쥐돔과,Family Acanthuridae,MF0003354
+613718,61,해면어류,37,돔류,18,벵에돔,"Rudder fish, Largescale blackfish, 깜정이, 깜정고기(전남),벵어돔",Girella punctata,황줄깜정이과,Family Kyphosidae,MF0005359
+613719,61,해면어류,37,돔류,19,동갈돔,,,농어목,Order Perciformes,
+613720,61,해면어류,37,돔류,20,강담돔,"Rock porgy, spotted knifejaw, 강담돔(전남)",Oplegnathus punctatus,돌돔과,Family Oplegnathidae,MF0001901
+613721,61,해면어류,37,돔류,21,금눈돔,"Broad alfonsino, golden-eye perch",Beryx decadactylus,금눈돔과,Family Berycidae,MF0001537
+613722,61,해면어류,37,돔류,22,독돔,Banjiofish,Banjos banjos,독돔과,Family Banjosidae,MF0006664
+613723,61,해면어류,37,돔류,23,홍치,Red bigeye,Priacanthus macracanthus,뿔돔과,Family Priacanthidae,MF0009689
+613724,61,해면어류,37,돔류,24,금색돔,Squirefish,Chrysophrys auratus,도미과,Family Sparidae,MF0005873
+613725,61,해면어류,37,돔류,25,뉴지샛돔,,Hyperoglyphe antarctica,,,
+613726,61,해면어류,37,돔류,26,청돔,,Sparus sarba,도미과,Family Sparidae,MF0006051
+613727,61,해면어류,37,돔류,27,군평선이,Belted beard grunt,Hapalogenys mucronatus,하스돔과,Family Haemulidae,MF0009845
+613728,61,해면어류,37,돔류,28,남방샛돔,,,,,
+613729,61,해면어류,37,돔류,29,연어병치,Pacific barrelfish,Hyperoglyphe japonica,샛돔과,Family Centrolophidae,MF0014808
+613730,61,해면어류,37,돔류,30,벤자리,Chicken grunt,Parapristipoma trilineatum,하스돔과,Family Haemulidae,MF0013789
+613731,61,해면어류,37,돔류,31,뿔돔,"Longfinned bullseye, 깍다구(부산)",Cookeolus boops,뿔돔과,Family Priacanthidae,MF0013042
+613732,61,해면어류,37,돔류,32,사자구돔,Armorhead,Pentaceros japonicus,황줄돔과,Family Pentacerotidae,MF0013181
+613733,61,해면어류,37,돔류,33,어름돔,"Crescent sweetlips, 도미(부산), 어름돔(다도해)",Plectorhynchus cinctus,하스돔과,Family Haemulidae,MF0006013
+613734,61,해면어류,37,돔류,34,은샛돔,,,,,
+613735,61,해면어류,37,돔류,35,청황돔,Painted sweetlips,Diagramma pictum,하스돔과,Family Haemulidae,MF0014528
+613736,61,해면어류,37,돔류,36,하스돔,Silver grunt,Pomadasys argenteus,하스돔과,Family Haemulidae,MF0013418
+613737,61,해면어류,37,돔류,37,구갈돔,Chinese emperor,Lethrinus haematopterus,갈돔과,Family Lethrinidae,MF0013692
+613738,61,해면어류,37,돔류,38,궁상퉁돔,Humpback red snapper,Lutjanus gibbus,퉁돔과,Family Lutjanidae,MF0006446
+613739,61,해면어류,37,돔류,39,까치돔,,Gymnocranius griseus,갈돔과,Family Lethrinidae,MF0012096
+613740,61,해면어류,37,돔류,40,꼽새돔,,Hapalogenys nigripinnis,하스돔과,Family Haemulidae,MF0009848
+613741,61,해면어류,37,돔류,41,납작금눈돔,Big roughy,Gephyroberyx japonicus,납작금눈돔과,Family Trachichthyidae ,MF0019164
+613742,61,해면어류,37,돔류,42,네동가리,Threadfin bream,Parascolopsis inermis,실꼬리돔과,Family Nemipteridae,MF0013783
+613743,61,해면어류,37,돔류,43,노랑자리돔,Yellow chromis,Chromis analis,자리돔과,Family Pomacentridae,MF0014050
+613744,61,해면어류,37,돔류,44,눈퉁군평선,,Hapalogenys kishinouyei,하스돔과,Family Haemulidae,
+613745,61,해면어류,37,돔류,45,도화돔,"Ostichthys japonicus, Hardscale soldierfish, Deepwater squirrelfish, 바다붕어(여수)",Ostichthys japonicus,얼게돔과,Family Holocentridae,MF0012020
+613746,61,해면어류,37,돔류,46,동갈자돔,,Abudefduf notatus,자리돔과,Family Pomacentridae,
+613747,61,해면어류,37,돔류,47,동갈퉁돔,,Lutjanus vitta,퉁돔과,Family Lutjanidae,MF0013323
+613748,61,해면어류,37,돔류,48,두동갈얼게비늘,,Apogon taeniatus,동갈돔과,Family Apogonidae,
+613749,61,해면어류,37,돔류,49,둥글돔,,Pristigenys niphonia,뿔돔과,Family Priacanthidae,MF0003360
+613750,61,해면어류,37,돔류,50,먹얼게비늘,,Apogon niger,동갈돔과,Family Apogonidae,
+613751,61,해면어류,37,돔류,51,먹테얼게비늘,"Ocellated cardinalfish, Spotsail cardinalfish",Apogon carinatus,동갈돔과,Family Apogonidae,MF0004674
+613752,61,해면어류,37,돔류,52,무늬얼게돔,,Neoniphon sammara,얼게돔과,Family Holocentridae,
+613753,61,해면어류,37,돔류,53,무늬퉁돔,,Lutjanus monostigma,퉁돔과,Family Lutjanidae,MF0013327
+613754,61,해면어류,37,돔류,54,물릉돔,Bluefin driftfish,Psenes pellucidus,노메치과,Family Nomeidae,MF0012591
+613755,61,해면어류,37,돔류,55,물퉁돔,,Lutjanus rivulatus,퉁돔과,Family Lutjanidae,MF0013328
+613756,61,해면어류,37,돔류,56,민동갈돔,,Gymnapogon japonicus,동갈돔과,Family Apogonidae,
+613757,61,해면어류,37,돔류,57,백미돔,Atlantic triple tail,Lobotes surinamensis,백미돔과,Family Lobotidae,MF0010912
+613758,61,해면어류,37,돔류,58,병치돔,,Antigonia capros,병치돔과,Family Caproidae,MF0011434
+613759,61,해면어류,37,돔류,59,보라기름눈돔,Indian arimma,Ariomma indica,보라기름눈돔과,Family Ariommatidae,MF0004142
+613760,61,해면어류,37,돔류,60,북방돗돔,Slender armorhead,Pentaceros wheeleri,황줄돔과,Family Pentacerotidae,MF0019224
+613761,61,해면어류,37,돔류,61,붉퉁돔,"Blood snapper, Crimson snapper",Lutjanus erythropterus,퉁돔과,Family Lutjanidae,MF0006447
+613762,61,해면어류,37,돔류,62,블랙카디널피쉬,Blackcardinalfish,Epigonus telescopus,,,
+613763,61,해면어류,37,돔류,63,비늘돔,,Calotomus japonicus,파랑비늘돔과,Family Scaridae,
+613764,61,해면어류,37,돔류,64,비늘적투어,,Myripristis botche,얼게돔과,Family Holocentridae ,
+613765,61,해면어류,37,돔류,65,빛금눈돔,Splendid alfonsino,Beryx splendens,금눈돔과,Family Berycidae,MF0001536
+613766,61,해면어류,37,돔류,66,사자구,Armorhead,Pentaceros japonicus,황줄돔과,Family Pentacerotidae,MF0013181
+613767,61,해면어류,37,돔류,67,새눈치,,Acanthopagrus latus,도미과,Family Sparidae,MF0011675
+613768,61,해면어류,37,돔류,68,세줄가는돔,,Pterocaesio trilineata,퉁돔과,Family Lutjanidae,
+613769,61,해면어류,37,돔류,69,세줄얼게비늘,,Apogon doederleini,동갈돔과,Family Apogonidae,
+613770,61,해면어류,37,돔류,70,실꼬리돔,Golden threadfin bream,Nemipterus virgatus,실꼬리돔과,Family Nemipteridae,MF0012612
+613771,61,해면어류,37,돔류,71,실붉돔,King soldier bream,Argyrops bleekeri,도미과,Family Sparidae,MF0004083
+613772,61,해면어류,37,돔류,72,얼게돔,,Sargocentron spinosissimum,얼게돔과,Family Holocentridae,
+613773,61,해면어류,37,돔류,73,얼게비늘,,Apogon spp.,동갈돔과,Family Apogonidae ,
+613774,61,해면어류,37,돔류,74,연무자리돔,Smokey chromis,Chromis fumea,자리돔과,Family Pomacentridae,MF0014051
+613775,61,해면어류,37,돔류,75,열동가리돔,"Indian perch, 열동가리(경남)",Apogon lineatus,동갈돔과,Family Apogonidae,MF0011635
+613776,61,해면어류,37,돔류,76,오렌지라피,,Hoplpstethus atlanticus,,,
+613777,61,해면어류,37,돔류,77,옥두어,Yellow horsehead,Branchiostegus albus,옥돔과,Family Malacanthidae,MF0002370
+613778,61,해면어류,37,돔류,78,육동가리돔,,Evistias acutirostris,황줄돔과,Family Pentacerotidae,MF0008595
+613779,61,해면어류,37,돔류,79,자붉돔,Lavender jobfish,Pristipomoides sieboldii,퉁돔과,Family Lutjanidae,MF0010485
+613780,61,해면어류,37,돔류,80,적투어,,Myripristis murdjan,얼게돔과,Family Holocentridae,
+613781,61,해면어류,37,돔류,81,점자돔,,Neopomacentrus violascens,자리돔과,Family Pomacentridae,
+613782,61,해면어류,37,돔류,82,점퉁돔,,Lutjanus russelli,퉁돔과,Family Lutjanidae,MF0013325
+613783,61,해면어류,37,돔류,83,조니퉁돔,Johns snapper,Lutjanus johnii,퉁돔과,Family Lutjanidae,MF0013329
+613784,61,해면어류,37,돔류,84,줄갈돔,"Longspine emperor, 줄갈돔(한어)",Lethrinus genivittatus,갈돔과,Family Lethrinidae,MF0013693
+613785,61,해면어류,37,돔류,85,줄도화돔,"Half-lined cardinal, cardinal-fish, 도화돔(전남)",Apogon semilineatus,동갈돔과,Family Apogonidae,MF0011638
+613786,61,해면어류,37,돔류,86,줄자돔,,Abudefduf sordidus,자리돔과,Family Pomacentridae,MF0009320
+613787,61,해면어류,37,돔류,87,진홍퉁돔,"Malabar blood snapper, Malabar red snapper",Lutjanus malabaricus,퉁돔과,Family Lutjanidae,MF0013330
+613788,61,해면어류,37,돔류,88,청줄돔,,Chaetodontoplus septentrionalis,청줄돔과,Family Pomacanthidae,MF0006155
+613789,61,해면어류,37,돔류,89,큰눈돔,Large-eye dentex,Dentex macrophthalmus,도미과,Family Sparidae,MF0013560
+613790,61,해면어류,37,돔류,90,큰줄얼게비늘,Rifle cardinalfish,Apogon kiensis,동갈돔과,Family Apogonidae,MF0011634
+613791,61,해면어류,37,돔류,91,퉁돔,,Family Lutjanidae,농어목,Order Perciformes,
+613792,61,해면어류,37,돔류,92,파랑돔,,Pomacentrus coelestis,자리돔과,Family Pomacentridae,
+613793,61,해면어류,37,돔류,93,파랑비늘돔,,Scarus ovifrons,파랑비늘돔과,Family Scaridae,
+613794,61,해면어류,37,돔류,94,파랑제왕갈돔,Grass emperor,Lethrinus laticaudis,갈돔과,Family Lethrinidae,MF0008692
+613795,61,해면어류,37,돔류,95,파랑줄돔,,Pomacentrus bankanensis,자리돔과,Family Pomacentridae,
+613796,61,해면어류,37,돔류,96,해포리고기,,Abudefduf vaigiensis,자리돔과,Family Pomacentridae,
+613797,61,해면어류,37,돔류,97,홍옥치,,Priacanthus hamrur,뿔돔과,Family Priacanthidae,MF0009688
+613798,61,해면어류,37,돔류,98,황등어,,Paracaesio xanthura,퉁돔과,Family Lutjanidae,
+613799,61,해면어류,37,돔류,99,황옥돔,Yellow horsehead,Branchiostegus auratus,옥돔과,Family Malacanthidae,MF0002380
+6137A0,61,해면어류,37,돔류,A0,황적퉁돔,Emperor red snapper,Lutjanus sebae,퉁돔과,Family Lutjanidae,MF0013326
+6137A1,61,해면어류,37,돔류,A1,황줄돔,Sailfin armourhead,Histiopterus typus,황줄돔과,Family Pentacerotidae,MF0005684
+6137A2,61,해면어류,37,돔류,A2,황줄실꼬리돔,,Nemipterus japonicus,실꼬리돔과,Family Nemipteridae,
+6137A3,61,해면어류,37,돔류,A3,흑점샛돔,Silver warehou,Seriolella punctata,샛돔과,Family Centrolophidae,MF0012932
+6137A4,61,해면어류,37,돔류,A4,흰동가리,,Amphiprion polymnus,자리돔과,Family Pomacentridae,
+6137ZZ,61,해면어류,37,돔류,ZZ,기타돔류,,,,,
+613800,61,해면어류,38,돚양태류,00,돚양태류,,,,,
+613801,61,해면어류,38,돚양태류,01,동갈양태,"Richardsons dragonet, 동갈양태, 동가리양태(경남)",Repomucenus richardsonii,돛양태과,Family Callionymidae,MF0010894
+613899,61,해면어류,38,돚양태류,99,기타돚양태류,,,,,
+613900,61,해면어류,39,둑중개류,00,둑중개류,,,,,
+613901,61,해면어류,39,둑중개류,01,대구횟대,Black edged sculpin,Gymnocanthus herzensteini,둑중개과,Family Cottidae,MF0012102
+613902,61,해면어류,39,둑중개류,02,동갈횟대,Sculpin,Hemilepidotus gilberti,둑중개과,Family Cottidae,MF0010958
+613903,61,해면어류,39,둑중개류,03,꼬마횟대,,Cottiusculus gonez,둑중개과,Family Cottidae,MF0011492
+613904,61,해면어류,39,둑중개류,04,가시꺽정이,,Ocynectes maschalis,둑중개과,Family Cottidae,
+613905,61,해면어류,39,둑중개류,05,가시망둑,가시망둑어,Pseudoblennius cottoides,둑중개과,Family Cottidae,MF0007899
+613906,61,해면어류,39,둑중개류,06,가시횟대,,Gymnocanthus intermedius,둑중개과,Family Cottidae,MF0012103
+613907,61,해면어류,39,둑중개류,07,개구리꺽정이,Frog sculpin,Myoxocephalus stelleri,둑중개과,Family Cottidae,MF0008554
+613908,61,해면어류,39,둑중개류,08,골판횟대,Spectacled sculpin,Triglops scepticus,둑중개과,Family Cottidae,MF0014311
+613909,61,해면어류,39,둑중개류,09,꺽정이,"Roughskin sculpin, 거슬횟대어",Trachidermus fasciatus,둑중개과,Family Cottidae,MF0009710
+613910,61,해면어류,39,둑중개류,10,눈퉁횟대,,Triglops pingeli,둑중개과,Family Cottidae,MF0010995
+613911,61,해면어류,39,둑중개류,11,돌망둑이,,Pseudoblennius marmoratus,둑중개과,Family Cottidae,
+613912,61,해면어류,39,둑중개류,12,돌팍망둑,"Perch sculpin,돌팍망둑어",Pseudoblennius percoides,둑중개과,Family Cottidae,MF0007896
+613913,61,해면어류,39,둑중개류,13,띠좀횟대,,Pseudoblennius zonostigma,둑중개과,Family Cottidae,
+613914,61,해면어류,39,둑중개류,14,무늬횟대,,Furcina oshimae,둑중개과,Family Cottidae,
+613915,61,해면어류,39,둑중개류,15,밑횟대,,Gymnocanthus pistilliger,둑중개과,Family Cottidae,MF0012099
+613916,61,해면어류,39,둑중개류,16,베로치,,Bero elegans,둑중개과,Family Cottidae,
+613917,61,해면어류,39,둑중개류,17,빨간횟대,"Sculpin, 빨간횟대(함북)",Alcichthys alcicornis,둑중개과,Family Cottidae,MF0008946
+613918,61,해면어류,39,둑중개류,18,뿔횟대,,Enophrys diceraus,둑중개과,Family Cottidae,MF0002903
+613919,61,해면어류,39,둑중개류,19,살꺽정이,Great sculpin,Myoxocephalus polyacanthocephalus,둑중개과,Family Cottidae,MF0008553
+613920,61,해면어류,39,둑중개류,20,상어횟대,,Ricuzenius pinetorum,둑중개과,Family Cottidae,
+613921,61,해면어류,39,둑중개류,21,송곳횟대,,Taurocottus bergi,둑중개과,Family Cottidae,MF0001761
+613922,61,해면어류,39,둑중개류,22,실횟대,,Porocottus tentaculatus,둑중개과,Family Cottidae,
+613923,61,해면어류,39,둑중개류,23,아셀횟대,,Icelus uncinalis,둑중개과,Family Cottidae,
+613924,61,해면어류,39,둑중개류,24,알롱횟대,,Furcina ishikawae,둑중개과,Family Cottidae,
+613925,61,해면어류,39,둑중개류,25,올꺽정이,Plain sculpin,Myoxocephalus jaok,둑중개과,Family Cottidae,MF0008552
+613926,61,해면어류,39,둑중개류,26,점줄횟대,,Cottiusculus schmidti,둑중개과,Family Cottidae,
+613927,61,해면어류,39,둑중개류,27,졸단횟대,,Triglops jordani,둑중개과,Family Cottidae,MF0010994
+613928,61,해면어류,39,둑중개류,28,줄가시횟대,Mailclad sculpin,Icelus cataphractus,둑중개과,Family Cottidae,MF0006400
+613929,61,해면어류,39,둑중개류,29,참둑중개,얼룩뚝중개,Cottus czerskii,둑중개과,Family Cottidae,MF0006486
+613930,61,해면어류,39,둑중개류,30,창치,Spoonbill sculpin,Vellitor centropomus,둑중개과,Family Cottidae,MF0011505
+613931,61,해면어류,39,둑중개류,31,한둑중개,,Cottus hangiongensis,둑중개과,Family Cottidae,
+613932,61,해면어류,39,둑중개류,32,흑점줄가시횟대,,Icelus othotensis,둑중개과,Family Cottidae,MF0006395
+613933,61,해면어류,39,둑중개류,33,둑중개,"Yellow fin sculpin, 뚝중개",Cottus poecilopterus,둑중개과,Family Cottidae,MF0006489
+613934,61,해면어류,39,둑중개류,34,무늬줄가시횟대,,Icelus stenosomus,둑중개과,Family Cottidae ,
+613999,61,해면어류,39,둑중개류,99,기타둑중개류,,,,,
+614000,61,해면어류,40,등가시치류,00,등가시치류,,,,,
+614001,61,해면어류,40,등가시치류,01,벌레문치,,Lycodes tanakai,등가시치과,Family Zoarcidae,MF0006009
+614002,61,해면어류,40,등가시치류,02,등가시치,Blotched eelpout,Zoarces gillii,등가시치과,Family Zoarcidae,MF0014961
+614003,61,해면어류,40,등가시치류,03,청자갈치,,Allolepis hollandi,등가시치과,Family Zoarcidae,MF0014727
+614004,61,해면어류,40,등가시치류,04,칠성갈치,,Petroschmidtia toyamensis,등가시치과,Family Zoarcidae,MF0009969
+614005,61,해면어류,40,등가시치류,05,먹갈치,,Lycodes nakamurai,등가시치과,Family Zoarcidae,MF0013322
+614006,61,해면어류,40,등가시치류,06,무점등가시치,,Zoarces elongatus,등가시치과,Family Zoarcidae,MF0007674
+614007,61,해면어류,40,등가시치류,07,문자갈치,,Davidijordania poecilimon,등가시치과,Family Zoarcidae ,
+614008,61,해면어류,40,등가시치류,08,사도먹갈치,,Lycodes sadoensis,등가시치과,Family Zoarcidae,MF0019451
+614099,61,해면어류,40,등가시치류,99,기타등가시치류,,,,,
+614100,61,해면어류,41,만새기류,00,만새기류,,,,,
+614101,61,해면어류,41,만새기류,01,만새기,"Common dolphinfish, 만베기(경남),만세기",Coryphaena hippurus,만새기과,Family Coryphaenidae,MF0005083
+614102,61,해면어류,41,만새기류,02,줄만새기,,Coryphaena equiselis,만새기과,Family Coryphaenidae,MF0005062
+614199,61,해면어류,41,만새기류,99,기타만새기류,,,,,
+614200,61,해면어류,42,망둑어류,00,망둑어류,,,,,
+614201,61,해면어류,42,망둑어류,01,문절망둑,"Yellowfin goby, 망둥어,문절망둑어",Acanthogobius flavimanus,망둑어과,Family Gobiidae,MF0010962
+614202,61,해면어류,42,망둑어류,02,짱뚱어,"Bluespotted mud hopper, 짝동이",Boleophthalmus pectinirostris,망둑어과,Family Gobiidae,MF0007954
+614203,61,해면어류,42,망둑어류,03,도화망둑,"Pinkgray goby,도하망둑어,도화망둑어",Amblychaeturichthys hexanema,망둑어과,Family Gobiidae,MF0011285
+614204,61,해면어류,42,망둑어류,04,꽃개소겡,,Taenioides cirratus,망둑어과,Family Gobiidae,
+614205,61,해면어류,42,망둑어류,05,갈문망둑,,Rhinogobius giurinus,망둑어과,Family Gobiidae,
+614206,61,해면어류,42,망둑어류,06,개소겡,,Taenioides rubicundus,망둑어과,Family Gobiidae,
+614207,61,해면어류,42,망둑어류,07,검정망둑,"Trident goby, 매지, 뚝지,검정망둑어",Tridentiger obscurus,망둑어과,Family Gobiidae,MF0007085
+614208,61,해면어류,42,망둑어류,08,금줄망둑,,Pterogobius virgo,망둑어과,Family Gobiidae,
+614209,61,해면어류,42,망둑어류,09,꼬마망둑,,Luciogobius koma,망둑어과,Family Gobiidae,
+614210,61,해면어류,42,망둑어류,10,꾹저구,Floating goby,Chaenogobius urotaenius,망둑어과,Family Gobiidae,MF0004270
+614211,61,해면어류,42,망둑어류,11,날개망둑,,Favonigobius gymnauchen,망둑어과,Family Gobiidae,
+614212,61,해면어류,42,망둑어류,12,날망둑,"Chestnut goby, 날살망둑어,날망둑어",Chaenogobius castaneus,망둑어과,Family Gobiidae,MF0004274
+614213,61,해면어류,42,망둑어류,13,남방짱뚱어,,Scartelaos gigas,망둑어과,Family Gobiidae,
+614214,61,해면어류,42,망둑어류,14,다섯동갈망둑,,Pterogobius zacalles,망둑어과,Family Gobiidae,
+614215,61,해면어류,42,망둑어류,15,댕기망둑,,Eutaeniichthys gilli,망둑어과,Family Gobiidae,
+614216,61,해면어류,42,망둑어류,16,두줄망둑,,Tridentiger trigonocephalus,망둑어과,Family Gobiidae,
+614217,61,해면어류,42,망둑어류,17,등설망둑,,Parioglossus dotui,청황문절과,Family Microdesmidae,
+614218,61,해면어류,42,망둑어류,18,말뚝망둥어,"Mud hopper, 말뚝망둥어",Periophthalmus modestus,망둑어과,Family Gobiidae,MF0009408
+614219,61,해면어류,42,망둑어류,19,모치망둑,,Mugilogobius abei,망둑어과,Family Gobiidae,
+614220,61,해면어류,42,망둑어류,20,무늬망둑,,Bathygobius fuscus,망둑어과,Family Gobiidae,
+614221,61,해면어류,42,망둑어류,21,미끈망둑,,Luciogobius guttatus,망둑어과,Family Gobiidae,
+614222,61,해면어류,42,망둑어류,22,민물검정망둑,"Triden goby,민물검정망둑어",Tridentiger brevispinis,망둑어과,Family Gobiidae,MF0007093
+614223,61,해면어류,42,망둑어류,23,밀어,"Common freshwater goby, 퉁거니",Rhinogobius brunneus,망둑어과,Family Gobiidae,MF0010861
+614224,61,해면어류,42,망둑어류,24,바닥문절,,Sagamia geneionema,망둑어과,Family Gobiidae,
+614225,61,해면어류,42,망둑어류,25,별망둑,,Chasmichthys gulosus,망둑어과,Family Gobiidae,
+614226,61,해면어류,42,망둑어류,26,비늘흰발망둑,,Acanthogobius luridus,망둑어과,Family Gobiidae,
+614227,61,해면어류,42,망둑어류,27,비단망둑,,Istigobius hoshinonis,망둑어과,Family Gobiidae,
+614228,61,해면어류,42,망둑어류,28,빨갱이,Comb goby,Ctenotrypauchen microcephalus,망둑어과,Family Gobiidae,MF0006780
+614229,61,해면어류,42,망둑어류,29,사백어,,Leucopsarion petersii,망둑어과,Family Gobiidae,
+614230,61,해면어류,42,망둑어류,30,사자코망둑,,Istigobius campbelli,망둑어과,Family Gobiidae,
+614231,61,해면어류,42,망둑어류,31,살망둑,,Chaenogobius heptacanthus,망둑어과,Family Gobiidae,
+614232,61,해면어류,42,망둑어류,32,수염문절,,Chaeturichthys sciistius,망둑어과,Family Gobiidae,
+614233,61,해면어류,42,망둑어류,33,숨이망둑,,Apocryptodon punctatus,망둑어과,Family Gobiidae,
+614234,61,해면어류,42,망둑어류,34,쉬쉬망둑,,Chaeturichthys stigmatias,망둑어과,Family Gobiidae,
+614235,61,해면어류,42,망둑어류,35,실망둑,,Cryptocentrus filifer,망둑어과,Family Gobiidae,
+614236,61,해면어류,42,망둑어류,36,아작망둑,,Tridentiger barbatus,망둑어과,Family Gobiidae,
+614237,61,해면어류,42,망둑어류,37,애기망둑,,Pseudogobius masago,망둑어과,Family Gobiidae,
+614238,61,해면어류,42,망둑어류,38,얼룩망둑,,Chaenogobius mororanus,망둑어과,Family Gobiidae,
+614239,61,해면어류,42,망둑어류,39,열동갈문절,,Sicyopterus japonicus,망둑어과,Family Gobiidae,
+614240,61,해면어류,42,망둑어류,40,오셀망둑,오셀망둑어,Lophogobius ocellicauda,망둑어과,Family Gobiidae,MF0010334
+614241,61,해면어류,42,망둑어류,41,왜꾹저구,,Chaenogobius macrognathus,망둑어과,Family Gobiidae,
+614242,61,해면어류,42,망둑어류,42,왜풀망둑,,Acanthogobius elongata,망둑어과,Family Gobiidae,
+614243,61,해면어류,42,망둑어류,43,일곱동갈망둑,일곱동갈망둑어,Pterogobius elapoides,망둑어과,Family Gobiidae,MF0011251
+614244,61,해면어류,42,망둑어류,44,점망독,,Chasmichthys dolichognathus,망둑어과,Family Gobiidae,
+614245,61,해면어류,42,망둑어류,45,점줄망둑,,Acentrogobius pellidebilis,망둑어과,Family Gobiidae,
+614246,61,해면어류,42,망둑어류,46,제주모치망둑,,Mugilogobius fontinalis,망둑어과,Family Gobiidae,
+614247,61,해면어류,42,망둑어류,47,줄망둑,,Acentrogobius pflaumi,망둑어과,Family Gobiidae,
+614248,61,해면어류,42,망둑어류,48,청황문절,,Ptereleotris hanae,청황문절과,Family Microdesmidae,
+614249,61,해면어류,42,망둑어류,49,큰미끈망둑,,Luciogobius grandis,망둑어과,Family Gobiidae,
+614250,61,해면어류,42,망둑어류,50,풀망둑,"Javeline goby,풀망둑어",Acanthogobius hasta,망둑어과,Family Gobiidae,MF0011678
+614251,61,해면어류,42,망둑어류,51,풀비늘망둑,,Eviota abax,망둑어과,Family Gobiidae,
+614252,61,해면어류,42,망둑어류,52,황줄망둑,,Tridentiger nudicervicus,망둑어과,Family Gobiidae,
+614253,61,해면어류,42,망둑어류,53,흰동갈망둑,,Priolepis boreus,망둑어과,Family Gobiidae,
+614254,61,해면어류,42,망둑어류,54,흰발망둑,"White ventral goby, 흰발망둥어,흰발망둑어",Acanthogobius lactipes,망둑어과,Family Gobiidae,MF0011679
+614255,61,해면어류,42,망둑어류,55,흰줄망둑,,Pterogobius zonoleucus,망둑어과,Family Gobiidae,
+614256,61,해면어류,42,망둑어류,56,Priolepis_cincta,,Priolepis cincta,,,
+614299,61,해면어류,42,망둑어류,99,기타망둑어류,,,,,
+614300,61,해면어류,43,매퉁이류,00,매퉁이류,,,,,
+614301,61,해면어류,43,매퉁이류,01,툼빌매퉁이,Wanieso lizardfish,Saurida wanieso,매퉁이과,Family Synodontidae,MF0011274
+614302,61,해면어류,43,매퉁이류,02,날매퉁이,Shortfin lizardfish,Saurida elongata,매퉁이과,Family Synodontidae,MF0011271
+614303,61,해면어류,43,매퉁이류,03,긴촉수매퉁이,,Bathypterois guentheri,긴촉수매퉁이과,Family Ipnopidae,
+614304,61,해면어류,43,매퉁이류,04,꽃동멸,,Synodus variegatus,매퉁이과,Family Synodontidae,
+614305,61,해면어류,43,매퉁이류,05,물천구,Bombay duck,Harpadon nehereus,매퉁이과,Family Synodontidae,MF0002639
+614306,61,해면어류,43,매퉁이류,06,황매퉁이,"Snakefish, Bluntnose lizardfish",Trachinocephalus myops,매퉁이과,Family Synodontidae,MF0009716
+614307,61,해면어류,43,매퉁이류,07,매퉁이,"Brushtooth lizardfish, lizard fish, 매투미(여수), 매테비(전북), 애리(제주도)",Saurida undosquamis,매퉁이과,Family Synodontidae,MF0011275
+614308,61,해면어류,43,매퉁이류,08,수다꽃동멸,Triplecross lizardfish,Synodus macrops,매퉁이과,Family Synodontidae,MF0003860
+614309,61,해면어류,43,매퉁이류,09,잔비늘매퉁이,Shortfin lizardfish,Saurida microlepis,매퉁이과,Family Synodontidae,MF0011270
+614310,61,해면어류,43,매퉁이류,10,화살치,,Lestidium prolixum,화살치과,Family Paralepididae,MF0012324
+614399,61,해면어류,43,매퉁이류,99,기타매퉁이류,,,,,
+614400,61,해면어류,44,멸치류,00,멸치류,,,,,
+614401,61,해면어류,44,멸치류,01,멸치,"Japanese anchovy, 행어(제주), 멸오치(남해), 멜, 명어치(제주), 멸(전남), 멧치, 열치(황해도), 돗자래기(몽금포)",Engraulis japonicus,멸치과,Family Engraulidae,MF0002917
+614402,61,해면어류,44,멸치류,02,반지,"Anchovy, 방디(한천), 반댕이(경기), 소어, 고소어(흑산도)",Setipinna taty,멸치과,Family Engraulidae,MF0004972
+614403,61,해면어류,44,멸치류,03,웅어,Japanese grenadier anchovy,Coilia nasus,멸치과,Family Engraulidae,MF0014227
+614404,61,해면어류,44,멸치류,04,싱어,Osbecks grenadier anchovy,Coilia mystus,멸치과,Family Engraulidae,MF0014232
+614405,61,해면어류,44,멸치류,05,곤어리,,Thryssa koreana,멸치과,Family Engraulidae,MF0008315
+614406,61,해면어류,44,멸치류,06,북멸,,Thryssa mystax,멸치과,Family Engraulidae,
+614407,61,해면어류,44,멸치류,07,청멸,"Kammal thryssa, 멸치, 멸",Thryssa kammalensis,멸치과,Family Engraulidae,MF0008316
+614408,61,해면어류,44,멸치류,08,풀반댕이,,Thryssa purava,멸치과,Family Engraulidae,MF0001147
+614409,61,해면어류,44,멸치류,09,풀반지,,Thryssa hamiltoni,멸치과,Family Engraulidae,MF0015274
+614499,61,해면어류,44,멸치류,99,기타멸치류,,,,,
+614500,61,해면어류,45,명태류,00,명태류,,,,,
+614501,61,해면어류,45,명태류,01,명태,"Walleye pollock, Alaska pollock, 북어, 동태, 선태, 망태, 조태, 왜태, 매태, 애기태, 막물태, 강태, 은어바지, 섣달바지, 더덕북어, 명태어, 노가리",Theragra chalcogramma,대구과,Family Gadidae,MF0007745
+614502,61,해면어류,45,명태류,02,코다리,"Walleye pollock, Alaska pollock, 북어, 동태, 선태, 망태, 조태, 왜태, 매태, 애기태, 막물태, 강태, 은어바지, 섣달바지, 더덕북어, 명태어, 노가리",Theragra chalcogramma,대구과,Family Gadidae,MF0007745
+614503,61,해면어류,45,명태류,03,황태,"Walleye pollock, Alaska pollock, 북어, 동태, 선태, 망태, 조태, 왜태, 매태, 애기태, 막물태, 강태, 은어바지, 섣달바지, 더덕북어, 명태어, 노가리",Theragra chalcogramma,대구과,Family Gadidae,MF0007745
+614504,61,해면어류,45,명태류,04,북어,"Walleye pollock, Alaska pollock, 북어, 동태, 선태, 망태, 조태, 왜태, 매태, 애기태, 막물태, 강태, 은어바지, 섣달바지, 더덕북어, 명태어, 노가리",Theragra chalcogramma,대구과,Family Gadidae,MF0007745
+614505,61,해면어류,45,명태류,05,노가리,"Walleye pollock, Alaska pollock, 북어, 동태, 선태, 망태, 조태, 왜태, 매태, 애기태, 막물태, 강태, 은어바지, 섣달바지, 더덕북어, 명태어, 노가리",Theragra chalcogramma,대구과,Family Gadidae,MF0007745
+614506,61,해면어류,45,명태류,06,명란,"Walleye pollock, Alaska pollock, 북어, 동태, 선태, 망태, 조태, 왜태, 매태, 애기태, 막물태, 강태, 은어바지, 섣달바지, 더덕북어, 명태어, 노가리",Theragra chalcogramma,대구과,Family Gadidae,MF0007745
+614599,61,해면어류,45,명태류,99,기타명태류,,,,,
+614600,61,해면어류,46,물꽃치류,00,물꽃치류,,,,,
+614601,61,해면어류,46,물꽃치류,01,물꽃치,Surfsardine,Iso flosmaris,물꽃치과,Family Notocheiridae,MF0001258
+614699,61,해면어류,46,물꽃치류,99,기타물꽃치류,,,,,
+614700,61,해면어류,47,물멸류,00,물멸류,,,,,
+614701,61,해면어류,47,물멸류,01,물멸,,Chirocentrus dorab,물멸과,Family Chirocentridae,MF0000774
+614702,61,해면어류,47,물멸류,02,발광멸,,Aldrovandia affinis,발광멸과,Family Halosuridae,
+614799,61,해면어류,47,물멸류,99,기타물멸류,,,,,
+614800,61,해면어류,48,물수배기류,00,물수배기류,,,,,
+614801,61,해면어류,48,물수배기류,01,고무꺽정이,Spinyhead sculpin,Dasycottus setiger,물수배기과,Family Psychrolutidae,MF0001731
+614802,61,해면어류,48,물수배기류,02,물수배기,,Psychrolutes paradoxus,물수배기과,Family Psychrolutidae,
+614803,61,해면어류,48,물수배기류,03,얼룩수배기,Hunchback scupin,Malacocottus zonurus,물수배기과,Family Psychrolutidae,MF0011968
+614804,61,해면어류,48,물수배기류,04,울꺽정이,,Dasycottus sp.,물수배기과,Family Psychrolutidae,MF0001732
+614805,61,해면어류,48,물수배기류,05,털수배기,Smoothcheek sculpin,Eurymen gyrinus,물수배기과,Family Psychrolutidae,MF0013266
+614806,61,해면어류,48,물수배기류,06,주먹물수배기,Darkfin sculpin,Malacocottus gibber,물수배기과,Family Psychrolutidae,MF0011966
+614899,61,해면어류,48,물수배기류,99,기타물수배기류,,,,,
+614900,61,해면어류,49,미올비늘치류,00,미올비늘치류,,,,,
+614901,61,해면어류,49,미올비늘치류,01,미올비늘치,,Neoscopelus microchir,미올비늘치과,Family Neoscopelidae,MF0018966
+614999,61,해면어류,49,미올비늘치류,99,기타미올비늘치류,,,,,
+615000,61,해면어류,50,민어류,00,민어류,,,,,
+615001,61,해면어류,50,민어류,01,민어,"Mi-iuy croaker, Brown croaker, 개우치, 홍치(전남), 불등거리, 보굴치, 가리, 어스래기, 상민어",Miichthys miiuy,민어과,Family Sciaenidae,MF0003239
+615002,61,해면어류,50,민어류,02,뉴지부시돔,Orange roughy,Hoplostethus atlanticus,,,
+615003,61,해면어류,50,민어류,03,긴가이석태,Bobo croaker,Pseudotolithus elongatus,민어과,Family Sciaenidae,MF0002463
+615004,61,해면어류,50,민어류,04,섬민어,,,,,
+615005,61,해면어류,50,민어류,05,점민어,"Spot croaker,점조기",Leiostomus xanthurus,민어과,Family Sciaenidae,MF0001946
+615006,61,해면어류,50,민어류,06,대두이석태,Big-head pennah croaker,Pennahia macrocephalus,민어과,Family Sciaenidae,MF0005394
+615007,61,해면어류,50,민어류,07,큰민어,,Nibea japonica,,,
+615008,61,해면어류,50,민어류,08,민태,"Belenger's jewfish, 민태(평남 선천), 봉금이(평남, 철산)",Johnius grypotus,민어과,Family Sciaenidae,MF0008381
+615009,61,해면어류,50,민어류,09,황금리브민어,Reeves croaker,Chrysochir aureus,민어과,Family Sciaenidae,MF0005882
+615010,61,해면어류,50,민어류,10,가이석태속,Croaker,Pseudotolithus sp.,민어과,Family Sciaenidae,MF0008483
+615011,61,해면어류,50,민어류,11,꼬리검정민태,Sharp-toothed hammer croaker,Johnius vogleri,민어과,Family Sciaenidae,MF0015086
+615012,61,해면어류,50,민어류,12,꼬마민어,Blackspotted croaker,Protonibea diacanthus,민어과,Family Sciaenidae,MF0006714
+615013,61,해면어류,50,민어류,13,대서양꼬마민어,"Atlantic croaker, Hardhead",Micropogon undulatus,민어과,Family Sciaenidae,MF0009805
+615014,61,해면어류,50,민어류,14,대안이석태,Bigeye croaker,Pennahia macrophthalmus,민어과,Family Sciaenidae,MF0005393
+615015,61,해면어류,50,민어류,15,동갈민어,Nibe croaker,Nibea mitsukurii,민어과,Family Sciaenidae,MF0007186
+615016,61,해면어류,50,민어류,16,동등이석태,Geelbeck croaker,Atractoscion aequidens,민어과,Family Sciaenidae,MF0006914
+615017,61,해면어류,50,민어류,17,등갈민태,Croaker,Johnius belangerii,민어과,Family Sciaenidae,MF0008383
+615018,61,해면어류,50,민어류,18,붉은이석태,Tiger-toothed croaker,Otolithes ruber,민어과,Family Sciaenidae,MF0006535
+615019,61,해면어류,50,민어류,19,세네갈가이석태,Cassava croaker,Pseudotolithus senegalensis,민어과,Family Sciaenidae,MF0008484
+615020,61,해면어류,50,민어류,20,영상가이석태,Longneck croaker,Pseudotolithus typus,민어과,Family Sciaenidae,MF0008486
+615021,61,해면어류,50,민어류,21,파마이석태,Pama croaker,Otolithoides pama,민어과,Family Sciaenidae,MF0006525
+615022,61,해면어류,50,민어류,22,홍민어,,Sciaenops ocellatus,,Family Sciaenidae,
+615099,61,해면어류,50,민어류,99,기타민어류,,,,,
+615100,61,해면어류,51,민태류,00,민태류,,,,,
+615101,61,해면어류,51,민태류,01,꼬리민태,,Coelorinchus japonicus,민태과,Family Macrouridae,
+615102,61,해면어류,51,민태류,02,무줄비늘치,,Coleorhyncus longissimus,민태과,Family Macrouridae,
+615103,61,해면어류,51,민태류,03,줄비늘치,Japanese grenadier,Caelorinchus multispinulosus,민태과,Family Macrouridae,MF0008499
+615104,61,해면어류,51,민태류,04,회초리꼬리민태,Thorntooth grenadier,Lepidorhynchus denticulatus,민태과,Family Macrouridae,MF0011183
+615199,61,해면어류,51,민태류,99,기타민태류,,,,,
+615200,61,해면어류,52,밀크피쉬류,00,밀크피쉬류,,,,,
+615201,61,해면어류,52,밀크피쉬류,01,밀크피쉬,,Chanos chanos,,,
+615299,61,해면어류,52,밀크피쉬류,99,기타밀크피쉬류,,,,,
+615300,61,해면어류,53,바다빙어류,00,바다빙어류,,,,,
+615301,61,해면어류,53,바다빙어류,01,열빙어,"Capelin, Candlefish",Mallotus villosus,바다빙어과,Family Osmeridae,MF0004524
+615302,61,해면어류,53,바다빙어류,02,바다빙어,,Osmerus dentex,바다빙어과,Family Osmeridae,MF0018955
+615399,61,해면어류,53,바다빙어류,99,기타바다빙어류,,,,,
+615400,61,해면어류,54,바닥가시치류,00,바닥가시치류,,,,,
+615401,61,해면어류,54,바닥가시치류,01,바닥가시치,,Bathymaster derjugini,바닥가시치과,Family Bathymasteridae,
+615499,61,해면어류,54,바닥가시치류,99,기타바닥가시치류,,,,,
+615500,61,해면어류,55,바리류,00,바리류,,,,,
+615501,61,해면어류,55,바리류,01,다금바리,"Sawedged, 구문쟁이(제주도), 펄농어(부산)",Niphon spinosus,바리과,Family Serranidae,MF0014434
+615502,61,해면어류,55,바리류,02,큰입우럭,,,,,
+615503,61,해면어류,55,바리류,03,능성어,Convict grouper,Epinephelus septemfasciatus,바리과,Family Serranidae,MF0007233
+615504,61,해면어류,55,바리류,04,자바리,,Epinephelus bruneus,바리과,Family Serranidae,MF0015073
+615505,61,해면어류,55,바리류,05,별우럭,,Epinephelus fario,바리과,Family Serranidae,MF0015069
+615506,61,해면어류,55,바리류,06,구실우럭,,Epinephelus chlorostigma,바리과,Family Serranidae,MF0015074
+615507,61,해면어류,55,바리류,07,꽃돔,,Sacura margaritacea,바리과,Family Serranidae,
+615508,61,해면어류,55,바리류,08,알락우럭,,Epinephelus megachir,바리과,Family Serranidae,
+615509,61,해면어류,55,바리류,09,대문바리,Areolate rockcod,Epinephelus areolatus,바리과,Family Serranidae,MF0007768
+615510,61,해면어류,55,바리류,10,붉바리,"Hong Kong grouper, 붉바리, 붉발(제주)",Epinephelus akaara,바리과,Family Serranidae,MF0007769
+615511,61,해면어류,55,바리류,11,가시우럭,,Liopropoma japonicum,바리과,Family Serranidae,
+615512,61,해면어류,55,바리류,12,각시돔,Princes small porgy,Chelidoperca hirundinacea,바리과,Family Serranidae,MF0008931
+615513,61,해면어류,55,바리류,13,갈색둥근바리,Estuary cod,Epinephelus coioides,바리과,Family Serranidae,MF0015075
+615514,61,해면어류,55,바리류,14,금강바리,,Pseudanthias squamipinnis,바리과,Family Serranidae,
+615515,61,해면어류,55,바리류,15,꽃자리,,Caprodon longimanus,바리과,Family Serranidae,
+615516,61,해면어류,55,바리류,16,날바리,,Trisotropis dermopterus,바리과,Family Serranidae,
+615517,61,해면어류,55,바리류,17,단줄우럭,,Liopropoma latifasciatum,바리과,Family Serranidae,MF0000224
+615518,61,해면어류,55,바리류,18,닻줄바리,,Epinephelus poecilonotus,바리과,Family Serranidae,MF0007231
+615519,61,해면어류,55,바리류,19,도도바리,"Deep sea bass, banded grouper, yellow grouper, 도도어",Epinephelus awoara,바리과,Family Serranidae,MF0015072
+615520,61,해면어류,55,바리류,20,무늬바리,,Plectropomus leopardus,바리과,Family Serranidae,
+615521,61,해면어류,55,바리류,21,붉벤자리,"Schlegel's red bass, 붉벤자리(경남)",Calprodon schlegelii,바리과,Family Serranidae,MF0003328
+615522,61,해면어류,55,바리류,22,연붉돔,,Plectranthias japonicus,바리과,Family Serranidae,
+615523,61,해면어류,55,바리류,23,우각바리,Eastern flower porgy,Plectranthias kelloggi azumanus,바리과,Family Serranidae,MF0013529
+615524,61,해면어류,55,바리류,24,육돈바리,,Plesiops coeruleolineatus,육돈바리과,Family Plesiopidae,
+615525,61,해면어류,55,바리류,25,육색줄바리,"Sixbar grouper, Sixbar rockcod",Epinephelus sexfasciatus,바리과,Family Serranidae,MF0007232
+615526,61,해면어류,55,바리류,26,장미돔,,Pseudanthias elongatus,바리과,Family Serranidae,
+615527,61,해면어류,55,바리류,27,점줄우럭,,Epinephelus epistictus,바리과,Family Serranidae,
+615528,61,해면어류,55,바리류,28,종대우럭,Striped grouper,Epinephelus latifasciatus,바리과,Family Serranidae,MF0015071
+615529,61,해면어류,55,바리류,29,통의바리,Blue spot rock-cod,Cephalopholis miniata,바리과,Family Serranidae,MF0007063
+615530,61,해면어류,55,바리류,30,홍바리,,Epinephelus fasciatus,바리과,Family Serranidae,MF0015070
+615531,61,해면어류,55,바리류,31,황줄바리,,Aulacocephalus temmincki,바리과,Family Serranidae,
+615532,61,해면어류,55,바리류,32,흉기흑점바리,Malabar grouper,Epinephelus malabaricus,바리과,Family Serranidae,MF0015076
+615533,61,해면어류,55,바리류,33,갈색점바리,브라운마블드그루퍼,Epinephelus fuscoguttatus,바리과,Family Serranidae,
+615534,61,해면어류,55,바리류,34,대왕바리,자이언트그루퍼,Epinephelus lanceolatus,바리과,Family Serranidae,
+615535,61,해면어류,55,바리류,35,잡종그루퍼,,Epinephelus lanceolatus x Epinephelus fuscoguttatus,,Family Serranidae,
+615536,61,해면어류,55,바리류,36,하이브리드바리,,Epinephelus lanceolatus x Epinephelus fuscoguttatus,바리과,Family Serranidae,
+615599,61,해면어류,55,바리류,99,기타바리류,,,,,
+615600,61,해면어류,56,방어류,00,방어류,,,,,
+615601,61,해면어류,56,방어류,01,방어,"Japanese amberjack, 무태방어, 마래미(함남), 마르미, 떡마르미, 방치마르미(강원), 사배기(경북)",Seriola quinqueradiata,전갱이과,Family Carangidae,MF0012929
+615602,61,해면어류,56,방어류,02,부시리,"Yellowtail amberjack, 부시리(통영), 부수리(전북), 납작방어(포항)",Seriola lalandi,전갱이과,Family Carangidae,MF0012930
+615603,61,해면어류,56,방어류,03,잿방어,"Greater amberjack, 배기(제주도), 납작방어(포항)",Seriola dumerili,전갱이과,Family Carangidae,MF0006181
+615604,61,해면어류,56,방어류,04,참치방어,Rainbow runner,Elagatis bipinnulata,전갱이과,Family Carangidae,MF0011604
+615605,61,해면어류,56,방어류,05,동갈방어,Pilot fish,Naucrates ductor,전갱이과,Family Carangidae,MF0014168
+615606,61,해면어류,56,방어류,06,매지방어,"Black-banded kingfish, 매지방어(경남)",Seriolina nigrofasciata,전갱이과,Family Carangidae,MF0012925
+615699,61,해면어류,56,방어류,99,기타방어류,,,,,
+615700,61,해면어류,57,배불뚝류,00,배불뚝류,,,,,
+615701,61,해면어류,57,배불뚝류,01,배불뚝치,Moonfish,Mene maculata,배불뚝과,Family Menidae,MF0004732
+615799,61,해면어류,57,배불뚝류,99,기타배불뚝류,,,,,
+615800,61,해면어류,58,뱅어류,00,뱅어류,,,,,
+615801,61,해면어류,58,뱅어류,01,뱅어,Ice fish,Salangichthys microdon,뱅어과,Family Salangidae,MF0011424
+615802,61,해면어류,58,뱅어류,02,국수뱅어,"Ariake ice fish, 서남뱅어",Salanx ariakensis,뱅어과,Family Salangidae,MF0006217
+615803,61,해면어류,58,뱅어류,03,도화뱅어,"Flower ice fish, 서선뱅어",Neosalanx andersoni,뱅어과,Family Salangidae,MF0004115
+615804,61,해면어류,58,뱅어류,04,벚꽃뱅어,"Cherry ice fish, 달거지뱅어",Hemisalanx prognathus,뱅어과,Family Salangidae,MF0004783
+615805,61,해면어류,58,뱅어류,05,붕퉁뱅어,King ice fish,Protosalanx chinensis,뱅어과,Family Salangidae,MF0012137
+615806,61,해면어류,58,뱅어류,06,실뱅어,"Short ice fish, 압록뱅어",Neosalanx hubbsi,뱅어과,Family Salangidae,MF0004114
+615807,61,해면어류,58,뱅어류,07,젓뱅어,애기뱅어,Neosalanx jordani,뱅어과,Family Salangidae,MF0004117
+615899,61,해면어류,58,뱅어류,99,기타뱅어류,,,,,
+615900,61,해면어류,59,베도라치류,00,베도라치류,,,,,
+615901,61,해면어류,59,베도라치류,01,실치(흰베도라치),흰베도라치,Pholis fangi,,,
+615902,61,해면어류,59,베도라치류,02,흰베도라치,실치,Pholis fangi,황줄베도라치과,Family Pholidae,
+615903,61,해면어류,59,베도라치류,03,가막베도라치,,Enneapterygius etheostomus,먹도라치과,Family Tripterygiidae,
+615904,61,해면어류,59,베도라치류,04,골베도라치,,Omobranchus punctatus,청베도라치과,Family Blenniidae,
+615905,61,해면어류,59,베도라치류,05,대강베도라치,,Istiblennius enosimae,청베도라치과,Family Blenniidae,MF0008120
+615906,61,해면어류,59,베도라치류,06,두줄베도라치,,Petroscirtes breviceps,청베도라치과,Family Blenniidae,MF0011892
+615907,61,해면어류,59,베도라치류,07,비늘베도라치,,Neoclinus bryope,비늘베도라치과,Family Labrysomidae,
+615908,61,해면어류,59,베도라치류,08,앞동갈베도라치,,Omobranchus elegans,청베도라치과,Family Blenniidae,
+615909,61,해면어류,59,베도라치류,09,오색베도라치,,Pholis ornatus,황줄베도라치과,Family Pholididae,MF0012681
+615910,61,해면어류,59,베도라치류,10,저울베도라치,,Entomacrodus stellifer,청베도라치과,Family Blenniidae,
+615911,61,해면어류,59,베도라치류,11,점베도라치,,Pholis crassispina,황줄베도라치과,Family Pholidae,
+615912,61,해면어류,59,베도라치류,12,청베도라치,,Parablennius yatabei,청베도라치과,Family Blenniidae,
+615913,61,해면어류,59,베도라치류,13,황줄베도라치,,Rhodymenichthys dolichogaster,황줄베도라치과,Family Pholidae,
+615914,61,해면어류,59,베도라치류,14,베도라치,Tidepool gunnel,Pholis nebulosa,황줄베도라치과,Family Pholididae,MF0012680
+615999,61,해면어류,59,베도라치류,99,기타베도라치류,,,,,
+616000,61,해면어류,60,병어류,00,병어류,,,,,
+616001,61,해면어류,60,병어류,01,병어,"Silver pomfret, 병치(전남), 편어(서해안), 벵어(철산), 병단이(진남포), 벵에(경남)",Pampus argenteus,병어과,Family Stromateidae,MF0009077
+616002,61,해면어류,60,병어류,02,덕대,"Korean pomfret, 큰벵치(부산), 고려병어",Pampus echinogaster,병어과,Family Stromateidae,MF0009078
+616003,61,해면어류,60,병어류,03,남방병어,,,,,
+616099,61,해면어류,60,병어류,99,기타병어류,,,,,
+616100,61,해면어류,61,보리멸류,00,보리멸류,,,,,
+616101,61,해면어류,61,보리멸류,01,청보리멸,Japanese sillago,Sillago japonica,보리멸과,Family Sillaginidae,MF0003809
+616102,61,해면어류,61,보리멸류,02,보리멸,"Sand smelt, Silver whiting",Sillago sihama,보리멸과,Family Sillaginidae,MF0003808
+616199,61,해면어류,61,보리멸류,99,기타보리멸류,,,,,
+616200,61,해면어류,62,복류,00,복류,,,,,
+616201,61,해면어류,62,복류,01,매리복,"Vermiculated puffer, 벌레복아지, 벌레복",Takifugu vermicularis,참복과,Family Tetraodontidae,MF0011333
+616202,61,해면어류,62,복류,02,자주복,"Japanese pufferfish, 참복(부산), 가지복(동해안), 점복(여수), 복복어, 북북어(함남)",Takifugu rubripes,참복과,Family Tetraodontidae,MF0011327
+616203,61,해면어류,62,복류,03,검복,"Globe fish, Purple puffer",Takifugu porphyreus,참복과,Family Tetraodontidae,MF0011330
+616204,61,해면어류,62,복류,04,밀복,Green rough-backed puffer,Lagocephalus lunaris,참복과,Family Tetraodontidae,MF0011608
+616205,61,해면어류,62,복류,05,흰점참복,,Takifugu pseudommus,참복과,Family Tetraodontidae,
+616206,61,해면어류,62,복류,06,까치복,"Striped puffer, Yellowfin puffer, 까치복아지",Takifugu xanthopterus,참복과,Family Tetraodontidae,MF0011332
+616207,61,해면어류,62,복류,07,참복,Eyespot puffer,Takifugu chinensis,참복과,Family Tetraodontidae,MF0013848
+616208,61,해면어류,62,복류,08,복섬,"Grass puffer, 졸복아지",Takifugu niphobles,참복과,Family Tetraodontidae,MF0007893
+616209,61,해면어류,62,복류,09,졸복,"Panther puffer, 밀복, 노랑복(여수)",Takifugu pardalis,참복과,Family Tetraodontidae,MF0011328
+616210,61,해면어류,62,복류,10,황복,River puffer,Takifugu obscurus,참복과,Family Tetraodontidae,MF0011329
+616211,61,해면어류,62,복류,11,은밀복,Green rough-backed puffer,Lagocephalus wheeleri,참복과,Family Tetraodontidae,MF0011616
+616212,61,해면어류,62,복류,12,신점복,,,,,
+616213,61,해면어류,62,복류,13,민밀복,"Smooth blaasop, Smooth-backed blowfish",Lagocephalus inermis,참복과,Family Tetraodontidae,MF0011607
+616214,61,해면어류,62,복류,14,가시복,Long-spine porcupinefish,Diodon holocanthus,가시복과,Family Diodontidae,MF0014349
+616215,61,해면어류,62,복류,15,흑밀복,"Brown-backed toadfish, Dark rough-backed puffer",Lagocephalus gloveri,참복과,Family Tetraodontidae,MF0011611
+616216,61,해면어류,62,복류,16,은띠복,,,,,
+616217,61,해면어류,62,복류,17,황점복,,Takifugu flavidus,참복과,Family Tetraodontidae,
+616218,61,해면어류,62,복류,18,강담복,,Chilomycterus affinis,가시복과,Family Diodontidae,
+616219,61,해면어류,62,복류,19,거북복,Bluespotted boxfish,Ostracion immaculatus,거북복과,Family Ostraciidae,MF0008495
+616220,61,해면어류,62,복류,20,까칠복,,Takifugu stictonotus,참복과,Family Tetraodontidae,MF0011326
+616221,61,해면어류,62,복류,21,꺼끌복,Star puffer,Arothron stellatus,참복과,Family Tetraodontidae,MF0005739
+616222,61,해면어류,62,복류,22,망복,,Takifugu reticularis,참복과,Family Tetraodontidae,
+616223,61,해면어류,62,복류,23,바실복,,Takifugu basileskianus,참복과,Family Tetraodontidae,
+616224,61,해면어류,62,복류,24,별복,,Boesemanichthys firmamentum,참복과,Family Tetraodontidae,MF0002846
+616225,61,해면어류,62,복류,25,불뚝복,,Triodon macropterus,불뚝복과,Family Triodontidae,
+616226,61,해면어류,62,복류,26,불룩복,Blunthead puffer,Sphoeroides pachygaster,참복과,Family Tetraodontidae,MF0011107
+616227,61,해면어류,62,복류,27,뿔복,,Lactoria cornuta,거북복과,Family Ostraciidae,
+616228,61,해면어류,62,복류,28,육각복,,Kentrocapros aculeatus,거북복과,Family Ostraciidae,
+616229,61,해면어류,62,복류,29,청복,,Canthigaster rivulata,참복과,Family Tetraodontidae,MF0010469
+616230,61,해면어류,62,복류,30,황해흰점복,,Takifugu alboplumbeus,참복과,Family Tetraodontidae,
+616231,61,해면어류,62,복류,31,흑점꺼끌복,,Arothron nigropunctatus,참복과,Family Tetraodontidae,
+616232,61,해면어류,62,복류,32,흰점꺼끌복,White-spotted puffer,Arothron hispidus,참복과,Family Tetraodontidae,MF0013496
+616233,61,해면어류,62,복류,33,흰점복,Finepatterned puffer,Takifugu poecilonotus,참복과,Family Tetraodontidae,MF0011331
+616299,61,해면어류,62,복류,99,기타복류,,,,,
+616300,61,해면어류,63,볼락류,00,볼락류,,,,,
+616301,61,해면어류,63,볼락류,01,조피볼락,Korean rockfish,Sebastes schlegelii,양볼락과,Family Scorpaenidae,MF0000577
+616302,61,해면어류,63,볼락류,02,쏨뱅이,Mabled rockfish,Sebastiscus marmoratus,양볼락과,Family Scorpaenidae,MF0009212
+616303,61,해면어류,63,볼락류,03,금은볼락,"Black rockfish,검정볼락",Sebastes melanops,양볼락과,Family Scorpaenidae,MF0019000
+616304,61,해면어류,63,볼락류,04,쑤기미,Devil stinger,Inimicus japonicus,양볼락과,Family Scorpaenidae,MF0008694
+616305,61,해면어류,63,볼락류,05,개볼락,"Spotbelly rockfish, blass bloched rockfish",Sebastes pachycephalus,양볼락과,Family Scorpaenidae,MF0000571
+616306,61,해면어류,63,볼락류,06,우럭볼락,"Armorclad rockfish, 우럭(황해도), 쑤기미, 똥새기(통영), 우레기(강원도)",Sebastes hubbsi,양볼락과,Family Scorpaenidae,MF0008776
+616307,61,해면어류,63,볼락류,07,홍살치,Broadbanded thornyhead,Sebastolobus macrochir,양볼락과,Family Scorpaenidae,MF0009211
+616308,61,해면어류,63,볼락류,08,장문볼락,"Pacific ocean perch, Longjaw rockfish",Sebastes alutus,양볼락과,Family Scorpaenidae,MF0015057
+616309,61,해면어류,63,볼락류,09,볼락,"Dark-banded rockfish, 뽈낙이, 뽈낙구, 열기, 순볼래기(전남), 꺽저구(경북), 열광이, 우레기, 구럭(함남), 열갱이(강원),먹볼락",Sebastes inermis,양볼락과,Family Scorpaenidae,MF0008770
+616310,61,해면어류,63,볼락류,10,쭈굴감펭,,Scorpaena miostoma,양볼락과,Family Scorpaenidae,MF0003709
+616311,61,해면어류,63,볼락류,11,황볼락,Scorpion fish,Sebastes owstoni,양볼락과,Family Scorpaenidae,MF0000572
+616312,61,해면어류,63,볼락류,12,양볼락,Northern rockfish,Sebastes polyspinis,양볼락과,Family Scorpaenidae,MF0000570
+616313,61,해면어류,63,볼락류,13,홍감펭,"Rosefish, Hilgendorf saucord",Helicolenus hilgendorfi,양볼락과,Family Scorpaenidae,MF0010406
+616314,61,해면어류,63,볼락류,14,한볼락,Rougheye rockfish,Sebastes aleutianus,양볼락과,Family Scorpaenidae,MF0015058
+616315,61,해면어류,63,볼락류,15,미역치,Racehorse,Hypodytes rubripinnis,양볼락과,Family Scorpaenidae,MF0004119
+616316,61,해면어류,63,볼락류,16,붉은쏨뱅이,Scorpion fish,Sebastiscus tertius,양볼락과,Family Scorpaenidae,MF0009209
+616317,61,해면어류,63,볼락류,17,노랑볼락,,Sebastes steindachneri,양볼락과,Family Scorpaenidae,MF0000575
+616318,61,해면어류,63,볼락류,18,놀락감펭,,Scorpaenopsis diabolus,양볼락과,Family Scorpaenidae,
+616319,61,해면어류,63,볼락류,19,누루시볼락,,Sebastes vulpes,양볼락과,Family Scorpaenidae,MF0009207
+616320,61,해면어류,63,볼락류,20,눌치볼락,,Sebastes ijimae,양볼락과,Family Scorpaenidae,
+616321,61,해면어류,63,볼락류,21,도화볼락,,Sebastes joyneri,양볼락과,Family Scorpaenidae,MF0008771
+616322,61,해면어류,63,볼락류,22,돌삼뱅이,,Sebastes baramenuke,양볼락과,Family Scorpaenidae,MF0008774
+616323,61,해면어류,63,볼락류,23,띠볼락,,Sebastes zonatus,양볼락과,Family Scorpaenidae,MF0009204
+616324,61,해면어류,63,볼락류,24,말락볼락,,Sebastes wakiyai,양볼락과,Family Scorpaenidae,
+616325,61,해면어류,63,볼락류,25,말락쏠치,Dwarf stingfish,Minous pusillus,양볼락과,Family Synanceiidae,MF0010348
+616326,61,해면어류,63,볼락류,26,벌감펭,,Apistus carinatus,양볼락과,Family Scorpaenidae,
+616327,61,해면어류,63,볼락류,27,불볼락,Goldeye rockfish,Sebastes thompsoni,양볼락과,Family Scorpaenidae,MF0000568
+616328,61,해면어류,63,볼락류,28,붉감펭,"Yellowbarred red rockfish, 붉감펭(서해안)",Sebastiscus albofasciatus,양볼락과,Family Scorpaenidae,MF0009206
+616329,61,해면어류,63,볼락류,29,살살치,"Izu scorpionfish, sting fish, 살사알치(통영)",Scorpaena neglecta,양볼락과,Family Scorpaenidae,MF0003699
+616330,61,해면어류,63,볼락류,30,세줄볼락,Threestripe rockfish,Sebastes trivittatus,양볼락과,Family Scorpaenidae,MF0000567
+616331,61,해면어류,63,볼락류,31,쏠배감펭,"Butterfly fish, fireworks fish, sting fish, lion fish, 쫌뱅이(순천), 북제어, 심방우럭(우도), 쏘치우럭(한림)",Pterois lunulata,양볼락과,Family Scorpaenidae,MF0014654
+616332,61,해면어류,63,볼락류,32,쑥감펭,Weady stingfish,Scorpaenopsis cirrosa,양볼락과,Family Scorpaenidae,MF0003702
+616333,61,해면어류,63,볼락류,33,점감펭,"Scorpion fish, Fire fish",Scorpaena onaria,양볼락과,Family Scorpaenidae,MF0003700
+616334,61,해면어류,63,볼락류,34,제주쏠치,,Minous quincarinatus,양볼락과,Family Scorpaenidae,
+616335,61,해면어류,63,볼락류,35,좀볼락,Minor rockfish,Sebastes minor,양볼락과,Family Scorpaenidae,MF0008778
+616336,61,해면어류,63,볼락류,36,탁자볼락,White-edged rockfish,Sebastes taczanowskii,양볼락과,Family Scorpaenidae,MF0000573
+616337,61,해면어류,63,볼락류,37,퉁쏠치,,Erosa erosa,양볼락과,Family Scorpaenidae,
+616338,61,해면어류,63,볼락류,38,한벌홍감펭,Scorpion fish,Helicolenus avius,양볼락과,Family Scorpaenidae,MF0002645
+616339,61,해면어류,63,볼락류,39,황점볼락,,Sebastes oblongus,양볼락과,Family Scorpaenidae,MF0008779
+616340,61,해면어류,63,볼락류,40,황해볼락,"Korean rockfish, 빨갱이(백령도)",Sebastes koreanus,양볼락과,Family Scorpaenidae,MF0008772
+616341,61,해면어류,63,볼락류,41,흰꼬리볼락,Longspined rockfish,Sebastes longispinis,양볼락과,Family Scorpaenidae,MF0008773
+616342,61,해면어류,63,볼락류,42,남서대서양적어,,Helicolenus dactylopterus dactylopterus,,Family Sebastidae,
+616343,61,해면어류,63,볼락류,43,일지말락쏠치,,Minous monodactylus,양볼락과,Family Scorpaenidae ,
+616344,61,해면어류,63,볼락류,44,주홍감펭,,Scorpaenodes littoralis,양볼락과,Family Scorpaenidae,MF0015294
+616345,61,해면어류,63,볼락류,45,큰미역치,,Snyderia yamanokami,양볼락과,Family Scorpaenidae ,
+616399,61,해면어류,63,볼락류,99,기타볼락류,,,,,
+616400,61,해면어류,64,부치류,00,부치류,,,,,
+616401,61,해면어류,64,부치류,01,꼭갈치,,Malthopsis lutea,부치과,Family Ogcocephalidae,
+616402,61,해면어류,64,부치류,02,빨강부치,Starry handfish,Halieutaea stellata,부치과,Family Ogcocephalidae,MF0013649
+616499,61,해면어류,64,부치류,99,기타부치류,,,,,
+616500,61,해면어류,65,붉평치류,00,붉평치류,,,,,
+616501,61,해면어류,65,붉평치류,01,붉평치,CLANCE FISH,Lampris guttatus,붉평치과,Family Lampridae,MF0004671
+616599,61,해면어류,65,붉평치류,99,기타붉평치류,,,,,
+616600,61,해면어류,66,살벤자리류,00,살벤자리류,,,,,
+616601,61,해면어류,66,살벤자리류,01,줄벤자리,Tigerperch,Rhynchopelates oxyrhynchus,살벤자리과,Family Teraponidae,MF0010944
+616699,61,해면어류,66,살벤자리류,99,기타살벤자리류,,,,,
+616700,61,해면어류,67,삼세기류,00,삼세기류,,,,,
+616701,61,해면어류,67,삼세기류,01,삼세기,"Shaggy sea raven, 탱수(경남), 삼숙이(강원), 수베기(포항)",Hemitripterus villosus,삼세기과,Family Hemitripteridae,MF0003887
+616702,61,해면어류,67,삼세기류,02,까치횟대,Crested sculpin,Blepsias bilobus,삼세기과,Family Hemitripteridae,MF0002827
+616703,61,해면어류,67,삼세기류,03,날개횟대,Littledragon sculpin,Blepsias cirrhosus,삼세기과,Family Hemitripteridae,MF0002826
+616799,61,해면어류,67,삼세기류,99,기타삼세기류,,,,,
+616800,61,해면어류,68,삼치류,00,삼치류,,,,,
+616801,61,해면어류,68,삼치류,01,은삼치,은삼치,Rexea solandri,갈치꼬치과,Family Gempylidae,MF0002474
+616802,61,해면어류,68,삼치류,02,줄삼치,"Striped bonito, 이빨다랑어",Sarda orientalis,고등어과,Family Scombridae,MF0013759
+616803,61,해면어류,68,삼치류,03,꼬치삼치,"Wahoo, 고치삼치(남한)",Acanthocybium solandri,고등어과,Family Scombridae,MF0003156
+616804,61,해면어류,68,삼치류,04,평삼치,Korean seerfish,Scomberomorus koreanus,고등어과,Family Scombridae,MF0010794
+616805,61,해면어류,68,삼치류,05,검정통삼치,"Snake mackerel, Barracouta, Snoek",Thyrsites atun,갈치꼬치과,Family Gempylidae,MF0008754
+616806,61,해면어류,68,삼치류,06,동갈삼치,Narrow-barred spanish mackerel,Scomberomorus commerson,고등어과,Family Scombridae,MF0010795
+616807,61,해면어류,68,삼치류,07,홍삼치,,,,,
+616808,61,해면어류,68,삼치류,08,삼치,"Japanese Spanish mackerel, 마어(서해), 망어(동해), 망에(통영), 고시(전남)",Scomberomorus niphonius,고등어과,Family Scombridae,MF0001614
+616899,61,해면어류,68,삼치류,99,기타삼치류,,,,,
+616900,61,해면어류,69,상어류,00,상어류,,,,,
+616901,61,해면어류,69,상어류,01,은상어,Silver chimaera,Chimaera phantasma,은상어과,Family Chimaeridae,MF0008457
+616902,61,해면어류,69,상어류,02,곱상어,"Piked dogfish, 곱바리(통영), 곰바리(경남), 돔바리상어(전남),기름상어",Squalus acanthias,돔발상어과,Family Squalidae,MF0009357
+616903,61,해면어류,69,상어류,03,악상어,"Porbeagle, Salmon shark",Lamna ditropis,악상어과,Family Lamnidae,MF0011155
+616904,61,해면어류,69,상어류,04,상어알,,,,,
+616905,61,해면어류,69,상어류,05,가시줄상어,"Lucifer dogfish, Blackbelly lantern shark",Etmopterus lucifer,가시줄상어과,Family Dalatiidae,MF0000614
+616906,61,해면어류,69,상어류,06,개상어,개상어,Mustelus griseus,까치상어과,Family Triakidae,MF0008872
+616907,61,해면어류,69,상어류,07,별상어,"Starspotted smooth-hound, Starspotted shark, 참상어(부산), 민동상어, 점상어, 점배기상어(전남), 거문지기(강원도), 게상어(충남), 저울도기, 저울상어(제주도)",Mustelus manazo,까치상어과,Family Triakidae,MF0008867
+616908,61,해면어류,69,상어류,08,귀상어,"Smooth Hammerhead, Common hammerhead",Sphyrna zygaena,귀상어과,Family Sphyrnidae,MF0014089
+616909,61,해면어류,69,상어류,09,칠성상어,,Notorhynchus cepedianus,신락상어과,Family Hexanchidae,
+616910,61,해면어류,69,상어류,10,아구상어,,Scoliodon laticaudus,흉상어과,Family Carcharhinidae,
+616911,61,해면어류,69,상어류,11,두툽상어,"Cloudy catshark, 두테비, 두테비상어, 개상어(부산), 범상어(전남)",Scyliorhinus torazame,두툽상어과,Family Scyliorhinidae,MF0008335
+616912,61,해면어류,69,상어류,12,괭이상어,"Japanese bullhead shark, Bullhead shark, port jackson shark, 애몽상어, 씬도령, 씬도롱, 단도롱, 괴상어, 괭상어, 고양이상어, 전등이, 도렝이, 꼬내기, 고동무치, 도롱상어",Heterodontus japonicus,괭이상어과,Family Heterodontidae,MF0005049
+616913,61,해면어류,69,상어류,13,수염상어,,Orectolobus japonicus,수염상어과,Family Orectolobidae,
+616914,61,해면어류,69,상어류,14,까치상어,"Banded houndshark, 까치상어(전남, 경기도) 죽상어(통영, 부산, 흑산도)",Triakis scyllium,까치상어과,Family Triakidae,MF0000477
+616915,61,해면어류,69,상어류,15,청상아리,"Shortfin mako, Mako shark, 생아리, 청상아리, 청사리, 모두리, 주투",Isurus oxyrinchus,악상어과,Family Lamnidae,MF0009261
+616916,61,해면어류,69,상어류,16,가래상어,"Yellow guitar fish, skate shark, brown guitar fish, 수구리(평남), 슈거리, 주게가부리(부산)",Rhinobatos schlegelii,가래상어과,Family Rhinobatidae,MF0010860
+616917,61,해면어류,69,상어류,17,갈은상어,,Hydrolagus mitsukurii,은상어과,Family Chimaeridae,
+616918,61,해면어류,69,상어류,18,강남상어,Crocodile shark,Pseudocarcharias kamoharai,강남상어과,Family Pseudocarchariidae,MF0007912
+616919,61,해면어류,69,상어류,19,검은꼬리상어,,Carcharhinus sorrah,흉상어과,Family Carcharhinidae ,
+616920,61,해면어류,69,상어류,20,고래상어,,Rhincodon typus,고래상어과,Family Rhincodontidae,
+616921,61,해면어류,69,상어류,21,귀상어류,,Sphyrna spp.,흉상어과,Family Carcharhinidae,
+616922,61,해면어류,69,상어류,22,극지별상어,"Gummy shark, Australian smooth hound",Mustelus antarcticus,까치상어과,Family Triakidae,MF0008871
+616923,61,해면어류,69,상어류,23,꼬리기름상어,"Sharpnose sevengill shark, Seven gilled shark",Heptranchias perlo,신락상어과,Family Hexanchidae,MF0004457
+616924,61,해면어류,69,상어류,24,대빨판이,Common remora,Remora remora,빨판상어과,Family Echeneidae,MF0010637
+616925,61,해면어류,69,상어류,25,도돔발상어,,Squalus japonicus,돔발상어과,Family Squalidae,MF0009341
+616926,61,해면어류,69,상어류,26,돌묵상어,,Cetorhinus maximus,돌묵상어과,Family Cetorhinidae,
+616927,61,해면어류,69,상어류,27,돔발상어,,Squalus mitsukurii,돔발상어과,Family Squalidae,
+616928,61,해면어류,69,상어류,28,망상어,"Ocean perch, Surfperch",Ditrema temminckii,망상어과,Family Embiotocidae,MF0014954
+616929,61,해면어류,69,상어류,29,모조리상어,"Shortnose dogfish, Shortnose spurdog, 모조리상어(강원도)",Squalus megalops,돔발상어과,Family Squalidae,MF0009342
+616930,61,해면어류,69,상어류,30,무태상어,,Carcharhinus brachyurus,흉상어과,Family Carcharhinidae,
+616931,61,해면어류,69,상어류,31,미흑점상어,Silky shark,Carcharhinus falciformis,흉상어과,Family Carcharhinidae,MF0002069
+616932,61,해면어류,69,상어류,32,백상아리,,Carcharodon carcharias,악상어과,Family Lamnidae,
+616933,61,해면어류,69,상어류,33,뱀상어,Tiger shark,Galeocerdo cuvier,흉상어과,Family Carcharhinidae,MF0013520
+616934,61,해면어류,69,상어류,34,범수구리,,Squatina nebulosa,전자리상어과,Family Squatinidae,MF0001363
+616935,61,해면어류,69,상어류,35,복상어,Blotchy swell shark,Cephaloscyllium umbratile,두툽상어과,Family Scyliorhinidae,MF0003111
+616936,61,해면어류,69,상어류,36,불범상어,"Blackspotted dogfish, blackspotted catshark, 불범상어(전남)",Halaelurus buergeri,두툽상어과,Family Scyliorhinidae,MF0002496
+616937,61,해면어류,69,상어류,37,비악상어,"Porbeagle, Mackerel shark",Lamna nasus,악상어과,Family Lamnidae,MF0003562
+616938,61,해면어류,69,상어류,38,빨판상어,"Live shark sucker, Slender suckerfish",Echeneis naucrates,빨판상어과,Family Echeneidae,MF0009999
+616939,61,해면어류,69,상어류,39,삿징이상어,"Zebra bullhead shark, Striped cat shark, striped bullbead shark, 삿징이상어(부산)",Heterodontus zebra,괭이상어과,Family Heterodontidae,MF0005050
+616940,61,해면어류,69,상어류,40,상어지느러미,,,,,
+616941,61,해면어류,69,상어류,41,얼룩상어,,Chiloscyllium indicum,얼룩상어과,Family Hemiscylliidae,
+616942,61,해면어류,69,상어류,42,인상어,Surfperch,Neoditrema ransonnetii,망상어과,Family Embiotocidae,MF0005698
+616943,61,해면어류,69,상어류,43,장완흉상어,"Oceanic whitetip shark, Whitetip whaler",Carcharhinus longimanus,흉상어과,Family Carcharhinidae,MF0002066
+616944,61,해면어류,69,상어류,44,전자리상어,,Squatina japonica,전자리상어과,Family Squatinidae,MF0001364
+616945,61,해면어류,69,상어류,45,점수구리,,Rhinobatos hynnicephalus,가래상어과,Family Rhinobatidae,
+616946,61,해면어류,69,상어류,46,청새리상어,"Blue shark, Blue whaler, Great blue shark",Prionace glauca,흉상어과,Family Carcharhinidae,MF0003343
+616947,61,해면어류,69,상어류,47,큰눈환도상어,,Alopias superciliosus,,Family Alopiidae,
+616948,61,해면어류,69,상어류,48,톱상어,,Pristiophorus japonicus,톱상어과,Family Pristiophoridae,MF0003364
+616949,61,해면어류,69,상어류,49,펜두상어,Milk shark,Rhizoprionodon acutus,흉상어과,Family Carcharhinidae,MF0010843
+616950,61,해면어류,69,상어류,50,표범상어,Haberer's catshark,Proscyllium habereri,표범상어과,Family Proscylliidae,MF0000637
+616951,61,해면어류,69,상어류,51,행락상어,,Hemitriakis japonica,까치상어과,Family Triakidae,
+616952,61,해면어류,69,상어류,52,환도상어,Pelagic thresher shark,Alopias pelagicus,환도상어과,Family Alopiidae,MF0004582
+616953,61,해면어류,69,상어류,53,흉상어,Sandbar shark,Carcharhinus plumbeus,흉상어과,Family Carcharhinidae,MF0002065
+616954,61,해면어류,69,상어류,54,흑기흉상어,"Blacktip reef shark, Blacktip shark, Guliman",Carcharhinus melanopterus,흉상어과,Family Carcharhinidae,MF0002067
+616955,61,해면어류,69,상어류,55,흰배환도상어,"Thresher shark, Thintail thresher, Fox shark",Alopias vulpinus,환도상어과,Family Alopiidae,MF0004583
+616956,61,해면어류,69,상어류,56,흰빨판이,,Remorina albescens,빨판상어과,Family Echeneidae,
+616999,61,해면어류,69,상어류,99,기타상어류,,,,,
+617000,61,해면어류,70,새다래류,00,새다래류,,,,,
+617001,61,해면어류,70,새다래류,01,새다래,Pacific pomfret,Brama japonica,새다래과,Family Bramidae,MF0010195
+617002,61,해면어류,70,새다래류,02,벤텐어,,Pteraclis aesticola,새다래과,Family Bramidae,
+617003,61,해면어류,70,새다래류,03,타락치,,Taractes asper,새다래과,Family Bramidae,
+617099,61,해면어류,70,새다래류,99,기타새다래류,,,,,
+617100,61,해면어류,71,새치류,00,새치류,,,,,
+617101,61,해면어류,71,새치류,01,녹새치,,Makaira mazara,돛새치과,,
+617102,61,해면어류,71,새치류,02,황새치,Swordfish,Xiphias gladius,황새치과,Family Xiphiidae,MF0009128
+617103,61,해면어류,71,새치류,03,돛새치,,Istiophorus platypterus,황새치과,Family Xiphiidae,
+617104,61,해면어류,71,새치류,04,흑새치,,Makaira indica,,Family Istiophoridae,
+617105,61,해면어류,71,새치류,05,청새치,Striped marlin,Tetrapturus audax,돛새치과,Family Istiophoridae,MF0010224
+617106,61,해면어류,71,새치류,06,단문청새치,"Shortbill spearfish, 짧은창새치,짧은부리청새치",Tetrapturus angustirostris,,,MF0014604
+617107,61,해면어류,71,새치류,07,백새치,,Kajikia albidus,돛새치과,Family Istiophoridae,
+617108,61,해면어류,71,새치류,08,홍새치,,,,,
+617199,61,해면어류,71,새치류,99,기타새치류,,,,,
+617200,61,해면어류,72,색줄멸류,00,색줄멸류,,,,,
+617201,61,해면어류,72,색줄멸류,01,밀멸,,Atherion elymus,색줄멸과,Family Atherinidae,
+617202,61,해면어류,72,색줄멸류,02,색줄멸,,Hypoatherina bleekeri,색줄멸과,Family Atherinidae,
+617203,61,해면어류,72,색줄멸류,03,은줄멸,Silverside,Hypoatherina tsurugae,색줄멸과,Family Atherinidae,MF0004122
+617299,61,해면어류,72,색줄멸류,99,기타색줄멸류,,,,,
+617300,61,해면어류,73,샛멸류,00,샛멸류,,,,,
+617301,61,해면어류,73,샛멸류,01,샛멸,Deep sea smelt,Glossanodon semifasciatus,샛멸과,Family Argentinidae,MF0004880
+617302,61,해면어류,73,샛멸류,02,가고시마샛멸,,Argentina kagoshimae,샛멸과,Family Argentinidae ,
+617399,61,해면어류,73,샛멸류,99,기타샛멸류,,,,,
+617400,61,해면어류,74,샛비늘치류,00,샛비늘치류,,,,,
+617401,61,해면어류,74,샛비늘치류,01,샛비늘치,,Myctophum nitidulum,샛비늘치과,Family Myctophidae,
+617402,61,해면어류,74,샛비늘치류,02,얼비늘치,,Myctophum asperum,샛비늘치과,Family Myctophidae,
+617403,61,해면어류,74,샛비늘치류,03,깃비늘치,Skinny cheek lanternfish,Benthosema pterotum,샛비늘치과,Family Myctophidae,MF0009502
+617499,61,해면어류,74,샛비늘치류,99,기타샛비늘치류,,,,,
+617500,61,해면어류,75,서대류,00,서대류,,,,,
+617501,61,해면어류,75,서대류,01,솔레아종,,Solea solea,,,
+617502,61,해면어류,75,서대류,02,노랑각시서대,Many-banded sole,Zebrias fasciatus,납서대과,Family Soleidae,MF0014375
+617503,61,해면어류,75,서대류,03,참서대,Red tongue sole,Cynoglossus joyneri,참서대과,Family Cynoglossidae,MF0012833
+617504,61,해면어류,75,서대류,04,개서대,"Robust tongue fish, 개서대(한어)",Cynoglossus robustus,참서대과,Family Cynoglossidae,MF0005013
+617505,61,해면어류,75,서대류,05,홍서대,,Cynoglossus dubius,,,
+617506,61,해면어류,75,서대류,06,용서대,"Three lined tongue sole, 용서대(여수)",Cynoglossus abbreviatus,참서대과,Family Cynoglossidae,MF0012831
+617507,61,해면어류,75,서대류,07,납서대,,Heteromycteris japonica,납서대과,Family Soleidae,
+617508,61,해면어류,75,서대류,08,각시서대,,Pseudaesopia japonica,납서대과,Family Soleidae,
+617509,61,해면어류,75,서대류,09,궁제기서대,,Zebrias zebra,납서대과,Family Soleidae,MF0014368
+617510,61,해면어류,75,서대류,10,동서대,,Aseraggodes kobensis,납서대과,Family Soleidae,
+617511,61,해면어류,75,서대류,11,물서대,,Cynoglossus gracilis,참서대과,Family Cynoglossidae,
+617512,61,해면어류,75,서대류,12,박대,,Cynoglossus semilaevis,참서대과,Family Cynoglossidae,
+617513,61,해면어류,75,서대류,13,보섭서대,,Symphurus orientalis,참서대과,Family Cynoglossidae,
+617514,61,해면어류,75,서대류,14,칠서대,"Genko sole, mottled tongue fish",Cynoglossus interruptus,참서대과,Family Cynoglossidae,MF0012832
+617515,61,해면어류,75,서대류,15,흑대기,"Black cow-tongue, 흑대기, 서덕이(서해), 서대(남해)",Paraplagusia japonica,참서대과,Family Cynoglossidae,MF0013793
+617599,61,해면어류,75,서대류,99,기타서대류,,,,,
+617600,61,해면어류,76,선홍치류,00,선홍치류,,,,,
+617601,61,해면어류,76,선홍치류,01,선홍치,"Pacific bonnetmouth, 홍옥고기",Erythrocles schlegelii,선홍치과,Family Emmelichthyidae,MF0001234
+617699,61,해면어류,76,선홍치류,99,기타선홍치류,,,,,
+617700,61,해면어류,77,성대류,00,성대류,,,,,
+617701,61,해면어류,77,성대류,01,밑성대,Blackspotted gurnard,Pterygotrigla hemisticta,성대과,Family Triglidae,MF0014637
+617702,61,해면어류,77,성대류,02,달강어,"Redwing sea robin, 줄어치(황해도), 닥재기(충남), 예달재(동해안), 굴노고기, 달재(함남), 마대, 장대(전남), 숫달재(평북)",Lepidotrigla microptera,성대과,Family Triglidae,MF0011190
+617703,61,해면어류,77,성대류,03,남방성대,,,,,
+617704,61,해면어류,77,성대류,04,쌍뿔달재,"Forksnout searobin,쌍뿔성대",Lepidotrigla alata,성대과,Family Triglidae,MF0011185
+617705,61,해면어류,77,성대류,05,가시달강어,"Longwing searobin, トゲカナガシラ(togekanagashira)",Lepidotrigla japonica,성대과,Family Triglidae,MF0011189
+617706,61,해면어류,77,성대류,06,꼬마달재,"Gurnard, 닥재기(충남), 꼬마달재(경기도)",Lepidotrigla guentheri,성대과,Family Triglidae,MF0011187
+617707,61,해면어류,77,성대류,07,별성대,,Satyrichthys rieffeli,황성대과,Family Peristediidae,MF0009037
+617708,61,해면어류,77,성대류,08,별쭉지성대,Starry flying gurnard,Daicocus peterseni,쭉지성대과,Family Dactylopteridae,MF0001004
+617709,61,해면어류,77,성대류,09,쭉지성대,Oriental flying gurnard,Dactyloptena orientalis,쭉지성대과,Family Dactylopteridae,MF0008186
+617710,61,해면어류,77,성대류,10,황성대,Armored searobin,Peristedion orientale,황성대과,Family Peristediidae,MF0009401
+617711,61,해면어류,77,성대류,11,밑달갱이,Abyssal searobin,Lepidotrigla abyssalis,성대과,Family Triglidae,MF0011184
+617712,61,해면어류,77,성대류,12,성대,Searobin Gurnard,Chelidonichthys spinosus,성대과,Family Triglidae,MF0008927
+617713,61,해면어류,77,성대류,13,히메성대,Gurnard,Lepidotrigla hime,성대과,Family Triglidae,MF0011188
+617799,61,해면어류,77,성대류,99,기타성대류,,,,,
+617800,61,해면어류,78,숭어류,00,숭어류,,,,,
+617801,61,해면어류,78,숭어류,01,감숭어,,,,,
+617802,61,해면어류,78,숭어류,02,숭어,"Common mullet, Flathead mullet, 은숭어",Mugil cephalus,숭어과,Family Mugilidae,MF0001319
+617803,61,해면어류,78,숭어류,03,게숭어,,,,,
+617804,61,해면어류,78,숭어류,04,등줄숭어,Eastern keelback mullet,Chelon affinis,숭어과,Family Mugilidae,MF0008929
+617805,61,해면어류,78,숭어류,05,가숭어,"Striped mullet, So-iny mullet, 개숭어, 기모리, 눈거무리, 밀치, 실치",Chelon haematocheilus,숭어과,Family Mugilidae,MF0001372
+617806,61,해면어류,78,숭어류,06,날가지숭어,,Polydactylus plebejus,날가지숭어과,Family Polynemidae,
+617807,61,해면어류,78,숭어류,07,파라다이스숭어,,Polynemus paradiseus,,,
+617808,61,해면어류,78,숭어류,08,풀날가지,,Polydactylus prinobeius,날가지숭어과,Family Polynemidae,
+617899,61,해면어류,78,숭어류,99,기타숭어류,,,,,
+617900,61,해면어류,79,실고기류,00,실고기류,,,,,
+617901,61,해면어류,79,실고기류,01,해마,,,,,
+617902,61,해면어류,79,실고기류,02,가시해마,,Hippocampus histrix,실고기과,Family Syngnathidae,
+617903,61,해면어류,79,실고기류,03,복해마,,Hippocampus kuda,실고기과,Family Syngnathidae,
+617904,61,해면어류,79,실고기류,04,산호해마,,Hippocampus japonicus,실고기과,Family Syngnathidae,
+617905,61,해면어류,79,실고기류,05,진잘해마,,Hippocampus aterremus,실고기과,Family Syngnathidae,
+617906,61,해면어류,79,실고기류,06,풀해마,,Urocampus rikuzenius,실고기과,Family Syngnathidae,
+617907,61,해면어류,79,실고기류,07,거물가시치,,Trachyrhamphus serratus,실고기과,Family Syngnathidae,
+617908,61,해면어류,79,실고기류,08,실고기,"Pipe fish, 나무공치",Syngnathus schlegeli,실고기과,Family Syngnathidae,MF0014098
+617999,61,해면어류,79,실고기류,99,기타실고기류,,,,,
+618000,61,해면어류,80,씬벵이류,00,씬벵이류,,,,,
+618001,61,해면어류,80,씬벵이류,01,노랑씬벵이,,Histrio histrio,씬벵이과,Family Antennariidae,MF0006205
+618002,61,해면어류,80,씬벵이류,02,빨간씬벵이,Striated frogfish,Antennarius striatus,씬벵이과,Family Antennariidae,MF0010949
+618003,61,해면어류,80,씬벵이류,03,줄씬벵이,,Antennarius hispidus,씬벵이과,Family Antennariidae,
+618099,61,해면어류,80,씬벵이류,99,기타씬벵이류,,,,,
+618100,61,해면어류,81,아귀류,00,아귀류,,,,,
+618101,61,해면어류,81,아귀류,01,황아귀,"Yellow goosefish, 황꺽정이, 꺽정이(서남 연안), 아꾸, 황아꾸(전남), 물잠뱅이(평북 신의주)",Lophius litulon,아귀과,Family Lophiidae,MF0010326
+618102,61,해면어류,81,아귀류,02,아귀,"Blackmouth angler, Blackmouth goosefish, 아꾸(여수), 망청어(함남), 물꿩(부산, 경남), 꺽정이(서해안), 망챙이(함북)",Lophiomus setigerus,아귀과,Family Lophiidae,MF0010328
+618199,61,해면어류,81,아귀류,99,기타아귀류,,,,,
+618200,61,해면어류,82,압치류,00,압치류,,,,,
+618201,61,해면어류,82,압치류,01,압치,,Gonorhynchus abbreviatus,압치과,Family Gonorynchidae,
+618299,61,해면어류,82,압치류,99,기타압치류,,,,,
+618300,61,해면어류,83,앨퉁이류,00,앨퉁이류,,,,,
+618301,61,해면어류,83,앨퉁이류,01,앨퉁이,"Hatchetfish, Muller's pearlside silvery lightfish",Maurolicus muelleri,앨퉁이과,Family Sternoptychidae,MF0011237
+618399,61,해면어류,83,앨퉁이류,99,기타앨퉁이류,,,,,
+618400,61,해면어류,84,양동미리류,00,양동미리류,,,,,
+618401,61,해면어류,84,양동미리류,01,눈동미리,,Parapercis pulchella,양동미리과,Family Pinguipedidae,
+618402,61,해면어류,84,양동미리류,02,쌍동가리,"Grub fish, 아홉동가리(경남)",Parapercis sexfasciata,양동미리과,Family Pinguipedidae,MF0007571
+618403,61,해면어류,84,양동미리류,03,열쌍동가리,Gold-birdled sandsmelt,Parapercis multifasciata,양동미리과,Family Pinguipedidae,MF0007572
+618404,61,해면어류,84,양동미리류,04,동미리,,Parapercls snyderi,양동미리과,Family Pinguipedidae,
+618499,61,해면어류,84,양동미리류,99,기타양동미리류,,,,,
+618500,61,해면어류,85,양미리류,00,양미리류,,,,,
+618501,61,해면어류,85,양미리류,01,양미리,"Korean sandeel, 야미리, 앵매리(포항)",Hypoptychus dybowskii,양미리과,Family Hypoptychidae,MF0011662
+618599,61,해면어류,85,양미리류,99,기타양미리류,,,,,
+618600,61,해면어류,86,양태류,00,양태류,,,,,
+618601,61,해면어류,86,양태류,01,양태,"Indian flathead, 장대",Platycephalus indicus,양태과,Family Platycephalidae,MF0004557
+618602,61,해면어류,86,양태류,02,까지양태,Crocodile flathead,Cociella crocodila,양태과,Family Platycephalidae,MF0011713
+618603,61,해면어류,86,양태류,03,눈양태,Matron flathead,Parabembras curtus,빨간양태과,Family Bembridae,MF0013625
+618604,61,해면어류,86,양태류,04,가시양태,Langsdorf's spiny flathead,Hoplichthys langsdorfii,가시양태과,Family Hoplichthyidae,MF0001648
+618605,61,해면어류,86,양태류,05,강주걱양태,,Repomucenus olidus,돛양태과,Family Callionymidae,
+618606,61,해면어류,86,양태류,06,꽁지양태,"Japanese dragonet, 꽁지양태(전남)",Calliurichthys japonicus,돛양태과,Family Callionymidae,MF0014083
+618607,61,해면어류,86,양태류,07,꽃돛양태,,Repomucenus ornatipinnis,돛양태과,Family Callionymidae,
+618608,61,해면어류,86,양태류,08,날돛양태,,Repomucenus beniteguri,돛양태과,Family Callionymidae,
+618609,61,해면어류,86,양태류,09,도화양태,Red dragonet,Foetorepus altivelis,돛양태과,Family Callionymidae,MF0006843
+618610,61,해면어류,86,양태류,10,돛양태,,Repomucenus lunatus,돛양태과,Family Callionymidae,MF0009739
+618611,61,해면어류,86,양태류,11,민양태,,Eleutherochir mirabilis,돛양태과,Family Callionymidae,
+618612,61,해면어류,86,양태류,12,바늘양태,,Rogadius asper,양태과,Family Platycephalidae,
+618613,61,해면어류,86,양태류,13,봉오리양태,,Ratabulus megacephalus,양태과,Family Platycephalidae,
+618614,61,해면어류,86,양태류,14,비늘양태,Devil flathead,Onigocia spinosa,양태과,Family Platycephalidae,MF0002081
+618615,61,해면어류,86,양태류,15,빨간양태,"Red flathead, 빨간양태(제주도)",Bembras japonica,빨간양태과,Family Bembridae,MF0009515
+618616,61,해면어류,86,양태류,16,실양태,Dragonet,Repomucenus valenciennei,돛양태과,Family Callionymidae,MF0009736
+618617,61,해면어류,86,양태류,17,점양태,,Inegocia japonica,양태과,Family Platycephalidae,
+618618,61,해면어류,86,양태류,18,참돛양태,,Repomucenus koreannus,돛양태과,Family Callionymidae,
+618619,61,해면어류,86,양태류,19,참주걱양태,,Repomucenus sagitta,돛양태과,Family Callionymidae,
+618620,61,해면어류,86,양태류,20,춤양태,,Repomucenus huguenini,돛양태과,Family Callionymidae,
+618621,61,해면어류,86,양태류,21,큰눈양태,,Suggrundus meedervoorti,양태과,Family Platycephalidae,
+618622,61,해면어류,86,양태류,22,흰점양태,,Repomucenus leucopoecilus,돛양태과,Family Callionymidae,
+618623,61,해면어류,86,양태류,23,외가시양태,,Hoplichthys gilberti,가시양태과,Family Hoplichthyidae ,
+618699,61,해면어류,86,양태류,99,기타양태류,,,,,
+618700,61,해면어류,87,여을멸류,00,여을멸류,,,,,
+618701,61,해면어류,87,여을멸류,01,여을멸,Sharpjaw bonefish,Albula argentea,여을멸과,Family Albulidae,MF0010850
+618799,61,해면어류,87,여을멸류,99,기타여을멸류,,,,,
+618800,61,해면어류,88,연어류,00,연어류,,,,,
+618801,61,해면어류,88,연어류,01,연어,Chum salmon,Oncorhynchus keta,연어과,Family Salmonidae,MF0002077
+618802,61,해면어류,88,연어류,02,곱사연어,"Saghalin salmon, 곱추송어",Oncorhynchus gorbuscha,연어과,Family Salmonidae,MF0002078
+618803,61,해면어류,88,연어류,03,연어알,Chum salmon,Oncorhynchus keta,연어과,Family Salmonidae,MF0002077
+618804,61,해면어류,88,연어류,04,은연어,Coho salmon,Onchorhynchus kisutch,연어과,Family Salmonidae,MF0009947
+618805,61,해면어류,88,연어류,05,홍연어,,Oncorhynchus nerka,,,
+618806,61,해면어류,88,연어류,06,왕연어,"Chinook salmon, King salmon",Oncorhynchus tshawytscha,연어과,Family Salmonidae,MF0002086
+618807,61,해면어류,88,연어류,07,대서양연어,,Salmo salar,연어과,,
+618808,61,해면어류,88,연어류,08,송어,"River salmon, trout,시마연어,송어",Oncorhynchus masou masou,연어과,Family Salmonidae,MF0010368
+618899,61,해면어류,88,연어류,99,기타연어류,,,,,
+618900,61,해면어류,89,은비늘치류,00,은비늘치류,,,,,
+618901,61,해면어류,89,은비늘치류,01,은비늘치,Short-nosed tripodfish,Triacanthus biaculeatus,은비늘치과,Family Triacanthidae,MF0000474
+618999,61,해면어류,89,은비늘치류,99,기타은비늘치류,,,,,
+619000,61,해면어류,90,장갱이류,00,장갱이류,,,,,
+619001,61,해면어류,90,장갱이류,01,장갱이,"Long shanny, 바다메기(동해)",Stichaeus grigorjewi,장갱이과,Family Stichaeidae,MF0004794
+619002,61,해면어류,90,장갱이류,02,괴도라치,,Chirolophis japonicus,장갱이과,Family Stichaeidae,MF0000763
+619003,61,해면어류,90,장갱이류,03,가시베도라치,,Lumpenella longirostris,장갱이과,Family Stichaeidae,MF0006451
+619004,61,해면어류,90,장갱이류,04,그물베도라치,,Dictyosoma burgeri,장갱이과,Family Stichaeidae,MF0002310
+619005,61,해면어류,90,장갱이류,05,민베도라치,,Zoarchias glaber,장갱이과,Family Stichaeidae,
+619006,61,해면어류,90,장갱이류,06,벼슬베도라치,,Alectrias benjamini,장갱이과,Family Stichaeidae,
+619007,61,해면어류,90,장갱이류,07,세줄베도라치,,Ernogrammus hexagrammus,장갱이과,Family Stichaeidae,
+619008,61,해면어류,90,장갱이류,08,송곳니베도라치,,Bryozoichthys lysimus,장갱이과,Family Stichaeidae,
+619009,61,해면어류,90,장갱이류,09,실베도라치,,Zoarchias aculeatus,장갱이과,Family Stichaeidae,
+619010,61,해면어류,90,장갱이류,10,얼룩가시치,,Neozoarces pulcher,장갱이과,Family Stichaeidae,
+619011,61,해면어류,90,장갱이류,11,얼룩괴도라치,,Ascoldia variegata,장갱이과,Family Stichaeidae,MF0014510
+619012,61,해면어류,90,장갱이류,12,왜도라치,,Chirolophis wui,장갱이과,Family Stichaeidae,
+619013,61,해면어류,90,장갱이류,13,우베도라치,,Zoarchias uchidai,장갱이과,Family Stichaeidae,
+619014,61,해면어류,90,장갱이류,14,육점날개,,Ophisthocentrus zonope,장갱이과,Family Stichaeidae,
+619015,61,해면어류,90,장갱이류,15,장어베도라치,,Lumpenus sagitta,장갱이과,Family Stichaeidae,MF0006449
+619016,61,해면어류,90,장갱이류,16,참육점날개,,Ophisthocentrus ocellatus,장갱이과,Family Stichaeidae,
+619017,61,해면어류,90,장갱이류,17,큰줄베도라치,,Stichaeopsis epallax,장갱이과,Family Stichaeidae,MF0004792
+619018,61,해면어류,90,장갱이류,18,황점베도라치,,Dictyosoma rubrimaculata,장갱이과,Family Stichaeidae,
+619019,61,해면어류,90,장갱이류,19,큰눈등가시치,,Anisarchus macrops,장갱이과,Family Stichaeidae,MF0015308
+619099,61,해면어류,90,장갱이류,99,기타장갱이류,,,,,
+619100,61,해면어류,91,장어류,00,장어류,,,,,
+619101,61,해면어류,91,장어류,01,붕장어,"Whitespotted conger, Conger eel, 붕어지(충남, 황해도), 꾀장어(전남), 장관, 벵찬(함남), 참장어(진도)",Conger myriaster,붕장어과,Family Congridae,MF0013309
+619102,61,해면어류,91,장어류,02,갯장어,"Daggertooth pike conger, 개장어, 놋장어, 뱀장어(부산, 김천), 갯붕장어(다대포), 이장어(통영), 참장어(여수), 노장(포항)",Muraenesox cinereus,갯장어과,Family Muraenesocidae,MF0009303
+619103,61,해면어류,91,장어류,03,먹장어,Inshore hagfish,Eptatretus burgeri,꾀장어과,Family Myxinidae,MF0014490
+619104,61,해면어류,91,장어류,04,남방걸장어,Spiny eel,Notacanthus chemnitzii,,,
+619105,61,해면어류,91,장어류,05,은붕장어,,Gnathophis nystromi,붕장어과,Family Congridae,
+619106,61,해면어류,91,장어류,06,가시걸장어,,Mastacembelus ellipsifer,,,
+619107,61,해면어류,91,장어류,07,은장어,,Anguilla anguilla,,,
+619108,61,해면어류,91,장어류,08,먹붕장어,먹붕장어류,Arisoma anagoides,붕장어과,Family Congridae,MF0005705
+619109,61,해면어류,91,장어류,09,걸장어,,Macrognathus aculeatus,걸장어과,Family Mastacembelidae,
+619110,61,해면어류,91,장어류,10,검붕장어,,Conger japonicus,붕장어과,Family Congridae,MF0013308
+619111,61,해면어류,91,장어류,11,꾀붕장어,,Anago anago,붕장어과,Family Congridae,
+619112,61,해면어류,91,장어류,12,날붕장어,,Echelus uropterus,바다뱀과,Family Ophichthidae,
+619113,61,해면어류,91,장어류,13,다묵장어,"Sand lamprey, 모래칠성장어",Lampetra reissneri,칠성장어과,Family Petromyzontidae,MF0003568
+619114,61,해면어류,91,장어류,14,무태장어,,Anguilla marmorata,뱀장어과,Family Anguillidae,
+619115,61,해면어류,91,장어류,15,묵꾀장어,"Brown hagfish, 꾀장어(전남)",Paramyxine atami,꾀장어과,Family Myxinidae,MF0014290
+619116,61,해면어류,91,장어류,16,물붕장어,,Oxyconger leptognathus,갯장어과,Family Muraenesocidae,
+619117,61,해면어류,91,장어류,17,애붕장어,,Uroconger lepturus,붕장어과,Family Congridae,
+619118,61,해면어류,91,장어류,18,칠성말배꼽,,Lampetra morii,칠성장어과,Family Petromyzontidae,
+619119,61,해면어류,91,장어류,19,테붕장어,,Rhechias retrotincta,붕장어과,Family Congridae,
+619120,61,해면어류,91,장어류,20,흰붕장어,conger eel,Arisoma shiroanago,붕장어과,Family Congridae,MF0005709
+619121,61,해면어류,91,장어류,21,갈물뱀,,Ophichthus urolophus,바다뱀과,Family Ophichthidae,MF0015348
+619122,61,해면어류,91,장어류,22,검은꼬리붕장어,,Rhynchoconger ectenurus,붕장어과,Family Congridae ,
+619123,61,해면어류,91,장어류,23,긴꼬리장어,"Stout moray, Shortbelly eel",Dysomma anguillare,긴꼬리장어과,Family Synaphobranchidae,MF0010004
+619124,61,해면어류,91,장어류,24,바다뱀,Snake eel,Ophisurus macrorhynchus,바다뱀과,Family Ophichthidae,MF0011075
+619125,61,해면어류,91,장어류,25,상주물뱀,,Pisodonophis sangjuensis,바다뱀과,Family Ophichthidae ,
+619126,61,해면어류,91,장어류,26,제주바다뱀,,Ophichthus asakusae,바다뱀과,Family Ophichthidae ,
+619199,61,해면어류,91,장어류,99,기타장어류,,,,,
+619200,61,해면어류,92,적어류,00,적어류,,,,,
+619201,61,해면어류,92,적어류,01,적어,,Sebastes marinus,,,
+619299,61,해면어류,92,적어류,99,기타적어류,,,,,
+619300,61,해면어류,93,전갱이류,00,전갱이류,,,,,
+619301,61,해면어류,93,전갱이류,01,갈전갱이,"Horse king fish, Whitefin trevally, 매가리(여수), 평전광어(전남), 갈고등어(흑산도)",Carangoides equula,전갱이과,Family Carangidae,MF0008374
+619302,61,해면어류,93,전갱이류,02,가라지,"White-tipped mackerel scad, Round scad, 가라지(전남 완도, 목포, 광주)",Decapterus maruadsi,전갱이과,Family Carangidae,MF0009112
+619303,61,해면어류,93,전갱이류,03,민전갱이,"White-tongue crevalle, whitetonge jack, 민정갱이(경남)",Uraspis helvolus,전갱이과,Family Carangidae,MF0007277
+619304,61,해면어류,93,전갱이류,04,줄전갱이,"Bigeye trevally, 줄전갱이(경남)",Caranx sexfasciatus,전갱이과,Family Carangidae,MF0010983
+619305,61,해면어류,93,전갱이류,05,긴가라지,Blue mackerel,Decapterus macrosoma,전갱이과,Family Carangidae,MF0009113
+619306,61,해면어류,93,전갱이류,06,녹줄매가리,Greenback horse mackerel,Trachurus declivis,전갱이과,Family Carangidae,MF0009708
+619307,61,해면어류,93,전갱이류,07,눈전갱이,,Selar torvus,전갱이과,Family Carangidae,
+619308,61,해면어류,93,전갱이류,08,병치매가리,Black pomfret,Parastromateus niger,전갱이과,Family Carangidae,MF0013779
+619309,61,해면어류,93,전갱이류,09,빨판매가리,,Trachinotus baillonii,전갱이과,Family Carangidae,
+619310,61,해면어류,93,전갱이류,10,새가라지,,Selar crumenophthalmus,전갱이과,Family Carangidae,MF0001159
+619311,61,해면어류,93,전갱이류,11,술전갱이,Bluespotted Trevally,Caranx bucculentus,전갱이과,Family Carangidae,MF0010987
+619312,61,해면어류,93,전갱이류,12,실전갱이,"African pompano, 실전갱이(통영)",Alectis ciliaris,전갱이과,Family Carangidae,MF0002532
+619313,61,해면어류,93,전갱이류,13,유전갱이,,Carangoides uii,전갱이과,Family Carangidae,MF0010989
+619314,61,해면어류,93,전갱이류,14,청전갱이,,Atropus atropus,전갱이과,Family Carangidae,MF0006904
+619315,61,해면어류,93,전갱이류,15,홍기가라지,Roughear scad,Decapterus tabl,전갱이과,Family Carangidae,MF0009114
+619316,61,해면어류,93,전갱이류,16,흑점갈전갱이,Tille trevally,Caranx tille,전갱이과,Family Carangidae,MF0010982
+619317,61,해면어류,93,전갱이류,17,흑점줄전갱이,Silver trevally,Pseudocaranx dentex,전갱이과,Family Carangidae,MF0013777
+619318,61,해면어류,93,전갱이류,18,붉은가라지,Red mackerel scad,Decapterus akaadsi,전갱이과,Family Carangidae,MF0009111
+619319,61,해면어류,93,전갱이류,19,전갱이,"Japanese jack mackerel, 전광어(경남), 메가리(부산), 가라지(완도), 빈쟁이(함남), 각재기(제주), 매생이(전남)",Trachurus japonicus,전갱이과,Family Carangidae,MF0009707
+619399,61,해면어류,93,전갱이류,99,기타전갱이류,,,,,
+619400,61,해면어류,94,전어류,00,전어류,,,,,
+619401,61,해면어류,94,전어류,01,전어,Konoshiro gizzard shad,Konosirus punctatus,청어과,Family Clupeidae,MF0012157
+619402,61,해면어류,94,전어류,02,납작전어,,Macrura reevesii,청어과,Family Clupeidae,
+619403,61,해면어류,94,전어류,03,대전어,,Nematalosa japonica,청어과,Family Clupeidae,MF0005260
+619404,61,해면어류,94,전어류,04,조선전어,,Clupanodon thrissa,청어과,Family Clupeidae,
+619499,61,해면어류,94,전어류,99,기타전어류,,,,,
+619500,61,해면어류,95,점매가리류,00,점매가리류,,,,,
+619501,61,해면어류,95,점매가리류,01,점매가리,Sailfin velifer,Velifer hypselopterus,점매가리과,Family Veliferidae,MF0011508
+619502,61,해면어류,95,점매가리류,02,투라치,,Trachipterus ishikawae,,Family Trachipteridae,MF0015450
+619599,61,해면어류,95,점매가리류,99,기타점매가리류,,,,,
+619600,61,해면어류,96,조기류,00,조기류,,,,,
+619601,61,해면어류,96,조기류,01,참조기,"Small yellow croaker, 황조기, 노랑조기",Larimichthys polyactis,민어과,Family Sciaenidae,MF0010668
+619602,61,해면어류,96,조기류,02,백조기,,Argyrosomus argentatus,민어과,Family Sciaenidae,
+619603,61,해면어류,96,조기류,03,부세,,Pseudosciaena crocea,민어과,Family Sciaenidae,MF0007371
+619604,61,해면어류,96,조기류,04,수조기,"White flower croaker, 반어, 부세(통영)",Nibea albiflora,민어과,Family Sciaenidae,MF0007187
+619605,61,해면어류,96,조기류,05,굴비,"Small yellow croaker, 황조기, 노랑조기",Larimichthys polyactis,민어과,Family Sciaenidae,MF0010668
+619606,61,해면어류,96,조기류,06,보리조기,Tasselfishes,Polynemidae,,,
+619607,61,해면어류,96,조기류,07,흑조기,"Longfin kob, Blackspotted croaker",Atrobucca nibe,민어과,Family Sciaenidae,MF0006917
+619608,61,해면어류,96,조기류,08,작은흑조기,Orange croaker,Atrobucca brevis,민어과,Family Sciaenidae,MF0006916
+619609,61,해면어류,96,조기류,09,보구치,Silver croaker,Pennahia argentata,민어과,Family Sciaenidae,MF0005380
+619699,61,해면어류,96,조기류,99,기타조기류,,,,,
+619700,61,해면어류,97,주걱치류,00,주걱치류,,,,,
+619701,61,해면어류,97,주걱치류,01,주걱치,Blackfin sweeper,Pempheris japonica,주걱치과,Family Pempheridae,MF0012286
+619702,61,해면어류,97,주걱치류,02,황안어,,Parapriacanthus ransonneti,주걱치과,Family Pempheridae,
+619799,61,해면어류,97,주걱치류,99,기타주걱치류,,,,,
+619800,61,해면어류,98,주둥치류,00,주둥치류,,,,,
+619801,61,해면어류,98,주둥치류,01,왜주둥치,Slender ponyfish,Leiognathus elongatus,주둥치과,Family Leiognathidae,MF0009290
+619802,61,해면어류,98,주둥치류,02,점주둥치,,Leiognathus rivulatus,주둥치과,Family Leiognathidae,
+619803,61,해면어류,98,주둥치류,03,주둥치,"Spotnape ponyfish, 평고기",Leiognathus nuchalis,주둥치과,Family Leiognathidae,MF0008337
+619804,61,해면어류,98,주둥치류,04,줄주둥치,,Leiognathus lineolatus,주둥치과,Family Leiognathidae,
+619899,61,해면어류,98,주둥치류,99,기타주둥치류,,,,,
+619900,61,해면어류,99,준치류,00,준치류,,,,,
+619901,61,해면어류,99,준치류,01,준치,Elongate ilisha,Ilisha elongata,준치과,Family Pristigasteridae,MF0013284
+619902,61,해면어류,99,준치류,02,때치,,Pristigaster chinensis,준치과,Family Pristigasteridae,
+619999,61,해면어류,99,준치류,99,기타준치류,,,,,
+61A000,61,해면어류,A0,쥐치류,00,쥐치류,,,,,
+61A001,61,해면어류,A0,쥐치류,01,그물코쥐치,,Rudarius ercodes,쥐치과,Family Monacanthidae,MF0004397
+61A002,61,해면어류,A0,쥐치류,02,날개쥐치,"Figured leather jacket, unicornfish, 날개쥐치(한어)",Aluterus scriptus,쥐치과,Family Monacanthidae,MF0014522
+61A003,61,해면어류,A0,쥐치류,03,말쥐치,Black scraper,Thamnaconus modestus,쥐치과,Family Monacanthidae,MF0015053
+61A004,61,해면어류,A0,쥐치류,04,가는꼬리쥐치,Starry trigger fish,Abalistes stellaris,쥐치복과,Family Balistidae,MF0013313
+61A005,61,해면어류,A0,쥐치류,05,가시쥐치,,Chaetoderma penicilligerus,쥐치과,Family Monacanthidae,
+61A006,61,해면어류,A0,쥐치류,06,갈쥐치,,Sufflamen fraenatus,쥐치복과,Family Balistidae,MF0006360
+61A007,61,해면어류,A0,쥐치류,07,객주리,"Unicorn leatherjacket, 객주리(제주도)",Aluterus monoceros,쥐치과,Family Monacanthidae,MF0014530
+61A008,61,해면어류,A0,쥐치류,08,무늬쥐치,Ocean trigger fish,Canthidermis maculatus,쥐치복과,Family Balistidae,MF0010462
+61A009,61,해면어류,A0,쥐치류,09,물각쥐치,,Pseudalutarius nasicornis,쥐치과,Family Monacanthidae,
+61A010,61,해면어류,A0,쥐치류,10,배주름쥐치,,Rhinecanthus aculeatus,쥐치복과,Family Balistidae,
+61A011,61,해면어류,A0,쥐치류,11,별쥐치,Lesser-spotted leatherjacket,Thamnaconus hypargyreus,쥐치과,Family Monacanthidae,MF0015052
+61A012,61,해면어류,A0,쥐치류,12,분홍쥐치,Red spikefish,Triacanthodes anomalus,분홍쥐치과,Family Triacanthodidae,MF0000460
+61A013,61,해면어류,A0,쥐치류,13,새앙쥐치,,Paramonacanthus japonicus,쥐치과,Family Monacanthidae,MF0014292
+61A014,61,해면어류,A0,쥐치류,14,큰뿔표문쥐치,,Naso brevirostris,양쥐돔과,Family Acanthuridae,MF0007477
+61A015,61,해면어류,A0,쥐치류,15,파랑쥐치,,Balistoides conspicillum,쥐치복과,Family Balistidae,
+61A016,61,해면어류,A0,쥐치류,16,표문쥐치,Bluespine surgeonfish,Naso unicornis,양쥐돔과,Family Acanthuridae,MF0014173
+61A017,61,해면어류,A0,쥐치류,17,황록쥐치,Yellowmargin triggerfish,Pseudobalistes flavimarginatus,쥐치복과,Family Balistidae,MF0007898
+61A018,61,해면어류,A0,쥐치류,18,흑백쥐치,"Brown leatherjacker, Wire-netting",Cantherhines dumerilii,쥐치과,Family Monacanthidae,MF0010464
+61A019,61,해면어류,A0,쥐치류,19,쥐치,"Thread-sail filefish, 쥐치어(전남), 객주리(제주도), 가치(포항), 쥐고기(부산)",Stephanolepis cirrhifer,쥐치과,Family Monacanthidae,MF0010226
+61A099,61,해면어류,A0,쥐치류,99,기타쥐치류,,,,,
+61A100,61,해면어류,A1,철갑둥어류,00,철갑둥어류,,,,,
+61A101,61,해면어류,A1,철갑둥어류,01,철갑둥어,"Pinecone fish, 자래고기(봉암도)",Monocentris japonica,철갑둥어과,Family Monocentridae,MF0002609
+61A199,61,해면어류,A1,철갑둥어류,99,기타철갑둥어류,,,,,
+61A200,61,해면어류,A2,철갑상어류,00,철갑상어류,,,,,
+61A201,61,해면어류,A2,철갑상어류,01,철갑상어,"Chinese sturgeon, 줄철갑상어,용상어,줄상어",Acipenser sinensis,철갑상어과,Family Acipenseridae,MF0000243
+61A202,61,해면어류,A2,철갑상어류,02,칼상어,,Acipenser dabryanus,철갑상어과,Family Acipenseriformes,
+61A203,61,해면어류,A2,철갑상어류,03,러시안철갑상어,,Acipenser gueldenstaedtii,철갑상어과,Family Acipenseriformes,
+61A204,61,해면어류,A2,철갑상어류,04,베스테르철갑상어,,Acipenser ruthenus,철갑상어과,Family Acipenseriformes,
+61A205,61,해면어류,A2,철갑상어류,05,시베리아철갑상어,,Acipenser baerii,철갑상어과,Family Acipenseriformes,
+61A206,61,해면어류,A2,철갑상어류,06,이탈리안철갑상어,,Acipenser naccarii,철갑상어과,Family Acipenseriformes,
+61A299,61,해면어류,A2,철갑상어류,99,기타철갑상어류,,,,,
+61A300,61,해면어류,A3,첨치류,00,첨치류,,,,,
+61A301,61,해면어류,A3,첨치류,01,붉은메기,Armored brotula,Hoplobrotula armata,첨치과,Family Ophidiidae,MF0009570
+61A302,61,해면어류,A3,첨치류,02,곱등양메기,,Grammonus robustus,검은첨치과,Family Bythitidae ,
+61A303,61,해면어류,A3,첨치류,03,그물메기,"Whitespotted brotula, 그물메기(제주도)",Neobythites sivicola,첨치과,Family Ophidiidae,MF0012618
+61A304,61,해면어류,A3,첨치류,04,동갈메기,,Sirembo imberbis,첨치과,Family Ophidiidae,MF0004615
+61A399,61,해면어류,A3,첨치류,99,기타첨치류,,,,,
+61A400,61,해면어류,A4,청어류,00,청어류,,,,,
+61A401,61,해면어류,A4,청어류,01,밴댕이,"Japanese sardinella, 반댕이, 빈징어, 순뎅이, 뒤파리, 뒤포리, 누수퍼리, 납시구, 빈지매, 반전어, 자구리, 순정이, 띠푸리, 청띠푸리, 흰히띠푸리, 반담이",Sardinella zunasi,청어과,Family Clupeidae,MF0013752
+61A402,61,해면어류,A4,청어류,02,청어,"Pacific herring, 등어, 비웃, 구구대, 고심청어, 푸주치, 눈검쟁이, 갈청어, 울산치, 과목숙구기",Clupea pallasii,청어과,Family Clupeidae,MF0003624
+61A403,61,해면어류,A4,청어류,03,청어알,"Pacific herring, 등어, 비웃, 구구대, 고심청어, 푸주치, 눈검쟁이, 갈청어, 울산치, 과목숙구기",Clupea pallasii,청어과,Family Clupeidae,MF0003624
+61A404,61,해면어류,A4,청어류,04,정어리,"Spotlined sardine, 눈치(강릉), 순봉이(평북)",Sardinops sagax,청어과,Family Clupeidae,MF0006476
+61A405,61,해면어류,A4,청어류,05,눈퉁멸,"Round herring, bigeye sardine, 눈퉁이멸, 눈치, 펄눙멸(제주도), 수열치(몽금포)",Etrumeus teres,청어과,Family Clupeidae,MF0005766
+61A406,61,해면어류,A4,청어류,06,샛줄멸,Silver-stripe round herring,Spratelloides gracilis,청어과,Family Clupeidae,MF0012766
+61A407,61,해면어류,A4,청어류,07,이와치,,Sardinella immaculata,청어과,Family Clupeidae,MF0013751
+61A499,61,해면어류,A4,청어류,99,기타청어류,,,,,
+61A500,61,해면어류,A5,촉수류,00,촉수류,,,,,
+61A501,61,해면어류,A5,촉수류,01,금줄촉수,,Parupeneus fraterculus,촉수과,Family Mullidae,
+61A502,61,해면어류,A5,촉수류,02,남촉수,,Upeneus pleurotaenia,촉수과,Family Mullidae,
+61A503,61,해면어류,A5,촉수류,03,노랑촉수,"Bensasi goatfish, Yellowfin goatfish",Upeneus japonicus,촉수과,Family Mullidae,MF0008859
+61A504,61,해면어류,A5,촉수류,04,두줄촉수,,Parupeneus spilurus,촉수과,Family Mullidae,MF0011336
+61A505,61,해면어류,A5,촉수류,05,먹줄촉수,,Upeneus sulphureus,촉수과,Family Mullidae,
+61A506,61,해면어류,A5,촉수류,06,주황촉수,,Parupeneus chrysopleuron,촉수과,Family Mullidae,
+61A599,61,해면어류,A5,촉수류,99,기타촉수류,,,,,
+61A600,61,해면어류,A6,큰가시고기류,00,큰가시고기류,,,,,
+61A601,61,해면어류,A6,큰가시고기류,01,청가시고기,,Pungitius pungitius pungitius,큰가시고기과,Family Gasterosteidae,
+61A602,61,해면어류,A6,큰가시고기류,02,큰가시고기,Three spine stickleback,Gasterosteus aculeatus,큰가시고기과,Family Gasterosteidae,MF0006248
+61A699,61,해면어류,A6,큰가시고기류,99,기타큰가시고기류,,,,,
+61A700,61,해면어류,A7,통구멍류,00,통구멍류,,,,,
+61A701,61,해면어류,A7,통구멍류,01,민통구멍,,Uranoscopus flavipinnis,통구멍과,Family Uranoscopidae,
+61A702,61,해면어류,A7,통구멍류,02,비늘통구멍,Tosa stargazer,Uranoscopus tosae,통구멍과,Family Uranoscopidae,MF0001405
+61A703,61,해면어류,A7,통구멍류,03,얼룩통구멍,Japanese stargazer,Uranoscopus japonicus,통구멍과,Family Uranoscopidae,MF0001406
+61A704,61,해면어류,A7,통구멍류,04,큰얼룩통구멍,Giant stargazer,Kathetostoma giganteum,통구멍과,Family Uranoscopidae,MF0006682
+61A705,61,해면어류,A7,통구멍류,05,통구멩이,"Blackbanded stargazer, 통구셍이(여수)",Uranoscopus bicinctus,통구멍과,Family Uranoscopidae,MF0001408
+61A706,61,해면어류,A7,통구멍류,06,푸렁통구멍,"Bluespotted stargazer, blue puffer fish, 푸렁통구멍(전남)",Xenocephalus elongatus,통구멍과,Family Uranoscopidae,MF0008664
+61A799,61,해면어류,A7,통구멍류,99,기타통구멍류,,,,,
+61A800,61,해면어류,A8,투어바리류,00,투어바리류,,,,,
+61A801,61,해면어류,A8,투어바리류,01,투어바리,Wreckfish,Polyprion oxygeneios,투어바리과,Family Polyprionidae,MF0014325
+61A899,61,해면어류,A8,투어바리류,99,기타투어바리류,,,,,
+61A900,61,해면어류,A9,풀미역치류,00,풀미역치류,,,,,
+61A901,61,해면어류,A9,풀미역치류,01,풀미역치,"Spotted velvetfish, 수베기(포항)",Erisphex pottii,풀미역치과,Family Aploactinidae,MF0014477
+61A999,61,해면어류,A9,풀미역치류,99,기타풀미역치류,,,,,
+61B000,61,해면어류,B0,학공치류,00,학공치류,,,,,
+61B001,61,해면어류,B0,학공치류,01,학공치,"Half beak, Horn fish, 공미리, 공매리(원산), 굉메리(강원도), 공치(충남, 전남), 순붕이, 곰능이(평북), 청망어(평남)",Hyporhamphus sajori,학공치과,Family Hemiramphidae,MF0007755
+61B002,61,해면어류,B0,학공치류,02,살공치,,Hyporhamphus quoyi,학공치과,Family Hemiramphidae,
+61B003,61,해면어류,B0,학공치류,03,줄공치,Brackish halBrackish half beak,Hyporhamphus intermedius,학공치과,Family Hemiramphidae,MF0011663
+61B099,61,해면어류,B0,학공치류,99,기타학공치류,,,,,
+61B100,61,해면어류,B1,학치류,00,학치류,,,,,
+61B101,61,해면어류,B1,학치류,01,황학치,,Aspasmichthys ciconiae,학치과,Family Gobiesocidae,
+61B199,61,해면어류,B1,학치류,99,기타학치류,,,,,
+61B200,61,해면어류,B2,홍메치류,00,홍메치류,,,,,
+61B201,61,해면어류,B2,홍메치류,01,히메치,"Japanese thread-sail fish, Japanese aulopus",Aulopus japonicus,홍메치과,Family Aulopodidae,MF0009538
+61B299,61,해면어류,B2,홍메치류,99,기타홍메치류,,,,,
+61B300,61,해면어류,B3,홍어류,00,홍어류,,,,,
+61B301,61,해면어류,B3,홍어류,01,살홍어,Acutenose skate,Dipturus tengu,가오리과,Family Rajidae,MF0000297
+61B302,61,해면어류,B3,홍어류,02,광동홍어,Kwangtung skate,Dipturus kwangtungensis,가오리과,Family Rajidae,MF0010844
+61B303,61,해면어류,B3,홍어류,03,깨알홍어,"Boeseman's skate, Black sand skate",Okamejei boesemani,가오리과,Family Rajidae,MF0010840
+61B304,61,해면어류,B3,홍어류,04,참홍어,"Mottled skate, 참홍어,눈가오리",Raja pulchra,가오리과,Family Rajidae,MF0006120
+61B305,61,해면어류,B3,홍어류,05,무늬홍어,,Okamejei acutispina,홍어과,Family Rajidae ,
+61B306,61,해면어류,B3,홍어류,06,홍어,"Ocellate spot skate, 고동무치(전남), 물개미(함남), 나무가부리(포항), 간쟁이(신미도)",Okamejei kenojei,가오리과,Family Rajidae,MF0002577
+61B399,61,해면어류,B3,홍어류,99,기타홍어류,,,,,
+61B400,61,해면어류,B4,활치류,00,활치류,,,,,
+61B401,61,해면어류,B4,활치류,01,제비활치,,Platax pinnatus,활치과,Family Ephippidae,
+61B499,61,해면어류,B4,활치류,99,기타활치류,,,,,
+61B500,61,해면어류,B5,황줄깜정이류,00,황줄깜정이류,,,,,
+61B501,61,해면어류,B5,황줄깜정이류,01,긴꼬리벵에돔,,Girella melanichthys,황줄깜정이과,Family Kyphosidae,
+61B502,61,해면어류,B5,황줄깜정이류,02,무늬갈돔,Blue seachub,Kyphosus cinerascens,황줄깜정이과,Family Kyphosidae,MF0012167
+61B503,61,해면어류,B5,황줄깜정이류,03,범돔,"Stripey, Footballer",Microcanthus strigatus,황줄깜정이과,Family Kyphosidae,MF0008828
+61B504,61,해면어류,B5,황줄깜정이류,04,양벵에돔,,Girella mezina,황줄깜정이과,Family Kyphosidae,
+61B505,61,해면어류,B5,황줄깜정이류,05,황줄깜정이,Brassy chub,Kyphosus vaigiensis,황줄깜정이과,Family Kyphosidae,MF0012147
+61B599,61,해면어류,B5,황줄깜정이류,99,기타황줄깜정이류,,,,,
+61ZZ00,61,해면어류,ZZ,기타해면어류,00,,,,,,
+620000,62,해면패류,00,,00,,,,,,
+620100,62,해면패류,01,가리비류,00,가리비류,,,,,
+620101,62,해면패류,01,가리비류,01,큰가리비,"Yesso scallop, 가리비, 참가리비, 밥조개",Patinopecten yessoensis,큰집가리비과,Family Propeamussiidae,MF0003747
+620102,62,해면패류,01,가리비류,02,해만가리비,,Argopecten irradians,큰집가리비과,Family Propeamussiidae,
+620103,62,해면패류,01,가리비류,03,고랑가리비,,Chlamys swifti,큰집가리비과,Family Propeamussiidae,
+620104,62,해면패류,01,가리비류,04,국자가리비,"Japanese baking scallop, 부채조개",Pecten albicans albicans,,Family Pectiniidae,MF0011815
+620105,62,해면패류,01,가리비류,05,비단가리비,,Chlamys farreri nipponensis,가리비과,Family Pectinidae,MF0007848
+620106,62,해면패류,01,가리비류,06,흔한가리비,무지개가리비,Chlamys nobilis,큰집가리비과,Family Propeamussiidae,
+620107,62,해면패류,01,가리비류,07,비늘가리비,,Chlamys squamata,가리비과,Family Pectinidae,
+620108,62,해면패류,01,가리비류,08,해가리비,"Japanese moon scallop, 붉은달조개",Amusium japonicum japonicum,가리비과,Family Pectinidae,MF0004053
+620199,62,해면패류,01,가리비류,99,기타가리비류,,,,,
+620200,62,해면패류,02,개량조개류,00,개량조개류,,,,,
+620201,62,해면패류,02,개량조개류,01,동죽(동조개),"불통, 염취, 조합, 바지락개량조개, 새조개,해락(동죽살)",Mactra veneriformis,개량조개과,Family Mactridae,MF0006982
+620202,62,해면패류,02,개량조개류,02,개량조개,"Chinese mactra, 북방개량조개",Mactra chinensis,개량조개과,Family Mactridae,MF0006983
+620203,62,해면패류,02,개량조개류,03,명주개량조개(황조개),"Antique mactra, 대합",Coelomactra antiquata,개량조개과,Family Mactridae,MF0001672
+620204,62,해면패류,02,개량조개류,04,북방대합,,Pseudocardium sachalinensis,개량조개과,Family Mactridae,MF0007914
+620205,62,해면패류,02,개량조개류,05,왕우럭조개,Keen’s gaper,Tresus keenae,개량조개과,Family Mactridae,MF0000456
+620299,62,해면패류,02,개량조개류,99,기타개량조개류,,,,,
+620300,62,해면패류,03,고둥류,00,고둥류,,,,,
+620301,62,해면패류,03,고둥류,01,소라,"Spiny top shell, 살고둥",Batillus cornutus,소라과,Family Turbinidae,MF0002237
+620302,62,해면패류,03,고둥류,02,피뿔고둥,"Thomas’s rapa whelk, 소라(두드럭고둥), 참고둥,참고동",Rapana venosa,뿔소라과,Family Muricidae,MF0012888
+620303,62,해면패류,03,고둥류,03,쇠고둥,,Buccinum undatum,,,
+620304,62,해면패류,03,고둥류,04,골뱅이,,Monoplex australasiae,물레고둥과,Family Buccinidae,
+620305,62,해면패류,03,고둥류,05,갯고둥,"Many-formed cerith, 흰줄바다와라;개도래",Batillaria multiformis,갯고둥과,Family Potamididae,MF0002229
+620306,62,해면패류,03,고둥류,06,물레고둥,"Finely-striate buccinum, 쇠고둥",Buccinum striatissimum,물레고둥과,Family Buccinidae,MF0013159
+620307,62,해면패류,03,고둥류,07,감생이고둥,Spengler’s nutmeg,Sydaphera spengleriana,감생이고둥과,Family Cancellariidae,MF0006348
+620308,62,해면패류,03,고둥류,08,뿔소라,,Chicoreus asianus,,,
+620309,62,해면패류,03,고둥류,09,위고둥,"Gold-mouthed tun, 대고동, 통고둥",Tonna luteostoma,위고둥과,Family Tonnidae,MF0009196
+620310,62,해면패류,03,고둥류,10,매물고둥,,Neptunea despecta,물레고둥과,Family Buccinidae,MF0012183
+620311,62,해면패류,03,고둥류,11,갈색띠매물고둥(서해바다골뱅이),"Arthritic neptune, 혹매물고동",Neptunea cumingi,물레고둥과,Family Buccinidae,MF0012182
+620312,62,해면패류,03,고둥류,12,검은갯고둥,,,,,
+620313,62,해면패류,03,고둥류,13,보말고둥,,Omphalius rusticus,밤고둥과,Family Trochidae,MF0009952
+620314,62,해면패류,03,고둥류,14,조각매물고둥,Double sculptured neptune,Neptunea intersculpta,물레고둥과,Family Buccinidae,MF0012176
+620315,62,해면패류,03,고둥류,15,총알고둥,,Littorina brevicula,총알고둥과,Family Littorinidae,
+620316,62,해면패류,03,고둥류,16,털탑고둥,Ternate false fusus,Hemifusus ternatanus,털탑고둥과,Family Melongenidae,MF0010955
+620317,62,해면패류,03,고둥류,17,각시고둥,,Monodonta neritoedes,밤고둥과,Family Trochidae,
+620318,62,해면패류,03,고둥류,18,각시수랑,"Ample fragile buccinum, 대추고동",Volutharpa ampullacea perryi,물레고둥과,Family Buccinidae,MF0010020
+620319,62,해면패류,03,고둥류,19,갈색고리돼지고둥,,Siphonalia spadicea fuscolineata,물레고둥과,Family Buccinidae,
+620320,62,해면패류,03,고둥류,20,굵은가시물레고둥,,Buccinum mirandum koreanum,물레고둥과,Family Buccinidae,
+620321,62,해면패류,03,고둥류,21,굵은빗줄물레고둥,,Buccinum plectrum,물레고둥과,Family Buccinidae,
+620322,62,해면패류,03,고둥류,22,긴고둥,,Fusinus perlexus,긴고둥과,Family Fasciolariidae,
+620323,62,해면패류,03,고둥류,23,깊은골물레고둥,,Buccinum tsubai,물레고둥과,Family Buccinidae,
+620324,62,해면패류,03,고둥류,24,꼬마수랑,,Volutharpa ampullacea ampullacea,물레고둥과,Family Buccinidae,
+620325,62,해면패류,03,고둥류,25,나사못고둥,,Microfusus magnifica magnifica,물레고둥과,Family Buccinidae,
+620326,62,해면패류,03,고둥류,26,나팔고둥,,Charonia lampas sauliae,수염고둥과,Family Ranellidae,
+620327,62,해면패류,03,고둥류,27,납작소라,Japanese Star-shell,Pomaulax japonicus,소라과,Family Turbinidae,MF0004950
+620328,62,해면패류,03,고둥류,28,넓은입물레고둥,,Volutopsius middendorffi middendorffi,물레고둥과,Family Buccinidae,
+620329,62,해면패류,03,고둥류,29,높은탑이색구슬우렁이,,Glossaulax didyma hayashii,구슬우렁이과,Family Naticidea,
+620330,62,해면패류,03,고둥류,30,높은탑큰구슬우렁이,,Glossaulax didyma ampla,구슬우렁이과,Family Naticidea,
+620331,62,해면패류,03,고둥류,31,돌구슬우렁이,Violet-mouthed moon,Cryptonatica janthostomoides,구슬우렁이과,Family Naticidae,MF0007283
+620332,62,해면패류,03,고둥류,32,두드럭털탑고둥,,Pugilina (Semifusus) crassicaudus,털탑고둥과,Family Melongeniae,
+620333,62,해면패류,03,고둥류,33,둥근명주매물고둥,,Neptunea amianta,물레고둥과,Family Buccinidae,
+620334,62,해면패류,03,고둥류,34,명주물레고둥,"주름매물고동, 명주매물고둥",Neptunea constricta,물레고둥과,Family Buccinidae,MF0012181
+620335,62,해면패류,03,고둥류,35,방석고둥,,Calliostoma unicum,밤고둥과,Family Trochidae,
+620336,62,해면패류,03,고둥류,36,보라세로주름고둥,,Plicifusus scissuratus,물레고둥과,Family Buccinidae,
+620337,62,해면패류,03,고둥류,37,북방명주매물고둥,,Neptunea eulimata,물레고둥과,Family Buccinidae,
+620338,62,해면패류,03,고둥류,38,뾰족물레고둥,,Reticubussinum acutispiratum,물레고둥과,Family Buccinidae,
+620339,62,해면패류,03,고둥류,39,세고리물레고둥,,Buccinum verkruzeni,물레고둥과,Family Buccinidae,
+620340,62,해면패류,03,고둥류,40,세뿔고둥,Fournier’s purpura,Ceratostoma fournieri,뿔소라과,Family Muricidae,MF0005543
+620341,62,해면패류,03,고둥류,41,아니완물레고둥,,Buccinum aniwanum,물레고둥과,Family Buccinidae,
+620342,62,해면패류,03,고둥류,42,얼룩고둥,,Cantharidus callichroa,밤고둥과,Family Trochidae,
+620343,62,해면패류,03,고둥류,43,얼룩방석고둥,,Calliostoma multiliratum,밤고둥과,Family Trochidae,
+620344,62,해면패류,03,고둥류,44,월계관납작소라,,Guildfordia triumphans,소라과,Family Turbinidae,
+620345,62,해면패류,03,고둥류,45,잔고리매물고둥,,Buccinum zelotes,물레고둥과,Family Buccinidae,
+620346,62,해면패류,03,고둥류,46,잔띠매물고둥,,Neptunea lamellosa,물레고둥과,Family Buccinidae,
+620347,62,해면패류,03,고둥류,47,잔띠물레고둥,,Buccinum zelotes,물레고둥과,Family Buccinidae,
+620348,62,해면패류,03,고둥류,48,잔뿔소라,,Galeoastraea modesta,소라과,Family Turbinidae,MF0013518
+620349,62,해면패류,03,고둥류,49,잘피에메랄드고둥,,Phanerophthalmus smaragdinus,포도고둥과,Family Haminoeidae,
+620350,62,해면패류,03,고둥류,50,좁쌀무늬고둥,,Niotha livescens,좁쌀무늬고둥과,Family Nassariidae,
+620351,62,해면패류,03,고둥류,51,팽이방석고둥,,Calliostoma koma,밤고둥과,Family Trochidae,
+620352,62,해면패류,03,고둥류,52,호리호리털골뱅이,,Fusitriton galea,수염고둥과,Family Ranellidae,MF0016756
+620353,62,해면패류,03,고둥류,53,홍줄고둥,,Fulgoraria kaneko kaneko,홍중고둥과,Family Volutidae,
+620354,62,해면패류,03,고둥류,54,황색잔주름고둥,,Colus esychus,물레고둥과,Family Buccinidae,
+620399,62,해면패류,03,고둥류,99,기타고둥류,,,,,
+620400,62,해면패류,04,굴류,00,굴류,,,,,
+620401,62,해면패류,04,굴류,01,굴(참굴),"Pacific oyster(Japanese oyster), 참굴",Crassostrea gigas,굴과,Family Ostreidae,MF0013773
+620402,62,해면패류,04,굴류,02,바위굴,,Crassostrea nippona,굴과,Family Ostreidae,MF0013774
+620403,62,해면패류,04,굴류,03,가시굴,,Saxostrea echinata,,,
+620404,62,해면패류,04,굴류,04,갓굴,,Crassostrea ariakensis,굴과,Family Ostreidae,
+620405,62,해면패류,04,굴류,05,토굴(퍽굴),"Densely lamellated oyster, 벗굴, 벅굴",Ostrea denselamellosa,굴과,Family Ostreidae,MF0008009
+620499,62,해면패류,04,굴류,99,기타굴류,,,,,
+620500,62,해면패류,05,기타조개류,00,기타조개류,,,,,
+620501,62,해면패류,05,기타조개류,01,돌조개,,Arca avellana,돌조개과,Family Arcidae,
+620502,62,해면패류,05,기타조개류,02,코끼리조개,"Japanese geoduck, 구이덕조개",Panopea japonica,족사부착쇄조개과,Family Hiatellidae,MF0008619
+620503,62,해면패류,05,기타조개류,03,갈매기조개,,Penitella kamakurensis,석공조개과,Family Pholadidae,
+620504,62,해면패류,05,기타조개류,04,빛조개,,Nuttallia japonica,자패과,Family Psammobiidae,
+620505,62,해면패류,05,기타조개류,05,투박조개,,Glycymeris albolineata,,,
+620506,62,해면패류,05,기타조개류,06,돌고부지,,Trapezium liratum,돌고부지과,Family Trapeziidae,
+620507,62,해면패류,05,기타조개류,07,띠조개,,Laternula marilina,띠조개과,Family Laternulidae,MF0002935
+620508,62,해면패류,05,기타조개류,08,밤색무늬조개,"Colthed bittersweet, 구슬피조개",Glycymeris vestita,밤색무늬조개과,Family Glycymerididae,MF0004250
+620509,62,해면패류,05,기타조개류,09,복털조개,,Barbatia virescens,돌조개과,Family Arcidae,
+620510,62,해면패류,05,기타조개류,10,비로도복털조개,,Didimarca tenebricum,돌조개과,Family Arcidae,
+620511,62,해면패류,05,기타조개류,11,삿갓조개,,Family Patellidae,원시복족목,Order Archaeogastropoda,
+620512,62,해면패류,05,기타조개류,12,올리브복털조개,,Estellarca olivacea,돌조개과,Family Arcidae,
+620513,62,해면패류,05,기타조개류,13,개굴잠쟁이,,Anomia chinensis,잠쟁이과,Family Anomiidae,
+620514,62,해면패류,05,기타조개류,14,노랑볼록조개,,Cycladicama cumingii,돌살이조개과,Family Unglulinidae,MF0017278
+620515,62,해면패류,05,기타조개류,15,두점잠쟁이,,Monia macrochisma,잠쟁이과,Family Anomiidae,
+620516,62,해면패류,05,기타조개류,16,민호두조개,,Acila (Acila) divaricata vigila,민호두조개과,Family Nuculidae,
+620517,62,해면패류,05,기타조개류,17,우럭(도끼조개),"Soft-shell clam, 다랑조개",Mya arenaria,우럭과,Family Myoidae,MF0008870
+620518,62,해면패류,05,기타조개류,18,큰이랑피조개,,Scapharca satowi,돌조개과,Family Arcidae,
+620519,62,해면패류,05,기타조개류,19,호두조개,,Acila divaricata,애호두조개과,Family Nuculidae,
+620599,62,해면패류,05,기타조개류,99,기타기타조개류,,,,,
+620800,62,해면패류,08,꼬막류,00,꼬막류,,,,,
+620801,62,해면패류,08,꼬막류,01,새꼬막(피조개),"Half-crenate ark, 새고막 피조개,새고막",Scapharca subcrenata,돌조개과,Family Arcidae,MF0004220
+620802,62,해면패류,08,꼬막류,02,꼬막,"Granular ark, 고막,참고막,참꼬막",Tegillarca granosa,돌조개과,Family Arcidae,MF0005958
+620803,62,해면패류,08,꼬막류,03,피조개(큰피조개),Broughton’s ribbed ark,Scapharca broughtonii,돌조개과,Family Arcidae,MF0004224
+620899,62,해면패류,08,꼬막류,99,기타꼬막류,,,,,
+620900,62,해면패류,09,맛조개류,00,맛조개류,,,,,
+620901,62,해면패류,09,맛조개류,01,가리맛조개(맛),"Constricted tagelus, 참맛",Sinonovacula constricta,작두콩가리맛조개과,Family Pharellidae,MF0003824
+620902,62,해면패류,09,맛조개류,02,돼지가리맛,,Solecurtus divaricatus,발가리맛조개과,Family Solecurtidae,MF0003482
+620903,62,해면패류,09,맛조개류,03,대맛조개(토어),"Grand jackknife clam, 큰죽합, 대맛",Solen grandis,죽합과,Family Solenidae,MF0003488
+620904,62,해면패류,09,맛조개류,04,돌맛조개,,Barnea manilensis,석공조개과,Family Pholadidae,
+620905,62,해면패류,09,맛조개류,05,꼬마맛조개,,Siliqua minima,둥근맛조개과,Family Cutellidae,
+620906,62,해면패류,09,맛조개류,06,보라맛조개,,Siliqua alta,둥근맛조개과,Family Cutellidae,
+620907,62,해면패류,09,맛조개류,07,붉은맛(붉은토어),"큰죽합, 대맛",Solen gordonis,죽합과,Family Solenidae,MF0003489
+620908,62,해면패류,09,맛조개류,08,붉은무늬맛조개,,Ensiculus cultellus,둥근맛조개과,Family Cutellidae,
+620909,62,해면패류,09,맛조개류,09,왜맛조개,,Siliqua patula,둥근맛조개과,Family Cutellidae,
+620999,62,해면패류,09,맛조개류,99,기타맛조개류,,,,,
+621000,62,해면패류,10,바지락류,00,바지락류,,,,,
+621001,62,해면패류,10,바지락류,01,바지락,"Filipino venus, Japanese littleneck, 바스레기;모시조개",Ruditapes philippinarum,백합과,Family Veneridae,MF0011875
+621002,62,해면패류,10,바지락류,02,아기바지락,"Variegate venus, 아기반지락, 가는줄반지락, 가는줄바지락, 줄바지락",Ruditapes variegatus,백합과,Family Veneridae,MF0011876
+621099,62,해면패류,10,바지락류,99,기타바지락류,,,,,
+621100,62,해면패류,11,백합류,00,백합류,,,,,
+621101,62,해면패류,11,백합류,01,개조개,Purple washington clam,Saxidomus purpuratus,백합과,Family Veneridae,MF0011266
+621102,62,해면패류,11,백합류,02,가무락조개(가무레기),"Chinese cyclina, 가무레기, 가무락, 가막조개, 가무래기, 바지락조개, 바지락이",Cyclina sinensis,백합과,Family Veneridae,MF0009904
+621103,62,해면패류,11,백합류,03,백합,,Meretrix lusoria,백합과,Family Veneridae,MF0005306
+621104,62,해면패류,11,백합류,04,살조개(큰바스레기),,Protothaca jedoensis,백합과,Family Veneridae,MF0011385
+621105,62,해면패류,11,백합류,05,민들조개,,Gomphina melanaegis,백합과,Family Veneridae,MF0009967
+621106,62,해면패류,11,백합류,06,떡조개,,Phacosoma japonicus,백합과,Family Veneridae,MF0019463
+621107,62,해면패류,11,백합류,07,깜장북방대합,Stimpson’s mactra,Spisula polynyma,백합과,Family Veneridae,MF0013601
+621108,62,해면패류,11,백합류,08,비너스백합,,Venus(Ventricoloidea) foveolata,,,
+621109,62,해면패류,11,백합류,09,행달조개,,Paphia euglypta,백합과,Family Veneridae,
+621110,62,해면패류,11,백합류,10,농조개,,Paphia undulata,백합과,Family Veneridae,
+621111,62,해면패류,11,백합류,11,둥근달떡조개,"달떡조개,주름떡조개",Dosinella corrugata,백합과,Family Veneridae,MF0002764
+621112,62,해면패류,11,백합류,12,둥근떡조개,"Troschel’s dosinia, 백합",Dosinorbis troscheli,백합과,Family Veneridae,MF0002768
+621113,62,해면패류,11,백합류,13,말백합,,Meretrix petechialis,백합과,Family Veneridae,MF0005308
+621114,62,해면패류,11,백합류,14,민무늬백합,,Meretrix lamarckii,백합과,Family Veneridae,MF0012197
+621115,62,해면패류,11,백합류,15,비늘백합,뷔나스백합,Mercenaria stimpsoni,백합과,Family Veneridae,MF0012200
+621116,62,해면패류,11,백합류,16,비단백합,,Cyclosunetta menstrualis,백합과,Family Veneridae,
+621117,62,해면패류,11,백합류,17,쇠백합,,Pitar sulfureum,백합과,Family Veneridae,
+621118,62,해면패류,11,백합류,18,아담스백합,,Callithaca adamsi,백합과,Family Veneridae,
+621119,62,해면패류,11,백합류,19,주름백합,,Callista brevisiphonata,백합과,Family Veneridae,
+621120,62,해면패류,11,백합류,20,중국주름백합,,Callista chinensis,백합과,Family Veneridae,
+621199,62,해면패류,11,백합류,99,기타백합류,,,,,
+621200,62,해면패류,12,새조개류,00,새조개류,,,,,
+621201,62,해면패류,12,새조개류,01,새조개,Japanese cockle,Fulvia mutica,새조개과,Family Cardiidae,MF0005333
+621202,62,해면패류,12,새조개류,02,소쿠리조개,Burchard’s cockle,Vasticardium burchardi,새조개과,Family Cardiidae,MF0011514
+621203,62,해면패류,12,새조개류,03,꼬마소쿠리조개,,Vasticardium arenicola,새조개과,Family Cardiidae,
+621204,62,해면패류,12,새조개류,04,네모소쿠리조개,,Keenaea samarangae,새조개과,Family Cardiidae,
+621299,62,해면패류,12,새조개류,99,기타새조개류,,,,,
+621300,62,해면패류,13,석공조개류,00,석공조개류,,,,,
+621301,62,해면패류,13,석공조개류,01,석공조개,,Zirfaea subconstricta,석공조개과,Family Pholadidae,
+621302,62,해면패류,13,석공조개류,02,우줄기,,Barnea dilatata,석공조개과,Family Pholadidae,
+621399,62,해면패류,13,석공조개류,99,기타석공조개류,,,,,
+621400,62,해면패류,14,석패류,00,석패류,,,,,
+621401,62,해면패류,14,석패류,01,칼조개,,Lanceolaria grayana,석패과,Family Unionidae,MF0010682
+621402,62,해면패류,14,석패류,02,두드럭조개,"두두룩조개, 도톨조개",Lamprotula coreana,석패과,Family Unionidae,MF0003549
+621403,62,해면패류,14,석패류,03,말조개,"늪말조개, 꼰줄말조개, 쌀모리조개, 돌조개, 모십조개",Unio douglasiae,석패과,Family Unionidae,MF0009961
+621404,62,해면패류,14,석패류,04,펄조개,"늪조개, 칠조개",Anodonta woodiana,석패과,Family Unionidae,MF0005519
+621499,62,해면패류,14,석패류,99,기타석패류,,,,,
+621500,62,해면패류,15,우렁이류,00,우렁이류,,,,,
+621501,62,해면패류,15,우렁이류,01,큰구슬우렁이(반들골뱅이),"Bladder moon, 배곱고동, 잡팽기",Glossaulax didyma,구슬우렁이과,Family Naticidae,MF0004883
+621502,62,해면패류,15,우렁이류,02,구슬우렁이,,Tectonatica janthostomoides,구슬우렁이과,Family Naticidae,
+621599,62,해면패류,15,우렁이류,99,기타우렁이류,,,,,
+621600,62,해면패류,16,전복류,00,전복류,,,,,
+621601,62,해면패류,16,전복류,01,말전복,"Abalone, 귀전복, 탕전복",Nordotis gigantea,전복과,Family Haliotidae,MF0011855
+621602,62,해면패류,16,전복류,02,전복,"생복(서산, 보령, 명주, 대포), 전복(여수, 고흥, 거제, 울산, 묵호), 점복(거진, 남해), 전북(태안, 소원, 해남), 비쭈게(해남), 후팡(월도)",Nordotis discus,전복과,Family Haliotidae,MF0011857
+621603,62,해면패류,16,전복류,03,마대오분자기,Variously coloured abalone,Sulculus diversicolor diversicolor,전복과,Family Haliotidae,MF0006357
+621604,62,해면패류,16,전복류,04,왕전복,Giant abalone,Nordotis madaka,전복과,Family Haliotidae,MF0011854
+621605,62,해면패류,16,전복류,05,오분자기,"Variously coloured abalone, 조고지",Sulculus diversicolor supertexta,전복과,Family Haliotidae,MF0011357
+621606,62,해면패류,16,전복류,06,전복내장,"생복(서산, 보령, 명주, 대포), 전복(여수, 고흥, 거제, 울산, 묵호), 점복(거진, 남해), 전북(태안, 소원, 해남), 비쭈게(해남), 후팡(월도)",Nordotis discus,전복과,Family Haliotidae,MF0011857
+621607,62,해면패류,16,전복류,07,둥근전복,"Disk abalone, 참전복, 긴전복, 박어, 까막전복",Nordotis discus discus,전복과,Family Haliotidae,MF0011856
+621699,62,해면패류,16,전복류,99,기타전복류,,,,,
+621700,62,해면패류,17,접시조개류,00,접시조개류,,,,,
+621701,62,해면패류,17,접시조개류,01,접시조개,비단조개,Megangulus venulosus,접시조개과,Family Tellinidae,MF0011229
+621702,62,해면패류,17,접시조개류,02,붉은속비단조개,,Megangulus zyonoensis,접시조개과,Family Tellinidae,
+621703,62,해면패류,17,접시조개류,03,대양조개(백조조개번티기),,Heteromacoma irus,접시조개과,Family Tellinidae,MF0013048
+621799,62,해면패류,17,접시조개류,99,기타접시조개류,,,,,
+621800,62,해면패류,18,진주조개류,00,진주조개류,,,,,
+621801,62,해면패류,18,진주조개류,01,진주조개,Japanese pearl oyster,Pinctada fucata martensii,진주조개과,Family Pteriidae,MF0005812
+621899,62,해면패류,18,진주조개류,99,기타진주조개류,,,,,
+621900,62,해면패류,19,키조개류,00,키조개류,,,,,
+621901,62,해면패류,19,키조개류,01,키조개,"Comb pen shell, 가시개두키조개, 치조개, 개아지살(키조개관자)",Atrina pectinata,키조개과,Family Pinnidae,MF0006909
+621999,62,해면패류,19,키조개류,99,기타키조개류,,,,,
+622000,62,해면패류,20,홍합류,00,홍합류,,,,,
+622001,62,해면패류,20,홍합류,01,진주담치,,Mytilus edulis,홍합과,Family Mytilidae,MF0008018
+622002,62,해면패류,20,홍합류,02,홍합(섭조개),"Hard shelled mussel, 참담치, 담치",Mytilus coruscus,홍합과,Family Mytilidae,MF0008017
+622003,62,해면패류,20,홍합류,03,왜홍합,,Vignadula atrata,홍합과,Family Mytilidae,
+622004,62,해면패류,20,홍합류,04,종밋,,Musculus senhausia,홍합과,Family Mytilidae,MF0000678
+622005,62,해면패류,20,홍합류,05,털담치,,Modiolus modiolus difficilis,홍합과,Family Mytilidae,
+622006,62,해면패류,20,홍합류,06,담치,,Mediterranean mussel,홍합과,Family Mytilidae,
+622007,62,해면패류,20,홍합류,07,통통이담치,,Megacrenella columbiana,홍합과,Family Mytilidae,
+622099,62,해면패류,20,홍합류,99,기타홍합류,,,,,
+629900,62,해면패류,99,기타해면패류,00,,,,,,
+629901,62,해면패류,99,기타해면패류류,01,갯민숭이달팽이,,,갯민숭달팽이과,Family Chromodorididae,
+629902,62,해면패류,99,기타해면패류류,02,군소,,Aplysia kurodai,군소과,Family Aplysiidae,
+629903,62,해면패류,99,기타해면패류류,03,민챙이,,Bullacta exarata,포도고둥과,Family Haminoeidae,
+629904,62,해면패류,99,기타해면패류류,04,올빼미군소붙이,,Pleurobranchaea japonica,군소붙이과,Family Pleurobranchidae,
+630000,63,해면갑각류,00,,00,,,,,,
+630100,63,해면갑각류,01,가재류,00,가재류,,,,,
+630101,63,해면갑각류,01,가재류,01,갯가재,,Oratosquilla oratoria,갯가재과,Family Squillidae,MF0003438
+630102,63,해면갑각류,01,가재류,02,바다가재,,,,,
+630103,63,해면갑각류,01,가재류,03,뿔가재,,,,,
+630104,63,해면갑각류,01,가재류,04,가위갯가재,,Mesacturus spinosocarinatus,가위갯가재과,Family Gonodactytidae,
+630105,63,해면갑각류,01,가재류,05,네가시갯가재,,Squilloides leptosquilla,갯가재과,Family Squillidae,
+630199,63,해면갑각류,01,가재류,99,기타가재류,,,,,
+630200,63,해면갑각류,02,게류,00,게류,,,,,
+630201,63,해면갑각류,02,게류,01,꽃게,"Swimming crab, 꽃게",Portunus trituberculatus,꽃게과,Family Portunidae,MF0001781
+630202,63,해면갑각류,02,게류,02,암꽃게,"Swimming crab, 꽃게",Portunus trituberculatus,꽃게과,Family Portunidae,MF0001781
+630203,63,해면갑각류,02,게류,03,숫꽃게,"Swimming crab, 꽃게",Portunus trituberculatus,꽃게과,Family Portunidae,MF0001781
+630204,63,해면갑각류,02,게류,04,대게,,Chionoecetes opilio,물맞이게과,Family Oregoniidae,MF0000773
+630205,63,해면갑각류,02,게류,05,붉은대게,,Chionoecetes japonicus,,,
+630206,63,해면갑각류,02,게류,06,민꽃게,돌게,Charybdis japonica,꽃게과,Family Portunidae,
+630207,63,해면갑각류,02,게류,07,방게,,Helice tridens,바위게과,Family Grapsidae,
+630208,63,해면갑각류,02,게류,08,칠게,,Macrophthalmus japonicus,달랑게과,Family Ocypodidae,MF0018539
+630209,63,해면갑각류,02,게류,09,왕게,대게(몽고),Paralithodes camtschaticus,왕게과,Family Lithodidae,MF0008124
+630210,63,해면갑각류,02,게류,10,털게,털게,Erimacrus isenbeckii,,Family Cheiragonidae,MF0014482
+630211,63,해면갑각류,02,게류,11,야자집게,코코넛게,Birgus latro,,,
+630212,63,해면갑각류,02,게류,12,톱날꽃게,,Scylla serrata,꽃게과,Family Portunidae,
+630213,63,해면갑각류,02,게류,13,깨다시꽃게,,Ovalipes punctatus,꽃게과,Family Portunidae,MF0006530
+630214,63,해면갑각류,02,게류,14,가시투성왕게,,Paralithodes brevipes,,,
+630215,63,해면갑각류,02,게류,15,달랑게,,Ocypode stimpsoni,달랑게과,Family Ocypodidae,
+630216,63,해면갑각류,02,게류,16,소라게,,Coenobita rugosus,,,
+630217,63,해면갑각류,02,게류,17,점박이꽃게,,Portunus sanguinolentus,꽃게과,Family Portunidae,
+630218,63,해면갑각류,02,게류,18,두점박이민꽃게,,Charybdis bimaculata,꽃게과,Family Portunidae,MF0013435
+630219,63,해면갑각류,02,게류,19,범게,,Orithyia sinica,금게과,Family Calappidae,MF0010497
+630220,63,해면갑각류,02,게류,20,여섯갈래민꽃게,,Thalamita prymna,꽃게과,Family Portunidae,
+630221,63,해면갑각류,02,게류,21,청색꽃게,,Portunus pelagicus,꽃게과,Family Portunidae,
+630222,63,해면갑각류,02,게류,22,납작게,,Gaetice depressus,바위게과,Family Grapsidae,
+630223,63,해면갑각류,02,게류,23,닭게,,Ranina ranina,닭게과,Family Raninidae,
+630224,63,해면갑각류,02,게류,24,왕밤송이게,,Telmessus acutidens,털게과,Family Atelecyclidae,
+630225,63,해면갑각류,02,게류,25,은행게,,Cancer japonicus,은행게과,Family Cancridae,
+630226,63,해면갑각류,02,게류,26,청색왕게,,Paralithodes platypus,왕게과,Family Lithodidae,
+630227,63,해면갑각류,02,게류,27,납작뿔게,,Scyra compressipes,뿔물맞이게과,Family Epialtidae,
+630228,63,해면갑각류,02,게류,28,다섯모부채게,,Halimede fragifera,다섯모부채게과,Family Galenidae,
+630229,63,해면갑각류,02,게류,29,두꺼비게,,Hyas coarctatus,긴집게발게과,Family Oregoniidae,
+630230,63,해면갑각류,02,게류,30,두드러기꽃게,,Portunus gradiator,꽃게과,Family Portunidae,
+630231,63,해면갑각류,02,게류,31,두드러기은행게,,Romaleon gibbosulum,은행게과,Family Cancridae,
+630232,63,해면갑각류,02,게류,32,두드럭게,,Leptomithrax edwardsii,물맞이게과,Family Majidae,
+630233,63,해면갑각류,02,게류,33,둥근무늬밤게,,Euclosiana obtusifrons,밤게과,Family Leucosiidae,
+630234,63,해면갑각류,02,게류,34,박뿔게,,Hyastenus elongatus,뿔물맞이게과,Family Epialtidae,
+630235,63,해면갑각류,02,게류,35,밤게,,Philyra pisum,밤게과,Family Leucosiidae,
+630236,63,해면갑각류,02,게류,36,부채게,,Leptodius affinis,부채게과,Family Xanthidae,
+630237,63,해면갑각류,02,게류,37,비단부채게,,Sphaerozius nitidus,비단부채게과,Family Menippidae,
+630238,63,해면갑각류,02,게류,38,비파게,,Lyreidus stenopus,닭게과,Family Raninidae,
+630239,63,해면갑각류,02,게류,39,뿔게,,Hyastenus diacanthus,물맞이게과,Family Majidae,
+630240,63,해면갑각류,02,게류,40,뿔물맞이게,,Pugettia quadridens,뿔물맞이게과,Family Epialtidae,
+630241,63,해면갑각류,02,게류,41,세가시금게붙이,,Mursia trispinosa,만두게과,Family Calappidae,
+630242,63,해면갑각류,02,게류,42,안경민꽃게,,Charybdis miles,꽃게과,Family Portunidae,
+630243,63,해면갑각류,02,게류,43,얼룩다리사슴게,,Latreillia valida,사슴게과,Family Latreillidae,
+630244,63,해면갑각류,02,게류,44,얼룩민꽃게,,Charybdis sagamiensis,꽃게과,Family Portunidae,
+630245,63,해면갑각류,02,게류,45,오목손참집게,,Elassochirus cavimanus,집게과,Family Pageridae,
+630246,63,해면갑각류,02,게류,46,옴조개치레,,Paradorippe granulata,,Family Dorippidae,MF0018627
+630247,63,해면갑각류,02,게류,47,원숭이게,,Carcinoplax longimana,원숭이게과,Family Goneplacidae,MF0018798
+630248,63,해면갑각류,02,게류,48,중간뿔물맞이게,,Pugettia intermedia,뿔물맞이게과,Family Epialtidae,
+630249,63,해면갑각류,02,게류,49,털보원숭이게,,Entricoplax vestita,원수이게과,Family Goneplacidae,
+630250,63,해면갑각류,02,게류,50,홍색민꽃게,,Charybdis acuta,꽃게과,Family Portunidae,
+630251,63,해면갑각류,02,게류,51,가는다리아케우스게,,Achaeus tuberculatus,아케우스게과,Family Inachidae,
+630252,63,해면갑각류,02,게류,52,가시두드럭게,,Leptomithrax bifidus,물맞게과,Family Majidae,
+630253,63,해면갑각류,02,게류,53,거미다리게,,Platymaia wyvillethomsoni,아케우스게과,Family Inachidae,
+630254,63,해면갑각류,02,게류,54,긴눈자루게,,Homola orientalis,긴눈자루게과,Family Homolidae,
+630255,63,해면갑각류,02,게류,55,긴집게발게,,Oregonia gracilis,긴집게발게과,Family Oregoniidae,
+630299,63,해면갑각류,02,게류,99,기타게류,,,,,
+630300,63,해면갑각류,03,곤쟁이류,00,곤쟁이류,,,,,
+630301,63,해면갑각류,03,곤쟁이류,01,곤쟁이,,Neomysis japonica Nakazawa,,,
+630399,63,해면갑각류,03,곤쟁이류,99,기타곤쟁이류,,,,,
+630400,63,해면갑각류,04,새우류,00,새우류,,,,,
+630401,63,해면갑각류,04,새우류,01,보리새우,"Kuruma shrimp,참새우",Marsupenaeus japonicus,보리새우과,Family Penaeidae,MF0003669
+630402,63,해면갑각류,04,새우류,02,대하,Fleshy prawn,Fenneropenaeus chinensis,보리새우과,Family Penaeidae,MF0007554
+630403,63,해면갑각류,04,새우류,03,젓새우,Akiami paste shrimp,Acetes japonicus,젓새우과,Family Sergestidae,MF0013681
+630404,63,해면갑각류,04,새우류,04,꽃새우,Southern rough shrimp,Trachysalambria curvirostris,보리새우과,Family Penaeidae,MF0008255
+630405,63,해면갑각류,04,새우류,05,중하,"Shiba shrimp,백새우",Metapenaeus joyneri,보리새우과,Family Penaeidae,MF0001283
+630406,63,해면갑각류,04,새우류,06,북쪽분홍새우,"Northern shrimp,분홍새우",Pandalus eous,도화새우과,Family Pandalidae,MF0009064
+630407,63,해면갑각류,04,새우류,07,닭새우,Japanese spiny lobster,Panulirus japonicus,닭새우과,Family Palinuridae,MF0008623
+630408,63,해면갑각류,04,새우류,08,홍다리얼룩새우,얼룩새우,Penaeus monodon,보리새우과,Family Penaeidae,MF0012287
+630409,63,해면갑각류,04,새우류,09,적새우,,,,,
+630410,63,해면갑각류,04,새우류,10,부채새우,"Japanese fan lobster, Slipper lobster",Ibacus ciliatus,꼬마매미새우과,Family Scyllaridae,MF0012809
+630411,63,해면갑각류,04,새우류,11,가시발새우,Red-banded lobster,Metanephrops thomsoni,가시발새우과,Family Nephropsidae,MF0001286
+630412,63,해면갑각류,04,새우류,12,긴집게발새우,,,,,
+630413,63,해면갑각류,04,새우류,13,흰새우,"Oriental prawn,백새우",Exopalaemon orientis,징거미새우과,Family Palaemonidae,MF0000940
+630414,63,해면갑각류,04,새우류,14,민새우,Smoothshell shrimp,Batepenaeopsis tenella,보리새우과,Family Penaeidae,MF0014278
+630415,63,해면갑각류,04,새우류,15,남빙양새우,,,,,
+630416,63,해면갑각류,04,새우류,16,도화새우,Coonstripe shrimp,Pandalus hypsinotus,도화새우과,Family Pandalidae,MF0000363
+630417,63,해면갑각류,04,새우류,17,네점발빨간새우,,Nephrops norvegicus,,,
+630418,63,해면갑각류,04,새우류,18,바나나새우,,Penaeus merguiensis,보리새우과,Penaeidae,
+630419,63,해면갑각류,04,새우류,19,가시배새우,,Lebbeus groenlandicus,꼬마새우과,Family Hipploytidae,MF0015112
+630420,63,해면갑각류,04,새우류,20,그라비새우,Chinese ditch prawn,Palaemon gravieri,징거미새우과,Family Palaemonidae,MF0008714
+630421,63,해면갑각류,04,새우류,21,대롱수염새우,Big head shrimp,Solenocera melantho,대롱수염새우과,Family Solenoceidae,MF0003494
+630422,63,해면갑각류,04,새우류,22,마루자주새우,Hakodate sand shrimp,Crangon hakodatei,자주새우과,Family Crangonidae,MF0013766
+630423,63,해면갑각류,04,새우류,23,물렁가시붉은새우,Morotoge shrimp,Pandalopsis japonica,도화새우과,Family Pandalidae,MF0009080
+630424,63,해면갑각류,04,새우류,24,부새우,,Neomysis intermedia,곤쟁이과,Family Mysidae,
+630425,63,해면갑각류,04,새우류,25,산모양깔깔새우,Kishi velvet shrimp,Metapenaeopsis dalei,보리새우과,Family Penaeidae,MF0001287
+630426,63,해면갑각류,04,새우류,26,석모자주새우,,Sclerocragon boreas,자주새우과,Family Crangonidae,MF0003066
+630427,63,해면갑각류,04,새우류,27,자주새우,Japanese sand shrimp,Crangon affinis,자주새우과,Family Crangonidae,MF0006496
+630428,63,해면갑각류,04,새우류,28,진흙새우,Kuro shrimp,Argis lar,자주새우과,Family Crangonidae,MF0003581
+630429,63,해면갑각류,04,새우류,29,철모새우,,Triops longicaudatus,,,MF0018946
+630430,63,해면갑각류,04,새우류,30,펄닭새우,Japanese spear lobster,Linuparus trigonus,닭새우과,Family Palinuridae,MF0000242
+630431,63,해면갑각류,04,새우류,31,혹진흙새우,,Argis hozawai,자주새우과,Family Crangonidae,MF0003582
+630432,63,해면갑각류,04,새우류,32,흰다리새우,,Litopenaues vannamei,,,
+630433,63,해면갑각류,04,새우류,33,가시도화새우,,Procletes levicarina,도화새우과,Family Pandalidae,
+630434,63,해면갑각류,04,새우류,34,가시자주새우,China spinyhead shrimp,Metacrangon sinensis,자주새우과,Family Crangonidae,MF0001026
+630435,63,해면갑각류,04,새우류,35,가시투성어리새우,,Paracrangon echinata,자주새우과,Family Crangonidae,MF0014872
+630436,63,해면갑각류,04,새우류,36,각시가시배새우,,Lebbeus grandimana,꼬마새우과,Family Hippolytidae,
+630437,63,해면갑각류,04,새우류,37,곧은뿔깔깔새우,,Metapenaeopsis kyushuensis,보리새우과,Family Penaeidae,
+630438,63,해면갑각류,04,새우류,38,곧은뿔중하,,Metapenaeus ensis,,Family Penaeidae,
+630439,63,해면갑각류,04,새우류,39,곰방깔깔새우,,Metapenaeopsis provocatoria owstoni,보리새우과,Family Penaeidae,MF0001281
+630440,63,해면갑각류,04,새우류,40,긴발딱총새우,Japanese snapping shrimp,Alpheus japonicus,딱총새우과,Family Alpheidae,MF0004576
+630441,63,해면갑각류,04,새우류,41,긴발줄새우,Gladiator prawn,Palaemon ortmanni,징거미새우과,Family Palaemonidae,MF0004373
+630442,63,해면갑각류,04,새우류,42,긴뿔민새우,,Mierspenaeopsis hardwickii,보리새우과,Family Penaeidae,
+630443,63,해면갑각류,04,새우류,43,긴손가락새우,,Parastylodactylus bimaxillaris,긴손가락새우과,Family Stylodactylidae,
+630444,63,해면갑각류,04,새우류,44,긴수염새우,,Haliporoides sibogae,대롱수염새우과,Family Solenoceridae,
+630445,63,해면갑각류,04,새우류,45,긴줄꼬마도화새우,,Plesionika ortmanni,도화새우과,Family Pandalidae,MF0000069
+630446,63,해면갑각류,04,새우류,46,깔깔새우,,Metapenaeopsis barbata,보리새우과,Family Penaeidae,
+630447,63,해면갑각류,04,새우류,47,꼬마가시투성어리새우,,Paracrangon abei,자주새우과,Family Crangonidae,
+630448,63,해면갑각류,04,새우류,48,남방도화새우,Little pink shrimp,Pandalus gracilis,도화새우과,Family Pandalidae,MF0000364
+630449,63,해면갑각류,04,새우류,49,돗대기새우,Lesser glass shrimp,Leptochela gracilis,돗대기새우과,Family Pasiphaeidae,MF0001638
+630450,63,해면갑각류,04,새우류,50,동방꼬마도화새우,,Plesionika orientalis,도화새우과,Family Pandalidae,
+630451,63,해면갑각류,04,새우류,51,두가시자주새우,Gray shrimp,Neocrangon communis,자주새우과,Family Crangonidae,MF0012606
+630452,63,해면갑각류,04,새우류,52,두마디새우,,Chlorotocus crassicornis,도화새우과,Family Pandalidae,
+630453,63,해면갑각류,04,새우류,53,둥근돗대기새우,,Leptochela sydniensis,돗대기새우과,Family Pasiphaeidae,MF0001637
+630454,63,해면갑각류,04,새우류,54,딱총새우,,Alpheus brevicristatus,딱총새우과,Family Alpheidae,
+630455,63,해면갑각류,04,새우류,55,마루민꽃새우,Lancer rose shrimp,Parapenaeus lanceolatus,보리새우과,Family Penaeidae,MF0007577
+630456,63,해면갑각류,04,새우류,56,매끈등꼬마새우,"Medusa shrimp, 짧은넓적뿔꼬마새우",Latreutes anoplonyx,꼬마새우과,Family Hipploytidae,MF0002939
+630457,63,해면갑각류,04,새우류,57,매끈자주새우,,Crangon dalli,자주새우과,Family Crangonidae,MF0013765
+630458,63,해면갑각류,04,새우류,58,매미새우,,Scyllarides haanii,매미새우과,Family Scyllaridae,
+630459,63,해면갑각류,04,새우류,59,민꽃새우,,Parapenaeus fissuroides,보리새우과,Family Penaeidae,
+630460,63,해면갑각류,04,새우류,60,밀새우,Ridgetail prawn,Exopalaemon carinicauda,징거미새우과,Family Palaemonidae,MF0000942
+630461,63,해면갑각류,04,새우류,61,북방갯가꼬마새우,,Eualus middendorffi,꼬마새우과,Family Hipploytidae,MF0005764
+630462,63,해면갑각류,04,새우류,62,북방좁은뿔꼬마새우,,Heptacarpus acuticarinatus,꼬마새우과,Family Hippolytidae,
+630463,63,해면갑각류,04,새우류,63,분홍갯가꼬마새우,,Eualus spathulirostruis,꼬마새우과,Family Hippolytidae,
+630464,63,해면갑각류,04,새우류,64,붉은줄참새우,Migrant prawn,Palaemon macrodactylus,징거미새우과,Family Palaemonidae,MF0008706
+630465,63,해면갑각류,04,새우류,65,아홉니부채새우,Smooth fan lobster,Ibacus novemdentatus,꼬마매미새우과,Family Scyllaridae,MF0006399
+630466,63,해면갑각류,04,새우류,66,어리꼬마새우,,Birulia kishinouyei,꼬마새우과,Family Hipploytidae,MF0002838
+630467,63,해면갑각류,04,새우류,67,점박이꼬마도화새우,,Plesionika izumiae,도화새우과,Family Pandalidae,MF0007863
+630468,63,해면갑각류,04,새우류,68,제주깔깔새우,,Metapenaeopsis mogiensis,보리새우과,Family Penaeidae,
+630469,63,해면갑각류,04,새우류,69,좁은비늘도화새우,북방도화새우,Pandalus prensor,도화새우과,Family Pandalidae,MF0000368
+630470,63,해면갑각류,04,새우류,70,좁은뿔꼬마새우,,Heptacarpus rectirostris,꼬마새우과,Family Hipploytidae,MF0004453
+630471,63,해면갑각류,04,새우류,71,좁은뿔민꽃새우,Domino shrimp,Parapenaeus sextuberculatus,보리새우과,Family Penaeidae,MF0007578
+630472,63,해면갑각류,04,새우류,72,줄무늬꼬마도화새우,,Plesionika grandis,도화새우과,Family Pandalidae,
+630473,63,해면갑각류,04,새우류,73,줄무늬꼬마새우,Indian lined shrimp,Lysmata vittata,꼬마새우과,Family Hipploytidae,MF0014814
+630474,63,해면갑각류,04,새우류,74,줄새우,Lake prawn,Palaemon paucidens,징거미새우과,Family Palaemonidae,MF0001117
+630475,63,해면갑각류,04,새우류,75,중국젓새우,Northern mauxia shrimp,Acetes chinensis,젓새우과,Family Sergestidae,MF0013682
+630476,63,해면갑각류,04,새우류,76,큰손딱총새우,Forceps snapping shrimp,Alpheus digitalis,딱총새우과,Family Alpheidae,MF0004579
+630477,63,해면갑각류,04,새우류,77,톱등자주새우,Hardshell shrimp,Aegaeon lacazei,자주새우과,Family Crangonidae,MF0001126
+630478,63,해면갑각류,04,새우류,78,톱등큰꼬마새우,,Spirontocaris spinus,꼬마새우과,Family Hippolytidae,
+630479,63,해면갑각류,04,새우류,79,홈발딱총새우,Flathead snapping shrimp,Alpheus bisincisus,딱총새우과,Family Alpheidae,MF0004578
+630480,63,해면갑각류,04,새우류,80,흰줄꼬마도화새우,,Plesionika narval,도화새우과,Family Pandalidae,
+630499,63,해면갑각류,04,새우류,99,기타새우류,,,,,
+630500,63,해면갑각류,05,집게류,00,집게류,,,,,
+630501,63,해면갑각류,05,집게류,01,가재아재비,,Allaxius princeps,가재아재비과,Family Axiidae,
+630502,63,해면갑각류,05,집게류,02,갈색털손참집게,,Pagurus simulans,참집게과,Family Paguridae,
+630503,63,해면갑각류,05,집게류,03,긴왼손집게,,Diogenes nitidimanus,넓적왼손집게과,Family Diogenidae,
+630504,63,해면갑각류,05,집게류,04,바늘이마새우붙이,,Munida japonica,,,
+630505,63,해면갑각류,05,집게류,05,북방참집게,,Pagurus ochotensis,집게과,Family Paguridae,MF0018731
+630506,63,해면갑각류,05,집게류,06,새우붙이,,Galathea orientalis,새우붙이과,Family Galatheidae,
+630507,63,해면갑각류,05,집게류,07,쏙,,Upogebia major,쏙과,Family Upogebiidae,MF0018848
+630508,63,해면갑각류,05,집게류,08,오막손참집게,,Elassochirus cavimanus,참집게과,Family Paguridae,
+630509,63,해면갑각류,05,집게류,09,제집참집게,,Pagurus constans,참집게과,Family Paguridae,
+630510,63,해면갑각류,05,집게류,10,참집게,,Pagurus filholi,참집게과,Family Paguridae,
+630511,63,해면갑각류,05,집게류,11,털줄왼손집게,,Dardanus arrosor,넓적왼손집게과,Family Diogenidae,
+630599,63,해면갑각류,05,집게류,99,기타집게류,,,,,
+639900,63,해면갑각류,99,기타해면갑각류,00,,,,,,
+640000,64,해면연체류,00,,00,,,,,,
+640100,64,해면연체류,01,갑오징어류,00,갑오징어류,,,,,
+640101,64,해면연체류,01,갑오징어류,01,입술무늬갑오징어,"Kisslip cuttlefish, 입술무늬갑오징어, 무늬오징어, 눈무늬갑오징어",Sepia lycidas,갑오징어과,Family Sepiidae,MF0009250
+640102,64,해면연체류,01,갑오징어류,02,쇠갑오징어,"Japanese spineless cuttlefish, 쇠오징어",Sepiella japonica,갑오징어과,Family Sepiidae,MF0006180
+640103,64,해면연체류,01,갑오징어류,03,참갑오징어,"Golden cuttlefish, 참오징어, 갑오징어, 오징어",Sepia esculenta,갑오징어과,Family Sepiidae,MF0009730
+640104,64,해면연체류,01,갑오징어류,04,갈색갑오징어,,Andrea cuttlefish,갑오징어과,Family Sepiidae,
+640105,64,해면연체류,01,갑오징어류,05,거미갑오징어,,Sepia tenuipes,갑오징어과,Family Sepiidae,
+640106,64,해면연체류,01,갑오징어류,06,긴다리갑오징어,,Sepia longipes,갑오징어과,Family Sepiidae,
+640107,64,해면연체류,01,갑오징어류,07,꼬마갑오징어,,Sepia appellofi,갑오징어과,Family Sepiidae,
+640108,64,해면연체류,01,갑오징어류,08,꽃갑오징어,,Sepia tullbergi,갑오징어과,Family Sepiidae,
+640109,64,해면연체류,01,갑오징어류,09,납작갑오징어,,Sepia peterseni,갑오징어과,Family Sepiidae,
+640110,64,해면연체류,01,갑오징어류,10,넓은붉갑오징어,,Sepia tokioensis,갑오징어과,Family Sepiidae,
+640111,64,해면연체류,01,갑오징어류,11,두점갑오징어,,Sepia kobiensis,갑오징어과,Family Sepiidae,
+640112,64,해면연체류,01,갑오징어류,12,바늘갑오징어,"Madokais cuttlefish, 바늘오징어, 가시오징어, 참꼴뚜기",Sepia (Platysepia) madokai,갑오징어과,Family Sepiidae,MF0009249
+640113,64,해면연체류,01,갑오징어류,13,붉갑오징어,,Sepia misakiensis,갑오징어과,Family Sepiidae,
+640114,64,해면연체류,01,갑오징어류,14,쌍봉갑오징어,,Sepia tokioensis,갑오징어과,Family Sepiidae,
+640115,64,해면연체류,01,갑오징어류,15,표범무늬갑오징어,,Sepia pardex,,,
+640116,64,해면연체류,01,갑오징어류,16,그물무늬갑오징어,,,,,
+640199,64,해면연체류,01,갑오징어류,99,기타갑오징어류,,,,,
+640200,64,해면연체류,02,꼴뚜기류,00,꼴뚜기류,,,,,
+640201,64,해면연체류,02,꼴뚜기류,01,화살꼴뚜기,"Spear squid, 화살오징어, 한치",Loligo bleekeri,꼴뚜기과,Family Loliginidae,MF0010905
+640202,64,해면연체류,02,꼴뚜기류,02,한치꼴뚜기,"Toryau yue(일본), Mitra squid, 넓적창오징어, 한치",Loligo chinesis,꼴뚜기과,Family Loliginidae,MF0010904
+640203,64,해면연체류,02,꼴뚜기류,03,창꼴뚜기,"Godouika(일본), Swordtip squid, 등불오징어, 등불꼴뚜기",Loligo eduils,꼴뚜기과,Family Loliginidae,MF0006074
+640204,64,해면연체류,02,꼴뚜기류,04,참꼴뚜기,"Beka squid, 꼴뚜기, 꼬마꼴뚜기",Loligo beka,꼴뚜기과,Family Loliginidae,MF0010906
+640205,64,해면연체류,02,꼴뚜기류,05,흰꼴뚜기,"Big fin reef squid, 날개꼴뚜기, 흰오징어",Sepioteuthis lessoniana,꼴뚜기과,Family Loliginidae,MF0006174
+640206,64,해면연체류,02,꼴뚜기류,06,반원니꼴뚜기,"Koika, Hiika(일본), Japanese squid, 반원니오징어, 반원니꼴뚜기, 일본오징어",Loligo japonica,꼴뚜기과,Family Loliginidae,MF0003209
+640207,64,해면연체류,02,꼴뚜기류,07,꼬마꼴뚜기,,Loligo sumatrensis,꼴뚜기과,Family Loliginidae,
+640208,64,해면연체류,02,꼴뚜기류,08,부도창꼴뚜기,,Loligo edulis budo,꼴뚜기과,Family Loliginidae,
+640299,64,해면연체류,02,꼴뚜기류,99,기타꼴뚜기류,,,,,
+640300,64,해면연체류,03,낙지류,00,낙지류,,,,,
+640301,64,해면연체류,03,낙지류,01,낙지,"Whiparm octopus, 석어, 소팔초어",Octopus minor,문어과,Family Octopodidae,MF0012332
+640302,64,해면연체류,03,낙지류,02,조개낙지,,Argonauta argo,집낙지과,Family Argonautidae,
+640303,64,해면연체류,03,낙지류,03,집낙지,,Argonauta hians,집낙지과,Family Argonautidae,MF0003585
+640399,64,해면연체류,03,낙지류,99,기타낙지류,,,,,
+640400,64,해면연체류,04,문어류,00,문어류,,,,,
+640401,64,해면연체류,04,문어류,01,눈큰문어,눈큰낙지,Octopus megalops,문어과,Family Octopodidae,MF0020141
+640402,64,해면연체류,04,문어류,02,대문어,"North Pacific giant octopus, 물낚지, 물문어, 대문어, 대팔초어, 팔대어",Octopus dofleini,문어과,Family Octopodidae,MF0012328
+640403,64,해면연체류,04,문어류,03,엔도문어,,Octopus yendoi,문어과,Family Octopodidae,
+640404,64,해면연체류,04,문어류,04,보라문어,Common paper nautilus,Tremoctopus violaceus gracialis,보라문어과,Family Tremoctopodidae,MF0000468
+640405,64,해면연체류,04,문어류,05,왜문어,"Common octopus, 왜문어, 피문어, 초어, 팔초어, 설어",Octopus vulgaris,문어과,Family Octopodidae,MF0009151
+640406,64,해면연체류,04,문어류,06,피문어,"North Pacific giant octopus, Giant Pacific octopus, 대문어, 대팔초어, 팔대어, 물낙지",Paroctopus dofleini,문어과,Family Octopodidae,MF0011338
+640407,64,해면연체류,04,문어류,07,문어,"North Pacific giant octopus, Giant Pacific octopus, 대문어, 대팔초어, 팔대어, 물낙지",Paroctopus dofleini,문어과,Family Octopodidae,MF0011338
+640408,64,해면연체류,04,문어류,08,백문어,"North Pacific giant octopus, Giant Pacific octopus, 대문어, 대팔초어, 팔대어, 물낙지",Paroctopus dofleini,문어과,Family Octopodidae,MF0011338
+640409,64,해면연체류,04,문어류,09,모래문어,,Octopus aegina,문어과,Family Octopodidae,
+640410,64,해면연체류,04,문어류,10,참문어,,Octopus vulgaris,문어과,Family Octopodidae,
+640499,64,해면연체류,04,문어류,99,기타문어류,,,,,
+640500,64,해면연체류,05,오징어류,00,오징어류,,,,,
+640501,64,해면연체류,05,오징어류,01,살오징어,"Japanese flying squid, 오징어, 피둥어꼴뚜기, 물오징어",Todarodes pacificus,빨강오징어과,Family Ommastrephidae,MF0001820
+640502,64,해면연체류,05,오징어류,02,빨강오징어,,,살오징어과,Family Ommastrephidae,
+640503,64,해면연체류,05,오징어류,03,웰링턴오징어,,Nototodarus sloani,,,
+640504,64,해면연체류,05,오징어류,04,아르헨티나오징어,,Illex argentinus,살오징어과,Family Ommastrephidae,
+640505,64,해면연체류,05,오징어류,05,아메리카대왕오징어,,Dosidicus gigas,,,
+640506,64,해면연체류,05,오징어류,06,남방살오징어,피둥이꼴뚜기류,Sthenoteuthis oualaniensis,살오징어과,Family Ommastrephidae,MF0004790
+640507,64,해면연체류,05,오징어류,07,대왕오징어,"Giant squid, 큰오징어,가문어",Architeuthis japonica,대왕오징어과,Family Architeuthidae,MF0000311
+640508,64,해면연체류,05,오징어류,08,귀오징어,"Mimika bobtail, 귀꼴뚜기",Euprymna morsei,귀오징어과,Family Sepiolidae,MF0006371
+640509,64,해면연체류,05,오징어류,09,갈고리흰오징어,"Schoolmaster gonate squid, 물오징어",Berryteuthis magister,갈고리흰오징어과,Family Gonatidae,MF0001540
+640510,64,해면연체류,05,오징어류,10,갈구리오징어,,Onychoteuthis borealijaponica,손톱오징어과,Family Onychoteuthidae,MF0019028
+640511,64,해면연체류,05,오징어류,11,매오징어,"Sparkling enope squid, 반디오징어(반디꼴뚜기), 반디불오징어(호래기, 송골매)",Watasenia scintillans,반디불매오징어과,Family Enoploteuthidae,MF0002175
+640512,64,해면연체류,05,오징어류,12,왕손톱오징어,,Moroteuthis robusta,손톱오징어과,Family Onychoteuthidae,
+640513,64,해면연체류,05,오징어류,13,좀귀오징어,"Butterfly bobtail, 좀귀꼴뚜기, 둥근귀꼴뚜기",Sepiola birostrata,귀오징어과,Family Sepiolidae,MF0006176
+640514,64,해면연체류,05,오징어류,14,주머니귀오징어,"North pacific bobtail, 시계추귀오징어",Rossia pacifica,귀오징어과,Family Sepiolidae,MF0004403
+640515,64,해면연체류,05,오징어류,15,지느러미오징어,,Ommasterphes sloani,지느러미오징어과,Family Thysanoteuthidae,MF0019024
+640516,64,해면연체류,05,오징어류,16,투구귀오징어,,Sepiolina nipponensis,귀오징어과,Family Sepiolidae,
+640517,64,해면연체류,05,오징어류,17,팔완향오징어,,Gonatopsis makko,갈고리오징어과,Family Gonatidae,
+640518,64,해면연체류,05,오징어류,18,날개오징어,"Diamond back squid, 지느러미오징어, 지느러미꼴뚜기",Thysanoteuthis rhombus,지느러미오징어과,Family Thsanoteuthidae,MF0003875
+640519,64,해면연체류,05,오징어류,19,반딧불오징어,,Enoploteuthis chunii,반딧불매오징어과,Family Enoploteuthidae,
+640520,64,해면연체류,05,오징어류,20,키오징어,,,,,
+640599,64,해면연체류,05,오징어류,99,기타오징어류,,,,,
+640600,64,해면연체류,06,주꾸미류,00,주꾸미류,,,,,
+640601,64,해면연체류,06,주꾸미류,01,주꾸미,"Webfoot octopus, 죽거미, 쯔그미, 금테문어",Octopus membranaceus,문어과,Family Octopodidae,MF0012331
+640699,64,해면연체류,06,주꾸미류,99,기타주꾸미류,,,,,
+649900,64,해면연체류,99,기타해면연체류,00,,,,,,
+650000,65,해면포유류,00,,00,,,,,,
+650100,65,해면포유류,01,고래류,00,고래류,,,,,
+650101,65,해면포유류,01,고래류,01,밍크고래,"Minke whale, 멸치고래(북한명)",Balaenoptera acutorostrata,긴수염고래과,Family Balaenopteridae,MF0010316
+650102,65,해면포유류,01,고래류,02,참고래,"Fin whale, 수염고래(북한명)",Balaenoptera physalus,긴수염고래과,Family Balaenopteridae,MF0003192
+650103,65,해면포유류,01,고래류,03,귀신고래,"Gray whale, 푸른회색고래(북한명),쇠고래",Eschrichtius robustus,쇠돌고래과,Family Eschrichtiidae,MF0008360
+650104,65,해면포유류,01,고래류,04,브라이드고래,Brydes whale,Balaenoptera edeni,긴수염고래과,Family Balaenopteridae,MF0010306
+650105,65,해면포유류,01,고래류,05,혹등고래,"Humpback whale, 날개고래(북한명)",Megaptera novaeangliae,긴수염고래과,Family Balaenopteridae,MF0004157
+650106,65,해면포유류,01,고래류,06,고양이고래,Melon-headed whale,Peponocephala electra,참돌고래과,Family Delphinidae,MF0013170
+650107,65,해면포유류,01,고래류,07,고추돌고래,Northern right whale dolphin,Lissodelphis borealis,참돌고래과,Family Delphinidae,MF0004996
+650108,65,해면포유류,01,고래류,08,긴부리돌고래,Spinner dolphin,Stenella longirostris,참돌고래과,Family Delphinidae,MF0003680
+650109,65,해면포유류,01,고래류,09,긴부리참돌고래,"Long-beaked common dolphin, 돌고래(북한명)",Delphinus capensis,참돌고래과,Family Delphinidae,MF0002347
+650110,65,해면포유류,01,고래류,10,까치돌고래,"Dalls porpoise, 작은곱등어(북한명)",Phocoenoides dalli,쇠돌고래과,Family Phocoenidae,MF0014630
+650111,65,해면포유류,01,고래류,11,꼬마향고래,Pygmy sperm whale,Kogia breviceps,꼬마향고래과,Family Kogiidae,MF0013947
+650112,65,해면포유류,01,고래류,12,낫돌고래,"Pacific white-sided dolphin, 곱등어(북한명)",Lagenorhynchus obliquidens,참돌고래과,Family Delphinidae,MF0011610
+650113,65,해면포유류,01,고래류,13,대왕고래,"Blue whale, 흰수염고래(북한명)",Balaenoptera musculus,긴수염고래과,Family Balaenopteridae,MF0010305
+650114,65,해면포유류,01,고래류,14,들고양이고래,Pygmy killer whale,Feresa attenuata,참돌고래과,Family Delphinidae,MF0007547
+650115,65,해면포유류,01,고래류,15,들쇠고래,Short-finned pilot whale,Globicephala macrorhynchus,참돌고래과,Family Delphinidae,MF0011787
+650116,65,해면포유류,01,고래류,16,민부리고래,Cuviers beaked whale,Ziphius cavirostris,부리고래과,Family Ziphiidae,MF0007683
+650117,65,해면포유류,01,고래류,17,뱀머리돌고래,Rough-toothed dolphin,Steno bredanensis,참돌고래과,Family Delphinidae,MF0003690
+650118,65,해면포유류,01,고래류,18,범고래,"Killer whale, 솔피(북한명)",Orcinus orca,참돌고래과,Family Delphinidae,MF0003453
+650119,65,해면포유류,01,고래류,19,보리고래,Sei whale,Balaenoptera borealis,긴수염고래과,Family Balaenopteridae,MF0010315
+650120,65,해면포유류,01,고래류,20,북방긴수염고래,Northern right whale,Eubalaena japonica,긴수염고래과,Family Balaenidae,MF0005774
+650121,65,해면포유류,01,고래류,21,상괭이,"Finless porpoise, 무라치(북한명)",Neophocaena asiaeorientalis,쇠돌고래과,Family Phocoenidae,MF0012991
+650122,65,해면포유류,01,고래류,22,쇠돌고래,Harbor porpoise,Phocoena phocoena,쇠돌고래과,Family Phocoenidae,MF0014628
+650123,65,해면포유류,01,고래류,23,쇠향고래,Dwarf sperm whale,Kogia sima,꼬마향고래과,Family Kogiidae,MF0012155
+650124,65,해면포유류,01,고래류,24,은행이빨부리고래,Ginko-toothed beaked whale,Mesoplodon ginkgodens,부리고래과,Family Ziphiidae,MF0001038
+650125,65,해면포유류,01,고래류,25,점박이돌고래,Pantropical spotted dophin,Stenella attenuata,참돌고래과,Family Delphinidae,MF0003677
+650126,65,해면포유류,01,고래류,26,줄박이돌고래,Striped dolphin,Stenella coeruleoalba,참돌고래과,Family Delphinidae,MF0003678
+650127,65,해면포유류,01,고래류,27,짧은부리참돌고래,"common dolphin, 돌고래(북한명)",Delphinus delphis,참돌고래과,Family Delphinidae,MF0009626
+650128,65,해면포유류,01,고래류,28,큰돌고래,Bottlenose dolphin,Tursiops truncatus,참돌고래과,Family Delphinidae,MF0004001
+650129,65,해면포유류,01,고래류,29,큰머리돌고래,Rissos dolphin,Grampus griseus,참돌고래과,Family Delphinidae,MF0013872
+650130,65,해면포유류,01,고래류,30,큰부리고래,"Bairds beaked whale, 기름고래(북한명)",Berardius bairdii,부리고래과,Family Ziphiidae,MF0001533
+650131,65,해면포유류,01,고래류,31,큰이빨부리고래,Stejnegers beaked whale,Mesoplodon stejnegeri,부리고래과,Family Ziphiidae,MF0001036
+650132,65,해면포유류,01,고래류,32,향고래,"Sperm whale, 말향고래(북한명)",Physeter macrocephalus,향고래과,Family Physeteridae,MF0013126
+650133,65,해면포유류,01,고래류,33,혹부리고래,Blainvilles Beaked Whale,Mesoplodon densirostris,부리고래과,Family Ziphiidae,MF0001037
+650134,65,해면포유류,01,고래류,34,흑범고래,False killer whale,Pseudorca crassidens,참돌고래과,Family Delphinidae,MF0001438
+650135,65,해면포유류,01,고래류,35,흰고래,"Beluga, White whale",Delphinaterus leucas,흰고래과,Family Monodontidae,MF0002345
+650199,65,해면포유류,01,고래류,99,기타고래류,,,,,
+659900,65,해면포유류,99,기타해면포유류,00,,,,,,
+690000,69,해면기타,00,,00,,,,,,
+690100,69,해면기타,01,개불류,00,개불류,,,,,
+690101,69,해면기타,01,개불류,01,개불,,Urechis unicinctus,개불과,Family Urechidae,
+690102,69,해면기타,01,개불류,02,줄개불,,Ochetostoma erythrogrammon,연두개불과,Family Thalassemidae,
+690199,69,해면기타,01,개불류,99,기타개불류,,,,,
+690200,69,해면기타,02,갯지렁이류,00,갯지렁이류,,,,,
+690201,69,해면기타,02,갯지렁이류,01,갯지렁이,,Neanthes japonica,,,
+690202,69,해면기타,02,갯지렁이류,02,가슴고슴도치갯지렁이,,Aphrodita aculeata,고슴도치갯지렁이과,Family Aphroditidae,
+690203,69,해면기타,02,갯지렁이류,03,고슴도치갯지렁이,,Aphrodita sp.,고슴도치갯지렁이과,Family Aphroditidae,
+690204,69,해면기타,02,갯지렁이류,04,바위털갯지렁이,,Marphysa sanguinea,,,
+690205,69,해면기타,02,갯지렁이류,05,붉은눈바다거머리,,Pontobdella bimaculata,바다거머릿과,Family Piscicolidae,
+690299,69,해면기타,02,갯지렁이류,99,기타갯지렁이류,,,,,
+690300,69,해면기타,03,거북류,00,거북류,,,,,
+690301,69,해면기타,03,거북류,01,꼬마바다거북,,Lepidochelys olivacea,꼬마바다거북과,,
+690302,69,해면기타,03,거북류,02,붉은바다거북,,Caretta caretta,붉은바다거북과,,
+690303,69,해면기타,03,거북류,03,장수바다거북,,Dermochelys coriacea,장수바다거북과,Family Dermochelyidae,
+690304,69,해면기타,03,거북류,04,푸른바다거북,,Chelonia mydas,푸른바다거북과,Family Chelonidae,
+690399,69,해면기타,03,거북류,99,기타거북류,,,,,
+690400,69,해면기타,04,멍게류,00,멍게류,,,,,
+690401,69,해면기타,04,멍게류,01,우렁쉥이,"Korean common sea squirt,멍게",Halocynthia roretzi,멍게과,Family Pyuridae,MF0008526
+690499,69,해면기타,04,멍게류,99,기타멍게류,,,,,
+690500,69,해면기타,05,미더덕류,00,미더덕류,,,,,
+690501,69,해면기타,05,미더덕류,01,미더덕,,Styela clava,미더덕과,Family Styelidae,
+690502,69,해면기타,05,미더덕류,02,주름미더덕,오만둥이,Styela plicata,미더덕과,Family Styelidae,MF0013350
+690503,69,해면기타,05,미더덕류,03,긴자루미더덕,,Styela longipedata,미더덕과,Family Styelidae,MF0005565
+690504,69,해면기타,05,미더덕류,04,두줄미더덕,,Styela partita,미더덕과,Family Styelidae,
+690505,69,해면기타,05,미더덕류,05,상칭미더덕,,Styela clava symmetrica,미더덕과,Family Styelidae,
+690506,69,해면기타,05,미더덕류,06,세줄미더덕,,Styela esther,미더덕과,Family Styelidae,MF0005566
+690599,69,해면기타,05,미더덕류,99,기타미더덕류,,,,,
+690600,69,해면기타,06,성게류,00,성게류,,,,,
+690601,69,해면기타,06,성게류,01,분홍성게,,Pseudocentrotus depressus,둥근성게과,Family Strongylocentrotidae,
+690602,69,해면기타,06,성게류,02,말똥성게,,Chiomoecetes japonicus,둥근성게과,Family Strongylocentrotidae,MF0010946
+690603,69,해면기타,06,성게류,03,보라성게,,Anthocidaris crassispina,만두성게과,Family Echinometridae,
+690604,69,해면기타,06,성게류,04,성게알,,,,,
+690605,69,해면기타,06,성게류,05,북쪽말똥성게,,Strongylocentrotus intermedius,,,
+690606,69,해면기타,06,성게류,06,가는관극성게,,Stereodidaris japonica,관극성게과,Family Cidaroidea,
+690607,69,해면기타,06,성게류,07,바늘분지성게,,c reevesii,분지성게과,Family Temnopleuridae,
+690608,69,해면기타,06,성게류,08,방패연잎성게,,Clypeaster japonicus,연잎성게과,Family Clypeasteridae,
+690609,69,해면기타,06,성게류,09,분지성게,,Temnopleureus toreumaticus,분지성게과,Family Temnopleuridae,
+690610,69,해면기타,06,성게류,10,하드윅분지성게,,Temnopleureus hardwicki,분지성게과,Family Temnopleuridae,
+690699,69,해면기타,06,성게류,99,기타성게류,,,,,
+690700,69,해면기타,07,해삼류,00,해삼류,,,,,
+690701,69,해면기타,07,해삼류,01,청해삼,,,,,
+690702,69,해면기타,07,해삼류,02,흑해삼,,,,,
+690703,69,해면기타,07,해삼류,03,홍해삼,,,,,
+690704,69,해면기타,07,해삼류,04,해삼,,Stichopus japonicus,,Family Stichopodidae,MF0004774
+690705,69,해면기타,07,해삼류,05,개해삼,,Holothuria manacaria,해삼과,Family Holothuriidae,
+690706,69,해면기타,07,해삼류,06,닻해삼,,Protankyra bidentata,닻해삼과,Family Synaptidae,
+690707,69,해면기타,07,해삼류,07,돌기해삼,,Stichopus japonicus,,Family Stichopodidae,MF0004774
+690799,69,해면기타,07,해삼류,99,기타해삼류,,,,,
+690800,69,해면기타,08,해파리류,00,해파리류,,,,,
+690801,69,해면기타,08,해파리류,01,노무라입깃해파리,,Nemopilema nomurai,근구해파리과,Family Rhizostomatidae,MF0012610
+690802,69,해면기타,08,해파리류,02,노필레마,숲뿌리해파리,Rhopilema esculentum,근구해파리과,Family Rhizostomatidae,MF0019043
+690803,69,해면기타,08,해파리류,03,보름달물해파리,,Aurelia aurita,느릅나무해파리과,Family Ulmaridae,MF0009543
+690804,69,해면기타,08,해파리류,04,커튼원양해파리,,Dactylometra quinquecirrha,원양해파리과,Family Pelagiidae,MF0008173
+690899,69,해면기타,08,해파리류,99,기타해파리류,,,,,
+699900,69,해면기타,99,기타해면기타,00,,,,,,
+699901,69,해면기타,99,기타해면기타류,01,붉은빛조개사돈,,Laqueus rubellus,붉은빛조개사돈과,Family Laqueidae,
+710000,71,내수면어류,00,,00,,,,,,
+710100,71,내수면어류,01,가물치류,00,가물치류,,,,,
+710101,71,내수면어류,01,가물치류,01,가물치,Snake head,Channa arga,가물치과,Family Channidae,MF0013447
+710102,71,내수면어류,01,가물치류,02,사두가물치,,,,,
+710199,71,내수면어류,01,가물치류,99,기타가물치류,,,,,
+710200,71,내수면어류,02,검정우럭류,00,검정우럭류,,,,,
+710201,71,내수면어류,02,검정우럭류,01,블루길,Blue gill,Lepomis macrochirus,검정우럭과,Family Centrachidae,MF0003598
+710202,71,내수면어류,02,검정우럭류,02,배스,Large mouth bass,Micropterus salmoides,검정우럭과,Family Centrachidae,MF0009813
+710203,71,내수면어류,02,검정우럭류,03,작은입우럭(이입종),,Micropterus dolomieui,검정우럭과,Family Centrarchidae,
+710299,71,내수면어류,02,검정우럭류,99,기타검정우럭류,,,,,
+710300,71,내수면어류,03,꺽지류,00,꺽지류,,,,,
+710301,71,내수면어류,03,꺽지류,01,황쏘가리,,Siniperca scherzeri(Albino type),꺽지과,Family Centropomidae,MF0018935
+710302,71,내수면어류,03,꺽지류,02,꺽지,Korean aucha perch,Coreoperca herzi,꺽지과,Family Centropomidae,MF0004480
+710303,71,내수면어류,03,꺽지류,03,꺽저기,,Coreoperca kawamebari,꺽지과,Family Centropomidae,
+710304,71,내수면어류,03,꺽지류,04,쏘가리,Mandarin fish,Siniperca scherzeri,꺽지과,Family Centropomidae,MF0003818
+710399,71,내수면어류,03,꺽지류,99,기타꺽지류,,,,,
+710400,71,내수면어류,04,누치류,00,누치류,,,,,
+710401,71,내수면어류,04,누치류,01,누치,Steed barbel,Hemibarbus labeo,잉어과,Family Cyprinidae,MF0003266
+710499,71,내수면어류,04,누치류,99,기타누치류,,,,,
+710500,71,내수면어류,05,동사리류,00,동사리류,,,,,
+710501,71,내수면어류,05,동사리류,01,동사리,"Korean dark sleeper, 뚝지",Odontobutis platycephala,동사리과,Family Odontobutidae,MF0009782
+710599,71,내수면어류,05,동사리류,99,기타동사리류,,,,,
+710600,71,내수면어류,06,동자개류,00,동자개류,,,,,
+710601,71,내수면어류,06,동자개류,01,동자개,"Korean bullhead, 자개",Pseudobagrus fulvidraco,동자개과,Family Bagridae,MF0007900
+710602,71,내수면어류,06,동자개류,02,종어,Long snouted bullhead,Leiocassis longirostris,동자개과,Family Bagridae,MF0009284
+710603,71,내수면어류,06,동자개류,03,꼬치동자개,"Korean stumpy bullhead, 어리종개",Pseudobagrus brevicorpus,동자개과,Family Bagridae,MF0001609
+710604,71,내수면어류,06,동자개류,04,눈동자개,Black bullhead,Pseudobagrus koreanus,동자개과,Family Bagridae,MF0007901
+710605,71,내수면어류,06,동자개류,05,대농갱이,"Ussurian bullhead, 우쓰리종어",Leiocassis ussuriensis,동자개과,Family Bagridae,MF0009292
+710606,71,내수면어류,06,동자개류,06,밀자개,,Leiocassis nitidus,동자개과,Family Bagridae,
+710699,71,내수면어류,06,동자개류,99,기타동자개류,,,,,
+710700,71,내수면어류,07,드렁허리류,00,드렁허리류,,,,,
+710701,71,내수면어류,07,드렁허리류,01,드렁허리,"Ricefield swampeel, 두렁허리",Fluta alba,드렁허리과,Family Synbranchidae,MF0001990
+710702,71,내수면어류,07,드렁허리류,02,등목어,,Anabas testudineus,등목어과,,
+710799,71,내수면어류,07,드렁허리류,99,기타드렁허리류,,,,,
+710800,71,내수면어류,08,메기류,00,메기류,,,,,
+710801,71,내수면어류,08,메기류,01,메기,Far eastern catfish,Silurus asotus,메기과,Family Siluridae,MF0003822
+710802,71,내수면어류,08,메기류,02,붕메기,찬넬메기,Ictalurus punctatus,붕메기과,Family Ictaluridae,MF0006408
+710803,71,내수면어류,08,메기류,03,미유기,"Slender catfish, 눗메기",Silurus microdorsalis,메기과,Family Siluridae,MF0003821
+710899,71,내수면어류,08,메기류,99,기타메기류,,,,,
+710900,71,내수면어류,09,미꾸리류,00,미꾸리류,,,,,
+710901,71,내수면어류,09,미꾸리류,01,미꾸라지,"Chinese muddy loach, 당미꾸리",Misgurnus mizolepis,미꾸리과,Family Cobitidae,MF0010357
+710902,71,내수면어류,09,미꾸리류,02,미꾸리,Muddy loach,Misgurnus anguillicaudatus,미꾸리과,Family Cobitidae,MF0010358
+710903,71,내수면어류,09,미꾸리류,03,새코미꾸리,,Koreocobitis rotundicaudata,미꾸리과,Family Cobitidae,MF0012214
+710904,71,내수면어류,09,미꾸리류,04,수수미꾸리,줄무늬하늘종개,Niwaella multifasciata,미꾸리과,Family Cobitidae,MF0007160
+710905,71,내수면어류,09,미꾸리류,05,쌀미꾸리,"Eight barbel loach, 용지리",Lefua costata,미꾸리과,Family Cobitidae,MF0009286
+710999,71,내수면어류,09,미꾸리류,99,기타미꾸리류,,,,,
+711000,71,내수면어류,10,바다빙어류,00,바다빙어류,,,,,
+711001,71,내수면어류,10,바다빙어류,01,은어,Ayu,Plecoglossus altivelis altivelis,바다빙어과,Family Osmeridae,MF0006018
+711002,71,내수면어류,10,바다빙어류,02,빙어,Pond smelt,Hypomesus nipponensis,바다빙어과,Family Osmeridae,MF0011655
+711099,71,내수면어류,10,바다빙어류,99,기타바다빙어류,,,,,
+711100,71,내수면어류,11,백련어류,00,백련어류,,,,,
+711101,71,내수면어류,11,백련어류,01,백련어,"Silver carp, 기념어",Hypophthalmichthys molitrix,잉어과,Family Cyprinidae,MF0011658
+711199,71,내수면어류,11,백련어류,99,기타백련어류,,,,,
+711200,71,내수면어류,12,붕어류,00,붕어류,,,,,
+711201,71,내수면어류,12,붕어류,01,참붕어,False dace,Pseudorasbora parva,잉어과,Family Cyprinidae,MF0007353
+711202,71,내수면어류,12,붕어류,02,떡붕어,Crucian carp,Carassius cuvieri,잉어과,Family Cyprinidae,MF0002072
+711203,71,내수면어류,12,붕어류,03,금붕어,,Carassius auratus auratus,잉어과,Family Cyprinidae,
+711204,71,내수면어류,12,붕어류,04,각시붕어,"Korean rose bitterling, 남방돌납저리",Rhodeus uyekii,잉어과,Family Cyprinidae,MF0013058
+711205,71,내수면어류,12,붕어류,05,버들붕어,"Roundtailed paradise fish, 꽃붕어",Macropodus chinensis,버들붕어과,Family Belontiidae,MF0014224
+711206,71,내수면어류,12,붕어류,06,붕어,Crusian carp,Carassius auratus,잉어과,Family Cyprinidae,MF0002071
+711299,71,내수면어류,12,붕어류,99,기타붕어류,,,,,
+711300,71,내수면어류,13,산천어류,00,산천어류,,,,,
+711301,71,내수면어류,13,산천어류,01,산천어,,Oncorhynchus rhodurus,연어과,Family Salmonidae,MF0018956
+711399,71,내수면어류,13,산천어류,99,기타산천어류,,,,,
+711400,71,내수면어류,14,송사리류,00,송사리류,,,,,
+711401,71,내수면어류,14,송사리류,01,송사리,"Asiatic ricefish, 송살",Oryzias latipes,송사리과,Family Adrianichthyoidae,MF0013239
+711402,71,내수면어류,14,송사리류,02,대륙송사리,,Oryzias sinensis,송사리과,Family Adrianichthyidae,
+711499,71,내수면어류,14,송사리류,99,기타송사리류,,,,,
+711500,71,내수면어류,15,송어류,00,송어류,,,,,
+711501,71,내수면어류,15,송어류,01,곱사연어,"Saghalin salmon, 곱추송어",Oncorhynchus gorbuscha,연어과,Family Salmonidae,MF0002078
+711502,71,내수면어류,15,송어류,02,무지개송어,Rainbow trout,Onchorhynchus mykiss,연어과,Family Salmonidae,MF0009948
+711503,71,내수면어류,15,송어류,03,송어,"River salmon, trout,시마연어",Oncorhynchus masou masou,연어과,Family Salmonidae,MF0010368
+711504,71,내수면어류,15,송어류,04,홍송어,"White spotted char, 바다산천어, 산미연수",Salvelinus leucomaenis,연어과,Family Salmonidae,MF0000734
+711599,71,내수면어류,15,송어류,99,기타송어류,,,,,
+711600,71,내수면어류,16,열목어류,00,열목어류,,,,,
+711601,71,내수면어류,16,열목어류,01,열목어,Manchurian trout,Brachymystax lenok tsinlingensis,연어과,Family Salmonidae,MF0010206
+711699,71,내수면어류,16,열목어류,99,기타열목어류,,,,,
+711700,71,내수면어류,17,잉어류,00,잉어류,,,,,
+711701,71,내수면어류,17,잉어류,01,이스라엘잉어,"Islaeli carp, 향어",Cyprinus carpio,잉어과,Family Cyprinidae,MF0012404
+711702,71,내수면어류,17,잉어류,02,황어,Sea rundace,Tribolodon hakonensis,잉어과,Family Cyprinidae,MF0000471
+711703,71,내수면어류,17,잉어류,03,비단잉어,,Cyprinus carpio Linnaeus,잉어과,Family Cyprinidae,
+711704,71,내수면어류,17,잉어류,04,피라미,"Pale chub, 행베리",Zacco platypus,잉어과,Family Cyprinidae,MF0014378
+711705,71,내수면어류,17,잉어류,05,모래무지,Goby minnow,Pseudogobio esocinus,잉어과,Family Cyprinidae,MF0000126
+711706,71,내수면어류,17,잉어류,06,강준치,,Erythroculter erythropterus,잉어과,Family Cyprinidae,MF0008345
+711707,71,내수면어류,17,잉어류,07,GARRA잉어,,,,,
+711708,71,내수면어류,17,잉어류,08,미리갈잉어,,,,,
+711709,71,내수면어류,17,잉어류,09,미얀마잉어,,,,,
+711710,71,내수면어류,17,잉어류,10,백연,,Hypophthalmichthys moritax,잉어과,Family Cyprinidae,
+711711,71,내수면어류,17,잉어류,11,버들치,Chinese minnow,Rhynchocypris oxycephalus,잉어과,Family Cyprinidae,MF0003282
+711712,71,내수면어류,17,잉어류,12,알롱잉어,,Kuhlia marginata,알록잉어과,Family Kuhliidae,
+711713,71,내수면어류,17,잉어류,13,은잉어,,Kuhlia mugil,알록잉어과,Family Kuhliidae,MF0012166
+711714,71,내수면어류,17,잉어류,14,초어,Grass carp,Ctenopharyngodon idellus,잉어과,Family Cyprinidae,MF0006778
+711715,71,내수면어류,17,잉어류,15,카튤라잉어,,,,,
+711799,71,내수면어류,17,잉어류,99,기타잉어류,,,,,
+711800,71,내수면어류,18,장어류,00,장어류,,,,,
+711801,71,내수면어류,18,장어류,01,뱀장어,Japanese eel,Anguilla japonica,뱀장어과,Family Anguillidae,MF0012429
+711802,71,내수면어류,18,장어류,02,칠성장어,Arctic lamprey,Lampetra japonica,칠성장어과,Family Petromyzontidae,MF0003555
+711803,71,내수면어류,18,장어류,03,무태장어,,Anguilla marmorata,뱀장어과,Family Anguillidae,
+711899,71,내수면어류,18,장어류,99,기타장어류,,,,,
+711900,71,내수면어류,19,종개류,00,종개류,,,,,
+711901,71,내수면어류,19,종개류,01,기름종개,"Chinese spined loach, 하늘종개",Cobitis taenia,미꾸리과,Family Cobitidae,MF0012213
+711902,71,내수면어류,19,종개류,02,미호종개,,Cobitis choii,기름종개과,Family Cobitidae,
+711903,71,내수면어류,19,종개류,03,부안종개,,Cobitis koreensis pumilus,기름종개과,Family Cobitidae,
+711904,71,내수면어류,19,종개류,04,북방종개,,Cobitis granoei,기름종개과,Family Cobitidae,
+711905,71,내수면어류,19,종개류,05,쏠종개,Striped catfish,Plotosus lineatus,쏠종개과,Family Plotosidae,MF0003032
+711906,71,내수면어류,19,종개류,06,왕종개,,Cobitis longicorpus,미꾸리과,Family Cobitidae,MF0012217
+711907,71,내수면어류,19,종개류,07,점줄종개,,Cobitis lutheri,기름종개과,Family Cobitidae,
+711908,71,내수면어류,19,종개류,08,종개,,Nemacheilus toni,종개과,Family Balitoridae,MF0002885
+711909,71,내수면어류,19,종개류,09,줄종개,,Cobitis striata,기름종개과,Family Cobitidae,
+711910,71,내수면어류,19,종개류,10,참종개,,Iksookimia koreensis,미꾸리과,Family Cobitidae,MF0012219
+711999,71,내수면어류,19,종개류,99,기타종개류,,,,,
+712000,71,내수면어류,20,키크리류,00,키크리류,,,,,
+712001,71,내수면어류,20,키크리류,01,틸라피아,역돔,Tilapia mossambica,키크리과,Family Cichlidae,MF0008764
+712099,71,내수면어류,20,키크리류,99,기타키크리류,,,,,
+719900,71,내수면어류,99,기타내수면어류,00,,,,,,
+720000,72,내수면패류,00,,00,,,,,,
+720100,72,내수면패류,01,논우렁이류,00,논우렁이류,,,,,
+720101,72,내수면패류,01,논우렁이류,01,논우렁이,"논고동(경남), 골뱅이(경북), 우렁(충남),논우렁",Cipangopaludina chinensis malleata,논우렁이과,Family Viviparidae,MF0012480
+720102,72,내수면패류,01,논우렁이류,02,왕우렁이,,Pomacea canaliculata,논우렁이과,Family Viviparidae,MF0019020
+720199,72,내수면패류,01,논우렁이류,99,기타논우렁이류,,,,,
+720200,72,내수면패류,02,다슬기류,00,다슬기류,,,,,
+720201,72,내수면패류,02,다슬기류,01,다슬기,,Semisulcospira libertina,다슬기과,Family Pleuroceridae,MF0010890
+720202,72,내수면패류,02,다슬기류,02,곳체다슬기,,Semisulcospira amurensis,다슬기과,Family Pleuroceridae,MF0001176
+720203,72,내수면패류,02,다슬기류,03,구슬다슬기,,Koreoleptoxis globus,다슬기과,Family Pleuroceridae,MF0012161
+720204,72,내수면패류,02,다슬기류,04,띠구슬다슬기,,Koreoleptoxis globus ovalis,다슬기과,Family Pleuroceridae,
+720205,72,내수면패류,02,다슬기류,05,염주다슬기,,Koreanomelania nodifila,다슬기과,Family Pleuroceridae,MF0012159
+720206,72,내수면패류,02,다슬기류,06,좀주름다슬기,,Semisulcospira tegulata,다슬기과,Family Pleuroceridae,
+720207,72,내수면패류,02,다슬기류,07,주름다슬기,"좀주름다슬기, 꼬마주름다슬기",Semisulcospira forticosta,다슬기과,Family Pleuroceridae,MF0010888
+720208,72,내수면패류,02,다슬기류,08,주머니다슬기,,Semisulcospira paucicincta,다슬기과,Family Pleuroceridae,MF0009738
+720209,72,내수면패류,02,다슬기류,09,참다슬기,,Semisulcospira coreana,다슬기과,Family Pleuroceridae,MF0001175
+720299,72,내수면패류,02,다슬기류,99,기타다슬기류,,,,,
+720300,72,내수면패류,03,석패류,00,석패류,,,,,
+720301,72,내수면패류,03,석패류,01,대칭이,말조개,Cristaria plicata,석패과,Family Unionidae,MF0007842
+720302,72,내수면패류,03,석패류,02,원반대칭이,,Pletholophus discoidea,석패과,Family Unionidae,
+720399,72,내수면패류,03,석패류,99,기타석패류,,,,,
+720400,72,내수면패류,04,재첩류,00,재첩류,,,,,
+720401,72,내수면패류,04,재첩류,01,엷은재첩,,Corbicula papyracea,재첩과,Family Corbiculidae,MF0004484
+720402,72,내수면패류,04,재첩류,02,재첩,,Corbicula fluminea,재첩과,Family Corbiculidae,MF0011134
+720403,72,내수면패류,04,재첩류,03,일본재첩,"가막조개, 재첩",Corbicula japonica,재첩과,Family Corbiculidae,MF0005001
+720404,72,내수면패류,04,재첩류,04,점박이재첩,,Corbicula portentosa,재첩과,Family Corbiculidae,
+720405,72,내수면패류,04,재첩류,05,참재첩,"애기재첩, 가막조개",Corbicula leana,재첩과,Family Corbiculidae,MF0005000
+720406,72,내수면패류,04,재첩류,06,공주재첩,,Corbicula corolata,재첩과,Family Corbiculidae,
+720407,72,내수면패류,04,재첩류,07,대륙재첩,,Corbicula fluminalis,재첩과,Family Corbiculidae,
+720408,72,내수면패류,04,재첩류,08,섬재첩,,Corbicula insularis,재첩과,Family Corbiculidae,
+720409,72,내수면패류,04,재첩류,09,콩조개,"콩재첩, 노랑재첩",Corbicula felnouilliana,재첩과,Family Corbiculidae,MF0011132
+720499,72,내수면패류,04,재첩류,99,기타재첩류,,,,,
+729900,72,내수면패류,99,기타내수면패류,00,,,,,,
+730000,73,내수면갑각류,00,,00,,,,,,
+730100,73,내수면갑각류,01,민물가재류,00,민물가재류,,,,,
+730101,73,내수면갑각류,01,민물가재류,01,민물가재,,Cambaroides similis,,,
+730199,73,내수면갑각류,01,민물가재류,99,기타민물가재류,,,,,
+730200,73,내수면갑각류,02,민물게류,00,민물게류,,,,,
+730201,73,내수면갑각류,02,민물게류,01,참게,,Eriocheir sinensis,바위게과,Family Varunidae,MF0014474
+730299,73,내수면갑각류,02,민물게류,99,기타민물게류,,,,,
+730300,73,내수면갑각류,03,민물새우류,00,민물새우류,,,,,
+730301,73,내수면갑각류,03,민물새우류,01,새뱅이,,Neocardina denticulata,새뱅이과,Family Atyidae,MF0012614
+730302,73,내수면갑각류,03,민물새우류,02,징거미새우,Oriental river prawn,Macrobrachium nipponense,징거미새우과,Family Palaemonidae,MF0014213
+730303,73,내수면갑각류,03,민물새우류,03,큰징거미새우,,Macrobrachium rosenbergii,징거미새우과,Family Palaemonidae,
+730399,73,내수면갑각류,03,민물새우류,99,기타민물새우류,,,,,
+739900,73,내수면갑각류,99,기타내수면갑각류,00,,,,,,
+790000,79,내수면기타,00,,00,,,,,,
+790100,79,내수면기타,01,개구리류,00,개구리류,,,,,
+790101,79,내수면기타,01,개구리류,01,황소개구리,,Rana catesbeiana,개구리과,Family Ranidae,MF0006124
+790199,79,내수면기타,01,개구리류,99,기타개구리류,,,,,
+790200,79,내수면기타,02,남생이류,00,남생이류,,,,,
+790201,79,내수면기타,02,남생이류,01,남생이,,Chinemys reevesii,남생이과,Family Geoemydidae,MF0008455
+790299,79,내수면기타,02,남생이류,99,기타남생이류,,,,,
+790300,79,내수면기타,03,자라류,00,자라류,,,,,
+790301,79,내수면기타,03,자라류,01,자라,,Trionyx sinensis,자라과,Family Trionychidae,MF0019030
+790399,79,내수면기타,03,자라류,99,기타자라류,,,,,
+799900,79,내수면기타,99,기타내수면기타,00,,,,,,
+810000,81,해조류,00,,00,,,,,,
+810100,81,해조류,01,가사리류,00,가사리류,,,,,
+810101,81,해조류,01,가사리류,01,우뭇가사리,,Gelidium amansii,우뭇가사리과,Family Gelidiaceae,MF0013998
+810102,81,해조류,01,가사리류,02,불등풀가사리,,Gloiopeltis furcata,풀가사리과,Family Endocladiaceae,MF0011780
+810103,81,해조류,01,가사리류,03,돌가사리,,Gigartina tenella,돌가사리과,Family Gigartinaceae,
+810104,81,해조류,01,가사리류,04,세모가사리,,,,,
+810199,81,해조류,01,가사리류,99,기타가사리류,,,,,
+810200,81,해조류,02,갈래곰보류,00,갈래곰보류,,,,,
+810201,81,해조류,02,갈래곰보류,01,갈래곰보,,Meristotheca papulosa,솔리에리아과,,
+810299,81,해조류,02,갈래곰보류,99,기타갈래곰보류,,,,,
+810300,81,해조류,03,김류,00,김류,,,,,
+810301,81,해조류,03,김류,01,김,"Laver,참김",Porphyra tenera,보라털과,Family Bangiaceae,MF0013847
+810302,81,해조류,03,김류,02,청태,,Porphyra tenera,보라털과,Family Bangiaceae,MF0013847
+810303,81,해조류,03,김류,03,돌김,,Porphyra tenera,보라털과,Family Bangiaceae,MF0013847
+810304,81,해조류,03,김류,04,석태,,Porphyra tenera,보라털과,Family Bangiaceae,MF0013847
+810399,81,해조류,03,김류,99,기타김류,,,,,
+810400,81,해조류,04,꼬시래기류,00,꼬시래기류,,,,,
+810401,81,해조류,04,꼬시래기류,01,꼬시래기,"Sewing thread, Sea string",Gracilaria verrucosa,꼬시래기과,Family Gracilariaceae,MF0011605
+810499,81,해조류,04,꼬시래기류,99,기타꼬시래기류,,,,,
+810500,81,해조류,05,다시마류,00,다시마류,,,,,
+810501,81,해조류,05,다시마류,01,다시마,참다시마,Saccharina japonica,다시마과,Famliy Laminariaceae,MF0019036
+810502,81,해조류,05,다시마류,02,개다시마,,Kjellmaniella crassifolia,다시마과,Famliy Laminariaceae,
+810503,81,해조류,05,다시마류,03,쇠미역사촌,"Seersucker, 쇠미역",Costaria costata,다시마과,Family Laminariaceae,MF0011489
+810599,81,해조류,05,다시마류,99,기타다시마류,,,,,
+810600,81,해조류,06,도박류,00,도박류,,,,,
+810601,81,해조류,06,도박류,01,개도박,,Grateloupia lanceolata,지누아리과,Family Grateloupiaceae,
+810602,81,해조류,06,도박류,02,참도박,,Pachymeniopsis elliptica,,,
+810699,81,해조류,06,도박류,99,기타도박류,,,,,
+810700,81,해조류,07,말류,00,말류,,,,,
+810701,81,해조류,07,말류,01,말,,algae,,,
+810702,81,해조류,07,말류,02,실말,,Potamogeton berchtoldii,가래과,Family Pondweed,
+810703,81,해조류,07,말류,03,큰실말,,,,,
+810799,81,해조류,07,말류,99,기타말류,,,,,
+810800,81,해조류,08,모자반류,00,모자반류,,,,,
+810801,81,해조류,08,모자반류,01,톳,,Hizikia fusiformis,모자반과,Family Sargassaceae,MF0006202
+810802,81,해조류,08,모자반류,02,괭생이모자반,,Sargassum horneri,모자반과,Family Sargassaceae,MF0006034
+810899,81,해조류,08,모자반류,99,기타모자반류,,,,,
+810900,81,해조류,09,미역류,00,미역류,,,,,
+810901,81,해조류,09,미역류,01,미역,Sea mustard,Undaria pinnatifida,미역과,Family Alariaceae,MF0013706
+810902,81,해조류,09,미역류,02,감태,,Ecklonia cava,미역과,Family Alariaceae,MF0001330
+810903,81,해조류,09,미역류,03,돌미역,,Undaria pinnatifida,미역과,Family Alariaceae,MF0013706
+810999,81,해조류,09,미역류,99,기타미역류,,,,,
+811000,81,해조류,10,석묵류,00,석묵류,,,,,
+811001,81,해조류,10,석묵류,01,단박,,Ceramium boydenii,석묵류,Ceramiales,
+811002,81,해조류,10,석묵류,02,석묵,,Campylaephora hypnaeoides,비단풀과,Family Ceramiaceae,MF0010451
+811003,81,해조류,10,석묵류,03,비단풀,,Ceramium kondoi,석묵류,Ceramiales,
+811099,81,해조류,10,석묵류,99,기타석묵류,,,,,
+811100,81,해조류,11,진두발류,00,진두발류,,,,,
+811101,81,해조류,11,진두발류,01,진두발,,Chondrus ocellatus,진두발류,Gigartinales,
+811199,81,해조류,11,진두발류,99,기타진두발류,,,,,
+811200,81,해조류,12,청각류,00,청각류,,,,,
+811201,81,해조류,12,청각류,01,청각,Sea staghorn,Codium fragile,청각과,Family Codiaceae,MF0009565
+811299,81,해조류,12,청각류,99,기타청각류,,,,,
+811300,81,해조류,13,파래류,00,파래류,,,,,
+811301,81,해조류,13,파래류,01,홑파래,"참홑파래, 파래",Monostroma nitidum,홑파래과,Family Monostromataceae,MF0001998
+811302,81,해조류,13,파래류,02,갈파래,청태,Ulva lactuca,,,MF0010565
+811303,81,해조류,13,파래류,03,매생이,,Capsosiphon fulvescens,갈파래과,Family Ulvaceae,MF0003917
+811304,81,해조류,13,파래류,04,구멍갈파래,,Ulva pertusa,파래.갈파래류,Ulvales,
+811305,81,해조류,13,파래류,05,가시파래,,Enteromorpha prolifera,갈파래과,Family Ulvaceae,MF0009017
+811399,81,해조류,13,파래류,99,기타파래류,,,,,
+819900,81,해조류,99,기타해조류,00,,,,,,
+819901,81,해조류,99,기타해조류류,01,볏붉은잎,,Callophyllis japonica,칼리메니아과,,
+819902,81,해조류,99,기타해조류류,02,옥덩굴,,Caulerpa okamurai,옥덩굴과,,
+830000,83,내수면조류,00,,00,,,,,,
+830100,83,내수면조류,01,순채류,00,순채류,,,,,
+830101,83,내수면조류,01,순채류,01,순채,,Brasenia schreberi,수련과,,
+830199,83,내수면조류,01,순채류,99,기타순채류,,,,,
+839900,83,내수면조류,99,기타내수면조류,00,,,,,,
+930000,93,수산가공,00,,00,,,,,,
+931100,93,수산가공,11,통조림류,00,통조림류,,,,,
+931101,93,수산가공,11,통조림류,01,가다랭어기름담금,,,,,
+931102,93,수산가공,11,통조림류,02,게살,,,,,
+931103,93,수산가공,11,통조림류,03,고등어,,,고등어과,Family Scombridae,
+931104,93,수산가공,11,통조림류,04,굴,,,굴과,Family Ostreidae,
+931105,93,수산가공,11,통조림류,05,꼬막,,,돌조개과,Family Arcidae,
+931106,93,수산가공,11,통조림류,06,꽁치,,,꽁치과,Family Scomberesocidae,
+931107,93,수산가공,11,통조림류,07,멸치,,,멸치과,Family Engraulidae,
+931108,93,수산가공,11,통조림류,08,명태,,,대구과,Family Gadidae,
+931109,93,수산가공,11,통조림류,09,바다가재,,,,,
+931110,93,수산가공,11,통조림류,10,바지락,,,백합과,Family Veneridae,
+931111,93,수산가공,11,통조림류,11,바지락훈제기름,,,,,
+931112,93,수산가공,11,통조림류,12,뱀장어,,,뱀장어과,Family Anguillidae,
+931113,93,수산가공,11,통조림류,13,붉은대게,,,,,
+931114,93,수산가공,11,통조림류,14,새조개,,,새조개과,Family Cardiidae,
+931115,93,수산가공,11,통조림류,15,소라,,,소라과,Family Turbinidae,
+931116,93,수산가공,11,통조림류,16,송어,,,연어과,Family Salmonidae,
+931117,93,수산가공,11,통조림류,17,연어,,,,,
+931118,93,수산가공,11,통조림류,18,오징어,,,,,
+931119,93,수산가공,11,통조림류,19,재첩,,,,,
+931120,93,수산가공,11,통조림류,20,전갱이,,,,,
+931121,93,수산가공,11,통조림류,21,전복,,,,,
+931122,93,수산가공,11,통조림류,22,정어리,,,청어과,Family Clupeidae,
+931123,93,수산가공,11,통조림류,23,정어리도미도담금,,,,,
+931124,93,수산가공,11,통조림류,24,조제골뱅이,,,,,
+931125,93,수산가공,11,통조림류,25,참치,,,,,
+931126,93,수산가공,11,통조림류,26,청어,,,청어과,Family Clupeidae,
+931127,93,수산가공,11,통조림류,27,홍합,,,홍합과,Family Mytilidae,
+931128,93,수산가공,11,통조림류,28,훈제골뱅이,,,,,
+931129,93,수산가공,11,통조림류,29,훈제새조개,,,,,
+931199,93,수산가공,11,통조림류,99,기타통조림류,,,,,
+932100,93,수산가공,21,조미가공류,00,조미가공류,,,,,
+932101,93,수산가공,21,조미가공류,01,가자미,,,,,
+932102,93,수산가공,21,조미가공류,02,고등어,,,고등어과,Family Scombridae,
+932103,93,수산가공,21,조미가공류,03,대구,,,,,
+932104,93,수산가공,21,조미가공류,04,도루묵,,,도루묵과,Family Trichodontidae,
+932105,93,수산가공,21,조미가공류,05,방어,,,전갱이과,Family Carangidae,
+932106,93,수산가공,21,조미가공류,06,붕장어,,,붕장어과,Family Congridae,
+932107,93,수산가공,21,조미가공류,07,장어,,,,,
+932108,93,수산가공,21,조미가공류,08,청어,,,청어과,Family Clupeidae,
+932109,93,수산가공,21,조미가공류,09,학꽁치,,,,,
+932110,93,수산가공,21,조미가공류,10,꼴뚜기,,,,,
+932111,93,수산가공,21,조미가공류,11,문어,,,문어과,Family Octopodidae,
+932112,93,수산가공,21,조미가공류,12,오징어,,,,,
+932113,93,수산가공,21,조미가공류,13,꽃게,,,꽃게과,Family Portunidae,
+932114,93,수산가공,21,조미가공류,14,새우,,,,,
+932115,93,수산가공,21,조미가공류,15,개량조개,,,개량조개과,Family Mactridae,
+932116,93,수산가공,21,조미가공류,16,바지락,,,백합과,Family Veneridae,
+932117,93,수산가공,21,조미가공류,17,조개살,,,,,
+932118,93,수산가공,21,조미가공류,18,김,,,,,
+932119,93,수산가공,21,조미가공류,19,가정용맛김,,,,,
+932120,93,수산가공,21,조미가공류,20,도시락용김,,,,,
+932121,93,수산가공,21,조미가공류,21,돌김,,,,,
+932122,93,수산가공,21,조미가공류,22,식탁용맛김,,,,,
+932123,93,수산가공,21,조미가공류,23,다시마,,,다시마과,Famliy Laminariaceae,
+932124,93,수산가공,21,조미가공류,24,미역,,,미역과,Family Alariaceae,
+932125,93,수산가공,21,조미가공류,25,미역줄기,,,,,
+932126,93,수산가공,21,조미가공류,26,파래,,,,,
+932127,93,수산가공,21,조미가공류,27,가오리포,,,,,
+932128,93,수산가공,21,조미가공류,28,명태포,,,,,
+932129,93,수산가공,21,조미가공류,29,보리멸포,,,,,
+932130,93,수산가공,21,조미가공류,30,쥐치포,,,,,
+932199,93,수산가공,21,조미가공류,99,기타조미가공류,,,,,
+933100,93,수산가공,31,젓갈(일반)류,00,젓갈(일반)류,,,,,
+933101,93,수산가공,31,젓갈(일반)류,01,가자미식해젓,,,,,
+933102,93,수산가공,31,젓갈(일반)류,02,갈치젓,,,,,
+933103,93,수산가공,31,젓갈(일반)류,03,갑오징어젓,,,,,
+933104,93,수산가공,31,젓갈(일반)류,04,강달이젓,,,,,
+933105,93,수산가공,31,젓갈(일반)류,05,곤쟁이젓,,,,,
+933106,93,수산가공,31,젓갈(일반)류,06,골뱅이젓,,,,,
+933107,93,수산가공,31,젓갈(일반)류,07,굴젓,,,,,
+933108,93,수산가공,31,젓갈(일반)류,08,꼴뚜기젓,,,,,
+933109,93,수산가공,31,젓갈(일반)류,09,꽃게젓,,,,,
+933110,93,수산가공,31,젓갈(일반)류,10,낙지젓,,,,,
+933111,93,수산가공,31,젓갈(일반)류,11,멸치육젓,,,,,
+933112,93,수산가공,31,젓갈(일반)류,12,멸치젓,,,,,
+933113,93,수산가공,31,젓갈(일반)류,13,명태잡젓,,,,,
+933114,93,수산가공,31,젓갈(일반)류,14,바지락젓,,,,,
+933115,93,수산가공,31,젓갈(일반)류,15,밴댕이젓,,,,,
+933116,93,수산가공,31,젓갈(일반)류,16,병어젓,,,,,
+933117,93,수산가공,31,젓갈(일반)류,17,새우봄젓,,,,,
+933118,93,수산가공,31,젓갈(일반)류,18,새우오젓,,,,,
+933119,93,수산가공,31,젓갈(일반)류,19,새우육젓,,,,,
+933120,93,수산가공,31,젓갈(일반)류,20,새우추젓,,,,,
+933121,93,수산가공,31,젓갈(일반)류,21,소라맛젓,,,,,
+933122,93,수산가공,31,젓갈(일반)류,22,송어젓,,,,,
+933123,93,수산가공,31,젓갈(일반)류,23,어리굴젓,,,,,
+933124,93,수산가공,31,젓갈(일반)류,24,오분자기젓,,,,,
+933125,93,수산가공,31,젓갈(일반)류,25,오징어젓,,,,,
+933126,93,수산가공,31,젓갈(일반)류,26,우렁쉥이젓,,,,,
+933127,93,수산가공,31,젓갈(일반)류,27,자리돔젓,,,,,
+933128,93,수산가공,31,젓갈(일반)류,28,전갱이젓,,,,,
+933129,93,수산가공,31,젓갈(일반)류,29,전복젓,,,,,
+933130,93,수산가공,31,젓갈(일반)류,30,전어젓,,,,,
+933131,93,수산가공,31,젓갈(일반)류,31,조개젓,,,,,
+933132,93,수산가공,31,젓갈(일반)류,32,조기젓,,,,,
+933133,93,수산가공,31,젓갈(일반)류,33,한치젓,,,,,
+933134,93,수산가공,31,젓갈(일반)류,34,해락젓,,,,,
+933135,93,수산가공,31,젓갈(일반)류,35,황석어젓,,,,,
+933199,93,수산가공,31,젓갈(일반)류,99,기타젓갈(일반)류,,,,,
+933200,93,수산가공,32,젓갈(알젓)류,00,젓갈(알젓)류,,,,,
+933201,93,수산가공,32,젓갈(알젓)류,01,대구알젓,,,,,
+933202,93,수산가공,32,젓갈(알젓)류,02,명란젓,,,,,
+933203,93,수산가공,32,젓갈(알젓)류,03,성게알젓,,,,,
+933204,93,수산가공,32,젓갈(알젓)류,04,청어알젓,,,,,
+933299,93,수산가공,32,젓갈(알젓)류,99,기타젓갈(알젓)류,,,,,
+933300,93,수산가공,33,젓갈(내장)류,00,젓갈(내장)류,,,,,
+933301,93,수산가공,33,젓갈(내장)류,01,갈치속젓,,,,,
+933302,93,수산가공,33,젓갈(내장)류,02,갈치창자젓,,,,,
+933303,93,수산가공,33,젓갈(내장)류,03,대구아가미젓,,,,,
+933304,93,수산가공,33,젓갈(내장)류,04,명태아가미젓,,,,,
+933305,93,수산가공,33,젓갈(내장)류,05,창란젓,,,,,
+933306,93,수산가공,33,젓갈(내장)류,06,해삼창자젓,,,,,
+933399,93,수산가공,33,젓갈(내장)류,99,기타젓갈(내장)류,,,,,
+933400,93,수산가공,34,젓갈(액젓)류,00,젓갈(액젓)류,,,,,
+933401,93,수산가공,34,젓갈(액젓)류,01,까나리액젓,,,,,
+933402,93,수산가공,34,젓갈(액젓)류,02,멸치액젓,,,,,
+933403,93,수산가공,34,젓갈(액젓)류,03,밴댕이액젓,,,,,
+933404,93,수산가공,34,젓갈(액젓)류,04,참치액젓,,,,,
+933499,93,수산가공,34,젓갈(액젓)류,99,기타젓갈(액젓)류,,,,,
+934100,93,수산가공,41,건가공(포)류,00,건가공(포)류,,,,,
+934101,93,수산가공,41,건가공(포)류,01,가오리포,,,,,
+934102,93,수산가공,41,건가공(포)류,02,갈치포,,,,,
+934103,93,수산가공,41,건가공(포)류,03,노가리포,,,,,
+934104,93,수산가공,41,건가공(포)류,04,두절노가리,,,,,
+934105,93,수산가공,41,건가공(포)류,05,대구포,,,,,
+934106,93,수산가공,41,건가공(포)류,06,돔포,,,,,
+934107,93,수산가공,41,건가공(포)류,07,메기포,,,,,
+934108,93,수산가공,41,건가공(포)류,08,뱅어포,,,,,
+934109,93,수산가공,41,건가공(포)류,09,색줄멸포,,,,,
+934110,93,수산가공,41,건가공(포)류,10,오징어포,,,,,
+934111,93,수산가공,41,건가공(포)류,11,북어포,,,,,
+934112,93,수산가공,41,건가공(포)류,12,장어포,,,,,
+934113,93,수산가공,41,건가공(포)류,13,쥐치포,,,,,
+934114,93,수산가공,41,건가공(포)류,14,청어포,,,,,
+934115,93,수산가공,41,건가공(포)류,15,학꽁치포,,,,,
+934116,93,수산가공,41,건가공(포)류,16,쥐알포,,,,,
+934199,93,수산가공,41,건가공(포)류,99,기타건가공(포)류,,,,,
+934200,93,수산가공,42,건가공(채)류,00,건가공(채)류,,,,,
+934201,93,수산가공,42,건가공(채)류,01,노가리채,,,,,
+934202,93,수산가공,42,건가공(채)류,02,북어채,,,,,
+934203,93,수산가공,42,건가공(채)류,03,북어살,,,,,
+934204,93,수산가공,42,건가공(채)류,04,오징어채,,,,,
+934205,93,수산가공,42,건가공(채)류,05,오징어발,,,,,
+934206,93,수산가공,42,건가공(채)류,06,쥐치채,,,,,
+934207,93,수산가공,42,건가공(채)류,07,한치채,,,,,
+934299,93,수산가공,42,건가공(채)류,99,기타건가공(채)류,,,,,
+934300,93,수산가공,43,건가공(해조)류,00,건가공(해조)류,,,,,
+934301,93,수산가공,43,건가공(해조)류,01,기장각미역,,,,,
+934302,93,수산가공,43,건가공(해조)류,02,대각미역,,,,,
+934303,93,수산가공,43,건가공(해조)류,03,돌미역,,,,,
+934304,93,수산가공,43,건가공(해조)류,04,물미역,,,,,
+934305,93,수산가공,43,건가공(해조)류,05,미역귀,,,,,
+934306,93,수산가공,43,건가공(해조)류,06,미역줄기,,,,,
+934307,93,수산가공,43,건가공(해조)류,07,미역파치,,,,,
+934308,93,수산가공,43,건가공(해조)류,08,바람미역,,,,,
+934309,93,수산가공,43,건가공(해조)류,09,봉지미역,,,,,
+934310,93,수산가공,43,건가공(해조)류,10,양식미역,,,,,
+934311,93,수산가공,43,건가공(해조)류,11,오리미역,,,,,
+934312,93,수산가공,43,건가공(해조)류,12,완도미역,,,,,
+934313,93,수산가공,43,건가공(해조)류,13,울산대장각미역,,,,,
+934314,93,수산가공,43,건가공(해조)류,14,자연미역,,,,,
+934315,93,수산가공,43,건가공(해조)류,15,줄기미역,,,,,
+934316,93,수산가공,43,건가공(해조)류,16,쌈다시마,,,,,
+934399,93,수산가공,43,건가공(해조)류,99,기타건가공(해조)류,,,,,
+935100,93,수산가공,51,연제품류,00,연제품류,,,,,
+935101,93,수산가공,51,연제품류,01,갑오징어묵,,,,,
+935102,93,수산가공,51,연제품류,02,게맛생선묵,,,,,
+935103,93,수산가공,51,연제품류,03,구운어묵,,,,,
+935104,93,수산가공,51,연제품류,04,맛살,,,,,
+935105,93,수산가공,51,연제품류,05,부들어묵,,,,,
+935106,93,수산가공,51,연제품류,06,새우맛어묵,,,,,
+935107,93,수산가공,51,연제품류,07,어육소시지,,,,,
+935108,93,수산가공,51,연제품류,08,오징어어묵,,,,,
+935109,93,수산가공,51,연제품류,09,찐어묵,,,,,
+935110,93,수산가공,51,연제품류,10,튀김어묵,,,,,
+935199,93,수산가공,51,연제품류,99,기타연제품류,,,,,
+936100,93,수산가공,61,어분류,00,어분류,,,,,
+936101,93,수산가공,61,어분류,01,명태어분,,,,,
+936102,93,수산가공,61,어분류,02,새우껍질어분,,,,,
+936199,93,수산가공,61,어분류,99,기타어분류,,,,,
+936200,93,수산가공,62,어비류,00,어비류,,,,,
+936201,93,수산가공,62,어비류,01,멸치어비,,,,,
+936202,93,수산가공,62,어비류,02,정어리어비,,,,,
+936299,93,수산가공,62,어비류,99,기타어비류,,,,,
+936300,93,수산가공,63,어유류,00,어유류,,,,,
+936301,93,수산가공,63,어유류,01,상어어유,,,,,
+936302,93,수산가공,63,어유류,02,오징어유,,,,,
+936303,93,수산가공,63,어유류,03,어간유,,,,,
+936304,93,수산가공,63,어유류,04,주치어유,,,,,
+936399,93,수산가공,63,어유류,99,기타어유류,,,,,
+937100,93,수산가공,71,한천류,00,한천류,,,,,
+937101,93,수산가공,71,한천류,01,가루한천,,,,,
+937102,93,수산가공,71,한천류,02,실한천,,,,,
+937199,93,수산가공,71,한천류,99,기타한천류,,,,,
+939100,93,수산가공,91,천연조미료류,00,천연조미료류,,,,,
+939101,93,수산가공,91,천연조미료류,01,볶은소금,,,,,
+939199,93,수산가공,91,천연조미료류,99,기타천연조미료류,,,,,
+939900,93,수산가공,99,기타수산가공,00,,,,,,
