@@ -1,0 +1,1336 @@
+"","A","B","val"
+"1","Algeria","Afghanistan",0.813493388771635
+"2","Antigua and Barbuda","American Samoa",1
+"3","Aruba","Angola",0.999901027913407
+"4","Azerbaijan","Austria",0.719583344304014
+"5","Bahrain","Albania",0.71593206253864
+"6","Barbados","American Samoa",0.999553242677079
+"7","Barbados","Antigua and Barbuda",0.999553242677079
+"8","Belarus","Azerbaijan",0.837040658025002
+"9","Benin","American Samoa",0.709918034450625
+"10","Benin","Antigua and Barbuda",0.709918034450625
+"11","Benin","Barbados",0.709566861517355
+"12","Bosnia and Herzegovina","Austria",0.894550791476442
+"13","Bosnia and Herzegovina","Azerbaijan",0.716818377283906
+"14","Bosnia and Herzegovina","Bolivia (Plurinat.State)",0.79594771371345
+"15","Brazil","American Samoa",0.852852664748035
+"16","Brazil","Antigua and Barbuda",0.852852664748036
+"17","Brazil","Barbados",0.852412178559237
+"18","British Virgin Islands","Bahamas",0.976821402764858
+"19","Bulgaria","Austria",0.732378983857144
+"20","Bulgaria","Azerbaijan",0.77496494068086
+"21","Bulgaria","Bosnia and Herzegovina",0.757691049323754
+"22","Burkina Faso","American Samoa",0.824647169938164
+"23","Burkina Faso","Antigua and Barbuda",0.824647169938164
+"24","Burkina Faso","Barbados",0.824239233831341
+"25","Burkina Faso","Benin",0.774949897293786
+"26","Burkina Faso","Brazil",0.701709808304052
+"27","Burundi","American Samoa",0.998974014638738
+"28","Burundi","Antigua and Barbuda",0.998974014638738
+"29","Burundi","Barbados",0.998525264297865
+"30","Burundi","Benin",0.740817194282688
+"31","Burundi","Brazil",0.851882579887733
+"32","Burundi","Burkina Faso",0.835880155937112
+"33","C?te d'Ivoire","American Samoa",0.917034945591549
+"34","C?te d'Ivoire","Antigua and Barbuda",0.917034945591549
+"35","C?te d'Ivoire","Barbados",0.91659430156653
+"36","C?te d'Ivoire","Brazil",0.780828595954617
+"37","C?te d'Ivoire","Burkina Faso",0.776364042522572
+"38","C?te d'Ivoire","Burundi",0.918874205359755
+"39","Cameroon","American Samoa",0.773346333403186
+"40","Cameroon","Antigua and Barbuda",0.773346333403186
+"41","Cameroon","Barbados",0.772966802978498
+"42","Cameroon","Benin",0.994895423432765
+"43","Cameroon","Burkina Faso",0.808271910842244
+"44","Cameroon","Burundi",0.801114890647627
+"45","Cameroon","C?te d'Ivoire",0.753859141486063
+"46","Canada","Australia",0.922559247152367
+"47","Central African Republic","American Samoa",0.901393718660457
+"48","Central African Republic","Antigua and Barbuda",0.901393718660457
+"49","Central African Republic","Barbados",0.900955568654795
+"50","Central African Republic","Benin",0.702760379645315
+"51","Central African Republic","Brazil",0.784295396162156
+"52","Central African Republic","Burkina Faso",0.766768204988735
+"53","Central African Republic","Burundi",0.90446932588443
+"54","Central African Republic","C?te d'Ivoire",0.831541466886438
+"55","Central African Republic","Cameroon",0.754378560366133
+"56","Chad","American Samoa",0.881697380200406
+"57","Chad","Antigua and Barbuda",0.881697380200406
+"58","Chad","Barbados",0.881269225940063
+"59","Chad","Benin",0.922866821691301
+"60","Chad","Brazil",0.750602494522544
+"61","Chad","Burkina Faso",0.842963303125464
+"62","Chad","Burundi",0.899723474995202
+"63","Chad","C?te d'Ivoire",0.896740477729968
+"64","Chad","Cameroon",0.952446898755916
+"65","Chad","Central African Republic",0.849596295919519
+"66","Chile","Australia",0.77941945468505
+"67","Chile","Canada",0.790102971320006
+"68","Colombia","Angola",0.878183360911494
+"69","Colombia","Aruba",0.878293038921716
+"70","Congo","American Samoa",0.999469364536575
+"71","Congo","Antigua and Barbuda",0.999469364536575
+"72","Congo","Barbados",0.999021271501786
+"73","Congo","Benin",0.732481860516443
+"74","Congo","Brazil",0.852339611674295
+"75","Congo","Burkina Faso",0.832974709700278
+"76","Congo","Burundi",0.9999066824507
+"77","Congo","C?te d'Ivoire",0.918568824702672
+"78","Congo","Cameroon",0.793557801422864
+"79","Congo","Central African Republic",0.903821474798764
+"80","Congo","Chad",0.894962584225166
+"81","Congo, Dem. Rep. of the","Angola",0.999893283727027
+"82","Congo, Dem. Rep. of the","Aruba",0.999992343993464
+"83","Congo, Dem. Rep. of the","Colombia",0.878279986725452
+"84","Costa Rica","American Samoa",0.983976870211365
+"85","Costa Rica","Antigua and Barbuda",0.983976870211365
+"86","Costa Rica","Barbados",0.983523033407281
+"87","Costa Rica","Brazil",0.879146143529895
+"88","Costa Rica","Burkina Faso",0.811043854763922
+"89","Costa Rica","Burundi",0.982943139445078
+"90","Costa Rica","C?te d'Ivoire",0.921838420138518
+"91","Costa Rica","Cameroon",0.760619148533174
+"92","Costa Rica","Central African Republic",0.886600868847166
+"93","Costa Rica","Chad",0.86723192947123
+"94","Costa Rica","Congo",0.983439220462785
+"95","Croatia","Albania",0.743307340323498
+"96","Cyprus","Albania",0.807282545694328
+"97","Cyprus","Bahrain",0.876947983865084
+"98","Cyprus","Croatia",0.78177521760661
+"99","Czechia","Azerbaijan",0.802149035862446
+"100","Czechia","Belarus",0.989357349259082
+"101","Denmark","Austria",0.820376235784576
+"102","Denmark","Bolivia (Plurinat.State)",0.799897551374686
+"103","Denmark","Bosnia and Herzegovina",0.959787968301867
+"104","Dominica","American Samoa",0.985022240115026
+"105","Dominica","Antigua and Barbuda",0.985022240115026
+"106","Dominica","Barbados",0.984573848572763
+"107","Dominica","Brazil",0.839811819903585
+"108","Dominica","Burkina Faso",0.812067816135464
+"109","Dominica","Burundi",0.983997479573399
+"110","Dominica","C?te d'Ivoire",0.903121253245667
+"111","Dominica","Cameroon",0.76156700397776
+"112","Dominica","Central African Republic",0.887688371852535
+"113","Dominica","Chad",0.868293941707048
+"114","Dominica","Congo",0.984490478962789
+"115","Dominica","Costa Rica",0.969164855469093
+"116","Dominican Republic","Colombia",0.712446241595517
+"117","Ecuador","Belize",0.99595955929941
+"118","Egypt","American Samoa",0.973520855979448
+"119","Egypt","Antigua and Barbuda",0.973520855979448
+"120","Egypt","Barbados",0.973062617007811
+"121","Egypt","Brazil",0.836303207456641
+"122","Egypt","Burkina Faso",0.805596534394329
+"123","Egypt","Burundi",0.973333751175348
+"124","Egypt","C?te d'Ivoire",0.893051134921942
+"125","Egypt","Cameroon",0.761438334199266
+"126","Egypt","Central African Republic",0.89275746584113
+"127","Egypt","Chad",0.863149986978493
+"128","Egypt","Congo",0.973391929476085
+"129","Egypt","Costa Rica",0.957700180948432
+"130","Egypt","Dominica",0.95880520987975
+"131","El Salvador","American Samoa",0.980864541135496
+"132","El Salvador","Antigua and Barbuda",0.980864541135496
+"133","El Salvador","Barbados",0.980416714380568
+"134","El Salvador","Brazil",0.88722753634352
+"135","El Salvador","Burkina Faso",0.808603782727395
+"136","El Salvador","Burundi",0.979841850528359
+"137","El Salvador","C?te d'Ivoire",0.899280773081542
+"138","El Salvador","Cameroon",0.758321178625804
+"139","El Salvador","Central African Republic",0.883908897912015
+"140","El Salvador","Chad",0.864597430752805
+"141","El Salvador","Congo",0.980333577405924
+"142","El Salvador","Costa Rica",0.994945135907552
+"143","El Salvador","Dominica",0.966205736034589
+"144","El Salvador","Egypt",0.954747088434596
+"145","Estonia","Austria",0.819096524222108
+"146","Estonia","Bolivia (Plurinat.State)",0.787715105874451
+"147","Estonia","Bosnia and Herzegovina",0.957573268994513
+"148","Estonia","Denmark",0.976671494879807
+"149","Ethiopia","Angola",0.994423166020713
+"150","Ethiopia","Aruba",0.994525187441434
+"151","Ethiopia","Colombia",0.888265010611992
+"152","Ethiopia","Congo, Dem. Rep. of the",0.994516574517264
+"153","Faroe Islands","Australia",0.95681513553852
+"154","Faroe Islands","Canada",0.960339676284102
+"155","Faroe Islands","Chile",0.816615325511691
+"156","Finland","Austria",0.819265171632016
+"157","Finland","Bolivia (Plurinat.State)",0.799251719251105
+"158","Finland","Bosnia and Herzegovina",0.9592648769635
+"159","Finland","Denmark",0.995042961663764
+"160","Finland","Estonia",0.976829156616733
+"161","France","Channel Islands",0.812163744263782
+"162","Gabon","American Samoa",0.993622432868631
+"163","Gabon","Antigua and Barbuda",0.993622432868631
+"164","Gabon","Barbados",0.993173080237301
+"165","Gabon","Benin",0.784804467923103
+"166","Gabon","Brazil",0.847204107582857
+"167","Gabon","Burkina Faso",0.849730448543585
+"168","Gabon","Burundi",0.997666670151572
+"169","Gabon","C?te d'Ivoire",0.918180890167291
+"170","Gabon","Cameroon",0.8398015277213
+"171","Gabon","Central African Republic",0.905705047411867
+"172","Gabon","Chad",0.923614484970149
+"173","Gabon","Congo",0.996768042529985
+"174","Gabon","Costa Rica",0.977647776916313
+"175","Gabon","Dominica",0.978708784905188
+"176","Gabon","Egypt",0.968654130179394
+"177","Gabon","El Salvador",0.974572725042235
+"178","Georgia","Austria",0.837172942106969
+"179","Georgia","Azerbaijan",0.711974212416911
+"180","Georgia","Bolivia (Plurinat.State)",0.728868676533618
+"181","Georgia","Bosnia and Herzegovina",0.926989302302723
+"182","Georgia","Bulgaria",0.729546838515832
+"183","Georgia","Denmark",0.871008177887656
+"184","Georgia","Estonia",0.872412281358955
+"185","Georgia","Finland",0.870452059521821
+"186","Ghana","American Samoa",0.998993766930359
+"187","Ghana","Antigua and Barbuda",0.998993766930359
+"188","Ghana","Barbados",0.998544750392439
+"189","Ghana","Benin",0.740116752155802
+"190","Ghana","Brazil",0.852022099369336
+"191","Ghana","Burkina Faso",0.835663290242741
+"192","Ghana","Burundi",0.999939748046421
+"193","Ghana","C?te d'Ivoire",0.919890240488555
+"194","Ghana","Cameroon",0.800500949126256
+"195","Ghana","Central African Republic",0.905160881523997
+"196","Ghana","Chad",0.900031604338883
+"197","Ghana","Congo",0.999893335481547
+"198","Ghana","Costa Rica",0.982960036053428
+"199","Ghana","Dominica",0.984015451226479
+"200","Ghana","Egypt",0.973059895847522
+"201","Ghana","El Salvador",0.97985950951838
+"202","Ghana","Gabon",0.997571751979555
+"203","Greece","Albania",0.89292036967303
+"204","Greece","Bahrain",0.740883101558792
+"205","Greece","Croatia",0.856124577638656
+"206","Greece","Cyprus",0.937632698203249
+"207","Grenada","Fiji",0.948277700936461
+"208","Guam","American Samoa",0.909182092858745
+"209","Guam","Antigua and Barbuda",0.909182092858745
+"210","Guam","Barbados",0.908749890072624
+"211","Guam","Brazil",0.809665558851693
+"212","Guam","Burkina Faso",0.74904194386874
+"213","Guam","Burundi",0.908205088778284
+"214","Guam","C?te d'Ivoire",0.833193711414418
+"215","Guam","Cameroon",0.702499062131822
+"216","Guam","Central African Republic",0.818891968004996
+"217","Guam","Chad",0.801005977457305
+"218","Guam","Congo",0.9086712926438
+"219","Guam","Costa Rica",0.915042000097076
+"220","Guam","Dominica",0.895414476881022
+"221","Guam","Egypt",0.884694615551759
+"222","Guam","El Salvador",0.91788036750367
+"223","Guam","Gabon",0.903285562309903
+"224","Guam","Ghana",0.908218406980112
+"225","Guatemala","Belize",0.925514188022703
+"226","Guatemala","Ecuador",0.910749475230489
+"227","Guinea","Angola",0.916478032154806
+"228","Guinea","Aruba",0.916582173540385
+"229","Guinea","Colombia",0.804072519353733
+"230","Guinea","Congo, Dem. Rep. of the",0.917083365302768
+"231","Guinea","Ethiopia",0.911413281787963
+"232","Guinea-Bissau","American Samoa",1
+"233","Guinea-Bissau","Antigua and Barbuda",1
+"234","Guinea-Bissau","Barbados",0.999553242677079
+"235","Guinea-Bissau","Benin",0.709918034450625
+"236","Guinea-Bissau","Brazil",0.852852664748036
+"237","Guinea-Bissau","Burkina Faso",0.824647169938164
+"238","Guinea-Bissau","Burundi",0.998974014638738
+"239","Guinea-Bissau","C?te d'Ivoire",0.917034945591549
+"240","Guinea-Bissau","Cameroon",0.773346333403186
+"241","Guinea-Bissau","Central African Republic",0.901393718660457
+"242","Guinea-Bissau","Chad",0.881697380200406
+"243","Guinea-Bissau","Congo",0.999469364536575
+"244","Guinea-Bissau","Costa Rica",0.983976870211365
+"245","Guinea-Bissau","Dominica",0.985022240115026
+"246","Guinea-Bissau","Egypt",0.973520855979448
+"247","Guinea-Bissau","El Salvador",0.980864541135496
+"248","Guinea-Bissau","Gabon",0.993622432868631
+"249","Guinea-Bissau","Ghana",0.998993766930359
+"250","Guinea-Bissau","Guam",0.909182092858745
+"251","Haiti","American Samoa",0.997035692088356
+"252","Haiti","Antigua and Barbuda",0.997035692088356
+"253","Haiti","Barbados",0.996584569084483
+"254","Haiti","Benin",0.707680026550541
+"255","Haiti","Brazil",0.850651468480336
+"256","Haiti","Burkina Faso",0.822046848641354
+"257","Haiti","Burundi",0.996281618509722
+"258","Haiti","C?te d'Ivoire",0.914194535975164
+"259","Haiti","Cameroon",0.772033769816536
+"260","Haiti","Central African Republic",0.900013858509686
+"261","Haiti","Chad",0.878948720600535
+"262","Haiti","Congo",0.996500428530828
+"263","Haiti","Costa Rica",0.981003923239935
+"264","Haiti","Dominica",0.982069504997825
+"265","Haiti","Egypt",0.97329452631411
+"266","Haiti","El Salvador",0.977919033949552
+"267","Haiti","Gabon",0.990655563617399
+"268","Haiti","Ghana",0.996059645067984
+"269","Haiti","Guam",0.906384410764834
+"270","Haiti","Guinea-Bissau",0.997035692088356
+"271","Honduras","Belize",0.720520282458516
+"272","Honduras","Brazil",0.778056720362647
+"273","Honduras","Costa Rica",0.791336666936145
+"274","Honduras","Ecuador",0.776716514073911
+"275","Honduras","El Salvador",0.81922504627473
+"276","Honduras","Guam",0.725865913736797
+"277","Hungary","Azerbaijan",0.802434201490913
+"278","Hungary","Belarus",0.97692314100073
+"279","Hungary","Czechia",0.973595702132053
+"280","Iceland","Australia",0.781110630702727
+"281","Iceland","Canada",0.792826037300249
+"282","Iceland","Chile",0.704598030949024
+"283","Iceland","Faroe Islands",0.817885393561908
+"284","Indonesia","Fiji",0.962804664166292
+"285","Indonesia","Grenada",0.976810180696158
+"286","Iran (Islamic Rep. of)","Austria",0.74889054921056
+"287","Iran (Islamic Rep. of)","Azerbaijan",0.772165590452031
+"288","Iran (Islamic Rep. of)","Bosnia and Herzegovina",0.844921184939521
+"289","Iran (Islamic Rep. of)","Denmark",0.791289533155133
+"290","Iran (Islamic Rep. of)","Estonia",0.786298636025479
+"291","Iran (Islamic Rep. of)","Finland",0.790660277140054
+"292","Iran (Islamic Rep. of)","Georgia",0.786858547416875
+"293","Iraq","Azerbaijan",0.800558950439901
+"294","Iraq","Belarus",0.993568017803597
+"295","Iraq","Czechia",0.997246854478565
+"296","Iraq","Hungary",0.975877118924776
+"297","Ireland","Canada",0.739570441568024
+"298","Israel","Angola",0.798416844166565
+"299","Israel","Aruba",0.798524402556566
+"300","Israel","Colombia",0.711517215203072
+"301","Israel","Congo, Dem. Rep. of the",0.798510354774346
+"302","Israel","Ethiopia",0.794326016488669
+"303","Israel","Guinea",0.74246282160746
+"304","Jamaica","American Samoa",0.997646397402756
+"305","Jamaica","Antigua and Barbuda",0.997646397402756
+"306","Jamaica","Barbados",0.997196165581336
+"307","Jamaica","Benin",0.708140502625496
+"308","Jamaica","Brazil",0.857912157278763
+"309","Jamaica","Burkina Faso",0.822582340153852
+"310","Jamaica","Burundi",0.996615138849096
+"311","Jamaica","C?te d'Ivoire",0.914779539243603
+"312","Jamaica","Cameroon",0.771419452483246
+"313","Jamaica","Central African Republic",0.899457670488088
+"314","Jamaica","Chad",0.879514802761753
+"315","Jamaica","Congo",0.997112078350452
+"316","Jamaica","Costa Rica",0.985778468387949
+"317","Jamaica","Dominica",0.983024092128585
+"318","Jamaica","Egypt",0.971290615005526
+"319","Jamaica","El Salvador",0.983812620350729
+"320","Jamaica","Gabon",0.991266765557255
+"321","Jamaica","Ghana",0.996634037487982
+"322","Jamaica","Guam",0.910618280098337
+"323","Jamaica","Guinea-Bissau",0.997646397402756
+"324","Jamaica","Haiti",0.998477503398844
+"325","Jamaica","Honduras",0.709777448222854
+"326","Jordan","Belarus",0.879983619848577
+"327","Jordan","Czechia",0.890277492870223
+"328","Jordan","Hungary",0.865140391318812
+"329","Jordan","Iraq",0.888863066155202
+"330","Jordan","Israel",0.803428732853292
+"331","Kazakhstan","Armenia",0.80701721958016
+"332","Kenya","American Samoa",0.974340497140455
+"333","Kenya","Antigua and Barbuda",0.974340497140455
+"334","Kenya","Barbados",0.973889473838284
+"335","Kenya","Benin",0.841855401572265
+"336","Kenya","Brazil",0.830549572818288
+"337","Kenya","Burkina Faso",0.860758105293853
+"338","Kenya","Burundi",0.983285859319067
+"339","Kenya","C?te d'Ivoire",0.906623955208162
+"340","Kenya","Cameroon",0.889895976019242
+"341","Kenya","Central African Republic",0.897168515003856
+"342","Kenya","Chad",0.948908764072036
+"343","Kenya","Congo",0.980768010728691
+"344","Kenya","Costa Rica",0.95965549482988
+"345","Kenya","Dominica",0.959656314673653
+"346","Kenya","Egypt",0.954046120478526
+"347","Kenya","El Salvador",0.955591210591232
+"348","Kenya","Gabon",0.992166689140823
+"349","Kenya","Ghana",0.982715539961117
+"350","Kenya","Guam",0.885618391869405
+"351","Kenya","Guinea-Bissau",0.974340497140455
+"352","Kenya","Haiti",0.974409281768121
+"353","Kenya","Jamaica",0.971997956299005
+"354","Kiribati","Fiji",0.948276290157538
+"355","Kiribati","Grenada",0.999999255408169
+"356","Kiribati","Indonesia",0.976903221003693
+"357","Kuwait","American Samoa",0.999840485252792
+"358","Kuwait","Antigua and Barbuda",0.999840485252792
+"359","Kuwait","Barbados",0.99939219004964
+"360","Kuwait","Benin",0.709766868297238
+"361","Kuwait","Brazil",0.852650440294526
+"362","Kuwait","Burkina Faso",0.824471562300288
+"363","Kuwait","Burundi",0.998811930218641
+"364","Kuwait","C?te d'Ivoire",0.916854153079263
+"365","Kuwait","Cameroon",0.773185026716065
+"366","Kuwait","Central African Republic",0.901210410481099
+"367","Kuwait","Chad",0.881518547728548
+"368","Kuwait","Congo",0.999308180761975
+"369","Kuwait","Costa Rica",0.98380403586896
+"370","Kuwait","Dominica",0.984855831316546
+"371","Kuwait","Egypt",0.97366381984404
+"372","Kuwait","El Salvador",0.980699494653718
+"373","Kuwait","Gabon",0.993457864696151
+"374","Kuwait","Ghana",0.998831392384969
+"375","Kuwait","Guam",0.909008053276029
+"376","Kuwait","Guinea-Bissau",0.999840485252792
+"377","Kuwait","Haiti",0.996870305743284
+"378","Kuwait","Jamaica",0.997482211541492
+"379","Kuwait","Kenya",0.974167536763473
+"380","Kyrgyzstan","Austria",0.748332313969191
+"381","Kyrgyzstan","Azerbaijan",0.950754330115048
+"382","Kyrgyzstan","Bhutan",0.73904773361886
+"383","Kyrgyzstan","Bosnia and Herzegovina",0.780416404583763
+"384","Kyrgyzstan","Bulgaria",0.760476569533866
+"385","Kyrgyzstan","Georgia",0.769367206791792
+"386","Kyrgyzstan","Iran (Islamic Rep. of)",0.898878592949102
+"387","Lao People's Dem. Rep.","American Samoa",0.751270773845145
+"388","Lao People's Dem. Rep.","Antigua and Barbuda",0.751270773845145
+"389","Lao People's Dem. Rep.","Barbados",0.750829602728296
+"390","Lao People's Dem. Rep.","Burundi",0.751550368413157
+"391","Lao People's Dem. Rep.","Congo",0.75075710876371
+"392","Lao People's Dem. Rep.","Costa Rica",0.738191872180648
+"393","Lao People's Dem. Rep.","Dominica",0.739409582316363
+"394","Lao People's Dem. Rep.","Egypt",0.73979755591058
+"395","Lao People's Dem. Rep.","El Salvador",0.736191492279239
+"396","Lao People's Dem. Rep.","Gabon",0.74608134581342
+"397","Lao People's Dem. Rep.","Ghana",0.750668861548507
+"398","Lao People's Dem. Rep.","Guinea-Bissau",0.751270773845146
+"399","Lao People's Dem. Rep.","Haiti",0.758794723605775
+"400","Lao People's Dem. Rep.","Jamaica",0.749171604230038
+"401","Lao People's Dem. Rep.","Kenya",0.744171469020669
+"402","Lao People's Dem. Rep.","Kuwait",0.751033261428559
+"403","Latvia","Azerbaijan",0.831127114524552
+"404","Latvia","Belarus",0.980380812141581
+"405","Latvia","Czechia",0.991915800709889
+"406","Latvia","Hungary",0.969144934640283
+"407","Latvia","Iraq",0.9852160389959
+"408","Latvia","Jordan",0.882000110394147
+"409","Lebanon","Austria",0.822844700195634
+"410","Lebanon","Bolivia (Plurinat.State)",0.801414513762031
+"411","Lebanon","Bosnia and Herzegovina",0.961433283047091
+"412","Lebanon","Denmark",0.997644124704669
+"413","Lebanon","Estonia",0.977542064394086
+"414","Lebanon","Finland",0.996764643172835
+"415","Lebanon","Georgia",0.87270545853936
+"416","Lebanon","Iran (Islamic Rep. of)",0.7946323754077
+"417","Lesotho","Austria",0.82100534155234
+"418","Lesotho","Bolivia (Plurinat.State)",0.801793153112652
+"419","Lesotho","Bosnia and Herzegovina",0.961929445951267
+"420","Lesotho","Denmark",0.997961145576401
+"421","Lesotho","Estonia",0.977893746387032
+"422","Lesotho","Finland",0.997078427378126
+"423","Lesotho","Georgia",0.873168678532992
+"424","Lesotho","Iran (Islamic Rep. of)",0.793298348640647
+"425","Lesotho","Lebanon",0.999691546901887
+"426","Liberia","American Samoa",0.998636351491689
+"427","Liberia","Antigua and Barbuda",0.998636351491689
+"428","Liberia","Barbados",0.998186107002436
+"429","Liberia","Benin",0.739320696693397
+"430","Liberia","Brazil",0.851526589156468
+"431","Liberia","Burkina Faso",0.836190190868076
+"432","Liberia","Burundi",0.999547902978293
+"433","Liberia","C?te d'Ivoire",0.918420383584834
+"434","Liberia","Cameroon",0.799626332334529
+"435","Liberia","Central African Republic",0.903968460231088
+"436","Liberia","Chad",0.898779036005677
+"437","Liberia","Congo",0.999511073072082
+"438","Liberia","Costa Rica",0.982594657436825
+"439","Liberia","Dominica",0.98365538377701
+"440","Liberia","Egypt",0.972674850332601
+"441","Liberia","El Salvador",0.979499685139244
+"442","Liberia","Gabon",0.997129945881225
+"443","Liberia","Ghana",0.99952339544182
+"444","Liberia","Guam",0.907868433382123
+"445","Liberia","Guinea-Bissau",0.998636351491689
+"446","Liberia","Haiti",0.995659934842933
+"447","Liberia","Jamaica",0.996273111424156
+"448","Liberia","Kenya",0.982198065266522
+"449","Liberia","Kuwait",0.99847248673056
+"450","Liberia","Lao People's Dem. Rep.",0.749946743728648
+"451","Libya","Angola",0.785940515315782
+"452","Libya","Aruba",0.786038197252981
+"453","Libya","Congo, Dem. Rep. of the",0.786026648331926
+"454","Libya","Ethiopia",0.781511450311383
+"455","Libya","Guinea",0.71963368077934
+"456","Libya","Israel",0.724711378406271
+"457","Lithuania","Azerbaijan",0.80428331064027
+"458","Lithuania","Belarus",0.987166251219029
+"459","Lithuania","Czechia",0.998637710972548
+"460","Lithuania","Hungary",0.975128704974125
+"461","Lithuania","Iraq",0.995650326472177
+"462","Lithuania","Jordan",0.889769467052761
+"463","Lithuania","Latvia",0.994057801645557
+"464","Madagascar","Fiji",0.819749411597447
+"465","Madagascar","Grenada",0.828153449234534
+"466","Madagascar","Indonesia",0.842509202980122
+"467","Madagascar","Kiribati",0.828151134297465
+"468","Mali","American Samoa",0.92659643063452
+"469","Mali","Antigua and Barbuda",0.92659643063452
+"470","Mali","Barbados",0.926163430157462
+"471","Mali","Benin",0.922484195042057
+"472","Mali","Brazil",0.789707055293495
+"473","Mali","Burkina Faso",0.865306574554998
+"474","Mali","Burundi",0.942522090106255
+"475","Mali","C?te d'Ivoire",0.87489140703968
+"476","Mali","Cameroon",0.954732022659201
+"477","Mali","Central African Republic",0.869844488387523
+"478","Mali","Chad",0.976683142929491
+"479","Mali","Congo",0.938345858174408
+"480","Mali","Costa Rica",0.911561642874453
+"481","Mali","Dominica",0.912608268031437
+"482","Mali","Egypt",0.906527472010441
+"483","Mali","El Salvador",0.908738707025653
+"484","Mali","Gabon",0.963062452361879
+"485","Mali","Ghana",0.942284765204247
+"486","Mali","Guam",0.842101664429582
+"487","Mali","Guinea-Bissau",0.926596430634521
+"488","Mali","Haiti",0.923829043710335
+"489","Mali","Jamaica",0.924355888459289
+"490","Mali","Kenya",0.982939287293933
+"491","Mali","Kuwait",0.926427398574912
+"492","Mali","Liberia",0.941537526641183
+"493","Martinique","Guadeloupe",0.945819344467503
+"494","Mauritius","Guadeloupe",0.888470305652739
+"495","Mauritius","Martinique",0.98225390642298
+"496","Mayotte","Guadeloupe",0.880937599195564
+"497","Mayotte","Martinique",0.984531305165657
+"498","Mayotte","Mauritius",0.990424208517824
+"499","Mexico","Belize",0.953006669809565
+"500","Mexico","Ecuador",0.941477712239245
+"501","Mexico","Guatemala",0.990325856548146
+"502","Moldova, Republic of","Cuba",0.714161285787297
+"503","Montenegro","Austria",0.773442110694389
+"504","Montenegro","Bolivia (Plurinat.State)",0.754671361969639
+"505","Montenegro","Bosnia and Herzegovina",0.913512608204136
+"506","Montenegro","Bulgaria",0.724871425820136
+"507","Montenegro","Denmark",0.93988088103776
+"508","Montenegro","Estonia",0.920986779641366
+"509","Montenegro","Finland",0.938984316844132
+"510","Montenegro","Georgia",0.822733435782581
+"511","Montenegro","Iran (Islamic Rep. of)",0.74738274264824
+"512","Montenegro","Lebanon",0.941491269783354
+"513","Montenegro","Lesotho",0.941812237488017
+"514","Mozambique","Angola",0.982859454116032
+"515","Mozambique","Aruba",0.982962082087521
+"516","Mozambique","Colombia",0.862948655070071
+"517","Mozambique","Congo, Dem. Rep. of the",0.982953070684068
+"518","Mozambique","Ethiopia",0.978179880974794
+"519","Mozambique","Guinea",0.900741230777952
+"520","Mozambique","Israel",0.784442625756817
+"521","Mozambique","Libya",0.77231351506122
+"522","Namibia","Channel Islands",0.935325934468352
+"523","Namibia","France",0.738048556945924
+"524","Nepal","Moldova, Republic of",0.74750206081245
+"525","Netherlands","Germany",0.716045363599645
+"526","Netherlands","Ireland",0.720991765700837
+"527","New Caledonia","Brunei Darussalam",0.988086783542244
+"528","Nicaragua","Belize",0.99964464687957
+"529","Nicaragua","Ecuador",0.996385671987471
+"530","Nicaragua","Guatemala",0.915132705137664
+"531","Nicaragua","Honduras",0.720858732831723
+"532","Nicaragua","Mexico",0.945091369543902
+"533","Niger","American Samoa",0.908938199015369
+"534","Niger","Antigua and Barbuda",0.908938199015369
+"535","Niger","Barbados",0.908511992737705
+"536","Niger","Benin",0.938909484453552
+"537","Niger","Brazil",0.774415977851575
+"538","Niger","Burkina Faso",0.861746566882511
+"539","Niger","Burundi",0.926728893349559
+"540","Niger","C?te d'Ivoire",0.859390283483225
+"541","Niger","Cameroon",0.966882616544438
+"542","Niger","Central African Republic",0.856508726147275
+"543","Niger","Chad",0.977191068019417
+"544","Niger","Congo",0.922036503154962
+"545","Niger","Costa Rica",0.89417555084342
+"546","Niger","Dominica",0.895208201534857
+"547","Niger","Egypt",0.889832301989243
+"548","Niger","El Salvador",0.89141107753355
+"549","Niger","Gabon",0.950153850081115
+"550","Niger","Ghana",0.926323311979359
+"551","Niger","Guam",0.826027379047456
+"552","Niger","Guinea-Bissau",0.908938199015369
+"553","Niger","Haiti",0.906164453001421
+"554","Niger","Jamaica",0.906735783995679
+"555","Niger","Kenya",0.974505028977475
+"556","Niger","Kuwait",0.90877076304612
+"557","Niger","Liberia",0.925677975650151
+"558","Niger","Mali",0.998904614321231
+"559","North Macedonia","Armenia",0.93582785419779
+"560","Northern Mariana Is.","Belize",0.875882129232481
+"561","Northern Mariana Is.","Ecuador",0.858290488416805
+"562","Northern Mariana Is.","Guatemala",0.992995687051137
+"563","Northern Mariana Is.","Mexico",0.972197081673647
+"564","Northern Mariana Is.","Nicaragua",0.862787528239569
+"565","Norway","Australia",0.955122227044043
+"566","Norway","Canada",0.960714828758739
+"567","Norway","Chile",0.828842353664745
+"568","Norway","Faroe Islands",0.998486487967202
+"569","Norway","Iceland",0.825489388715034
+"570","Pakistan","Myanmar",0.728138064933386
+"571","Pakistan","Nepal",0.700854468278841
+"572","Palau","Nauru",0.990622378499947
+"573","Palestine","Bahrain",0.876853627794396
+"574","Palestine","Cyprus",0.856522513412867
+"575","Palestine","Greece",0.733189025147913
+"576","Panama","Belize",0.986840659343171
+"577","Panama","Ecuador",0.986731180408731
+"578","Panama","Guatemala",0.902357056965883
+"579","Panama","Honduras",0.737350568121369
+"580","Panama","Mexico",0.933284072679041
+"581","Panama","Nicaragua",0.98692662738491
+"582","Panama","Northern Mariana Is.",0.850427148162616
+"583","Papua New Guinea","Malaysia",0.864294770650227
+"584","Paraguay","American Samoa",0.978521509684595
+"585","Paraguay","Antigua and Barbuda",0.978521509684595
+"586","Paraguay","Barbados",0.978067416718798
+"587","Paraguay","Brazil",0.84440466419286
+"588","Paraguay","Burkina Faso",0.806471352460138
+"589","Paraguay","Burundi",0.977928507999456
+"590","Paraguay","C?te d'Ivoire",0.896975287255307
+"591","Paraguay","Cameroon",0.758027171471101
+"592","Paraguay","Central African Republic",0.881617288283096
+"593","Paraguay","Chad",0.862358032132518
+"594","Paraguay","Congo",0.977983819450777
+"595","Paraguay","Costa Rica",0.962675491330372
+"596","Paraguay","Dominica",0.963767771977804
+"597","Paraguay","Egypt",0.955948422903722
+"598","Paraguay","El Salvador",0.959684208033877
+"599","Paraguay","Gabon",0.972217047119359
+"600","Paraguay","Ghana",0.977505109504914
+"601","Paraguay","Guam",0.889348975574315
+"602","Paraguay","Guinea-Bissau",0.978521509684595
+"603","Paraguay","Haiti",0.97912423288006
+"604","Paraguay","Jamaica",0.976165359461771
+"605","Paraguay","Kenya",0.957994577069562
+"606","Paraguay","Kuwait",0.978346542386604
+"607","Paraguay","Lao People's Dem. Rep.",0.749657472546232
+"608","Paraguay","Liberia",0.977139090969057
+"609","Paraguay","Mali",0.906471196791509
+"610","Paraguay","Niger",0.889179393644602
+"611","Philippines","Malaysia",0.91071136597235
+"612","Philippines","Papua New Guinea",0.911248936123276
+"613","Poland","Austria",0.783906460146962
+"614","Poland","Azerbaijan",0.942804409121957
+"615","Poland","Belarus",0.812280974904447
+"616","Poland","Bosnia and Herzegovina",0.783266147557521
+"617","Poland","Bulgaria",0.81712787555679
+"618","Poland","Czechia",0.819911785866733
+"619","Poland","Georgia",0.7728567035249
+"620","Poland","Hungary",0.790886260358953
+"621","Poland","Iraq",0.801254387081253
+"622","Poland","Jordan",0.714526650113255
+"623","Poland","Kyrgyzstan",0.874891536828432
+"624","Poland","Latvia",0.860392336998409
+"625","Poland","Lithuania",0.825624741874071
+"626","Qatar","American Samoa",1
+"627","Qatar","Antigua and Barbuda",1
+"628","Qatar","Barbados",0.999553242677079
+"629","Qatar","Benin",0.709918034450625
+"630","Qatar","Brazil",0.852852664748036
+"631","Qatar","Burkina Faso",0.824647169938164
+"632","Qatar","Burundi",0.998974014638738
+"633","Qatar","C?te d'Ivoire",0.917034945591549
+"634","Qatar","Cameroon",0.773346333403186
+"635","Qatar","Central African Republic",0.901393718660457
+"636","Qatar","Chad",0.881697380200406
+"637","Qatar","Congo",0.999469364536575
+"638","Qatar","Costa Rica",0.983976870211365
+"639","Qatar","Dominica",0.985022240115026
+"640","Qatar","Egypt",0.973520855979448
+"641","Qatar","El Salvador",0.980864541135496
+"642","Qatar","Gabon",0.993622432868631
+"643","Qatar","Ghana",0.998993766930359
+"644","Qatar","Guam",0.909182092858745
+"645","Qatar","Guinea-Bissau",1
+"646","Qatar","Haiti",0.997035692088356
+"647","Qatar","Jamaica",0.997646397402756
+"648","Qatar","Kenya",0.974340497140455
+"649","Qatar","Kuwait",0.999840485252792
+"650","Qatar","Lao People's Dem. Rep.",0.751270773845145
+"651","Qatar","Liberia",0.998636351491689
+"652","Qatar","Mali",0.926596430634521
+"653","Qatar","Niger",0.908938199015369
+"654","Qatar","Paraguay",0.978521509684595
+"655","R?union","Angola",0.856070892534875
+"656","R?union","Aruba",0.856173746096335
+"657","R?union","Colombia",0.837820095309218
+"658","R?union","Congo, Dem. Rep. of the",0.856162152469702
+"659","R?union","Ethiopia",0.856336852670664
+"660","R?union","Guinea",0.783992981270892
+"661","R?union","Israel",0.709027543276573
+"662","R?union","Mozambique",0.841283668042831
+"663","Romania","Azerbaijan",0.857571450935608
+"664","Romania","Belarus",0.816902231558696
+"665","Romania","Bulgaria",0.745138769386278
+"666","Romania","Czechia",0.785985695224461
+"667","Romania","Hungary",0.798187073720617
+"668","Romania","Iraq",0.784614896533186
+"669","Romania","Kyrgyzstan",0.806603468599782
+"670","Romania","Latvia",0.78697717345433
+"671","Romania","Lithuania",0.789059413060545
+"672","Romania","Moldova, Republic of",0.825514282495222
+"673","Romania","Poland",0.782976603400167
+"674","Russian Federation","Azerbaijan",0.946075009103496
+"675","Russian Federation","Belarus",0.875807809590551
+"676","Russian Federation","Bhutan",0.706954615358933
+"677","Russian Federation","Czechia",0.83675881213885
+"678","Russian Federation","Hungary",0.847289838239021
+"679","Russian Federation","Iraq",0.84530501830604
+"680","Russian Federation","Jordan",0.730461090397395
+"681","Russian Federation","Kyrgyzstan",0.916227656881946
+"682","Russian Federation","Latvia",0.850110392692957
+"683","Russian Federation","Lithuania",0.836413384359968
+"684","Russian Federation","Moldova, Republic of",0.713130298752036
+"685","Russian Federation","Poland",0.878674036431355
+"686","Russian Federation","Romania",0.863755760639413
+"687","Rwanda","American Samoa",0.998095852704993
+"688","Rwanda","Antigua and Barbuda",0.998095852704993
+"689","Rwanda","Barbados",0.997646005633289
+"690","Rwanda","Benin",0.748509207838696
+"691","Rwanda","Brazil",0.85145327515122
+"692","Rwanda","Burkina Faso",0.838315220035209
+"693","Rwanda","Burundi",0.99962182826232
+"694","Rwanda","C?te d'Ivoire",0.918783261954254
+"695","Rwanda","Cameroon",0.808024235243348
+"696","Rwanda","Central African Republic",0.906903705363822
+"697","Rwanda","Chad",0.903916639965375
+"698","Rwanda","Congo",0.999413443403365
+"699","Rwanda","Costa Rica",0.982064357664104
+"700","Rwanda","Dominica",0.983123880109178
+"701","Rwanda","Egypt",0.972367906578882
+"702","Rwanda","El Salvador",0.978970568389564
+"703","Rwanda","Gabon",0.998124995577207
+"704","Rwanda","Ghana",0.999787330514574
+"705","Rwanda","Guam",0.907379833145268
+"706","Rwanda","Guinea-Bissau",0.998095852704993
+"707","Rwanda","Haiti",0.995258085602659
+"708","Rwanda","Jamaica",0.995734373828955
+"709","Rwanda","Kenya",0.984609640212344
+"710","Rwanda","Kuwait",0.997932248043395
+"711","Rwanda","Lao People's Dem. Rep.",0.750680216399435
+"712","Rwanda","Liberia",0.999178636509222
+"713","Rwanda","Mali",0.946440920234482
+"714","Rwanda","Niger",0.930851730565788
+"715","Rwanda","Paraguay",0.976657323016271
+"716","Rwanda","Qatar",0.998095852704993
+"717","Saint Kitts and Nevis","Angola",0.981375245470407
+"718","Saint Kitts and Nevis","Aruba",0.981478521722433
+"719","Saint Kitts and Nevis","Colombia",0.861589081506936
+"720","Saint Kitts and Nevis","Congo, Dem. Rep. of the",0.981469300529243
+"721","Saint Kitts and Nevis","Ethiopia",0.976036184782151
+"722","Saint Kitts and Nevis","Guinea",0.899348043002336
+"723","Saint Kitts and Nevis","Israel",0.783187033327305
+"724","Saint Kitts and Nevis","Libya",0.771097932137032
+"725","Saint Kitts and Nevis","Mozambique",0.964653638597026
+"726","Saint Kitts and Nevis","R?union",0.839968435590433
+"727","Saint Lucia","Fiji",0.903730520040103
+"728","Saint Lucia","Grenada",0.769946496101133
+"729","Saint Lucia","Indonesia",0.811516431934597
+"730","Saint Lucia","Kiribati",0.769944164345269
+"731","Saint Vincent/Grenadines","Fiji",0.948277700936461
+"732","Saint Vincent/Grenadines","Grenada",1
+"733","Saint Vincent/Grenadines","Indonesia",0.976810180696158
+"734","Saint Vincent/Grenadines","Kiribati",0.999999255408169
+"735","Saint Vincent/Grenadines","Madagascar",0.828153449234534
+"736","Saint Vincent/Grenadines","Saint Lucia",0.769946496101133
+"737","Samoa","American Samoa",0.99996292825714
+"738","Samoa","Antigua and Barbuda",0.99996292825714
+"739","Samoa","Barbados",0.999515771734905
+"740","Samoa","Benin",0.709881918032821
+"741","Samoa","Brazil",0.852803915795265
+"742","Samoa","Burkina Faso",0.824605213766003
+"743","Samoa","Burundi",0.998936274708409
+"744","Samoa","C?te d'Ivoire",0.916992032520894
+"745","Samoa","Cameroon",0.773307859700825
+"746","Samoa","Central African Republic",0.90135009080881
+"747","Samoa","Chad",0.881654827158997
+"748","Samoa","Congo",0.999431859361878
+"749","Samoa","Costa Rica",0.98393629064954
+"750","Samoa","Dominica",0.984983325078413
+"751","Samoa","Egypt",0.973478050052933
+"752","Samoa","El Salvador",0.980825407817805
+"753","Samoa","Gabon",0.993584029030625
+"754","Samoa","Ghana",0.99895595212098
+"755","Samoa","Guam",0.909140892038217
+"756","Samoa","Guinea-Bissau",0.99996292825714
+"757","Samoa","Haiti",0.99699709099596
+"758","Samoa","Jamaica",0.997608109014351
+"759","Samoa","Kenya",0.974299845093508
+"760","Samoa","Kuwait",0.999802955842853
+"761","Samoa","Lao People's Dem. Rep.",0.751212519098077
+"762","Samoa","Liberia",0.99859815016839
+"763","Samoa","Mali",0.92655659577174
+"764","Samoa","Niger",0.908898703387528
+"765","Samoa","Paraguay",0.978480356421992
+"766","Samoa","Qatar",0.99996292825714
+"767","Samoa","Rwanda",0.998057716345543
+"768","Saudi Arabia","Belize",0.907515044699581
+"769","Saudi Arabia","Ecuador",0.93106701806642
+"770","Saudi Arabia","Guatemala",0.829401264808872
+"771","Saudi Arabia","Honduras",0.871531243362108
+"772","Saudi Arabia","Mexico",0.856617712702961
+"773","Saudi Arabia","Nicaragua",0.907939008359391
+"774","Saudi Arabia","Northern Mariana Is.",0.78146539238442
+"775","Saudi Arabia","Panama",0.90758825185199
+"776","Senegal","American Samoa",0.729895949864651
+"777","Senegal","Antigua and Barbuda",0.729895949864651
+"778","Senegal","Barbados",0.729501339450366
+"779","Senegal","Burundi",0.730150601118364
+"780","Senegal","Congo",0.730246101206036
+"781","Senegal","Costa Rica",0.717667396892572
+"782","Senegal","Dominica",0.718568425357651
+"783","Senegal","Egypt",0.709777728919878
+"784","Senegal","El Salvador",0.715472357955913
+"785","Senegal","Gabon",0.727793878501133
+"786","Senegal","Gambia",0.704473783715055
+"787","Senegal","Ghana",0.730127724935976
+"788","Senegal","Guinea-Bissau",0.729895949864651
+"789","Senegal","Haiti",0.72746214057843
+"790","Senegal","Jamaica",0.727963161894002
+"791","Senegal","Kenya",0.715740560110051
+"792","Senegal","Kuwait",0.729703115285226
+"793","Senegal","Liberia",0.729782983654783
+"794","Senegal","Paraguay",0.713414953968422
+"795","Senegal","Qatar",0.729895949864651
+"796","Senegal","Rwanda",0.729733980536992
+"797","Senegal","Samoa",0.72984915016573
+"798","Serbia","Azerbaijan",0.886280558904162
+"799","Serbia","Belarus",0.985117994971638
+"800","Serbia","Czechia",0.985772689977575
+"801","Serbia","Hungary",0.964485686099365
+"802","Serbia","Iraq",0.982755928782704
+"803","Serbia","Jordan",0.874009292927566
+"804","Serbia","Kyrgyzstan",0.753591423773751
+"805","Serbia","Latvia",0.988347498881442
+"806","Serbia","Lithuania",0.985831066241503
+"807","Serbia","Poland",0.893721611659938
+"808","Serbia","Romania",0.83181395236072
+"809","Serbia","Russian Federation",0.899839643778613
+"810","Seychelles","French Polynesia",0.998985303092807
+"811","Sierra Leone","American Samoa",0.997751609323015
+"812","Sierra Leone","Antigua and Barbuda",0.997751609323015
+"813","Sierra Leone","Barbados",0.997302620412096
+"814","Sierra Leone","Benin",0.755523235044469
+"815","Sierra Leone","Brazil",0.850810638422115
+"816","Sierra Leone","Burkina Faso",0.840827757546882
+"817","Sierra Leone","Burundi",0.999737635255036
+"818","Sierra Leone","C?te d'Ivoire",0.919130359650141
+"819","Sierra Leone","Cameroon",0.81403807175993
+"820","Sierra Leone","Central African Republic",0.905346422781818
+"821","Sierra Leone","Chad",0.907971492676798
+"822","Sierra Leone","Congo",0.999405209207334
+"823","Sierra Leone","Costa Rica",0.981732579297245
+"824","Sierra Leone","Dominica",0.98278885624867
+"825","Sierra Leone","Egypt",0.97212962819202
+"826","Sierra Leone","El Salvador",0.978637606719793
+"827","Sierra Leone","Gabon",0.998945489087883
+"828","Sierra Leone","Ghana",0.999689261204338
+"829","Sierra Leone","Guam",0.907079552427828
+"830","Sierra Leone","Guinea-Bissau",0.997751609323015
+"831","Sierra Leone","Haiti",0.994781207319362
+"832","Sierra Leone","Jamaica",0.995393149674246
+"833","Sierra Leone","Kenya",0.986438547108311
+"834","Sierra Leone","Kuwait",0.997588844954333
+"835","Sierra Leone","Lao People's Dem. Rep.",0.749344975850291
+"836","Sierra Leone","Liberia",0.999281135175423
+"837","Sierra Leone","Mali",0.949699822682329
+"838","Sierra Leone","Niger",0.934837399879654
+"839","Sierra Leone","Paraguay",0.976283445030072
+"840","Sierra Leone","Qatar",0.997751609323015
+"841","Sierra Leone","Rwanda",0.999652488387203
+"842","Sierra Leone","Samoa",0.997713688647428
+"843","Sierra Leone","Senegal",0.729772221996138
+"844","Singapore","Nauru",0.876989547116882
+"845","Singapore","Palau",0.868233241296812
+"846","Slovakia","Austria",0.903054700879502
+"847","Slovakia","Azerbaijan",0.744726234735276
+"848","Slovakia","Bolivia (Plurinat.State)",0.767316539624829
+"849","Slovakia","Bosnia and Herzegovina",0.977670206033426
+"850","Slovakia","Bulgaria",0.76652102829534
+"851","Slovakia","Denmark",0.917794215042023
+"852","Slovakia","Estonia",0.951240784580103
+"853","Slovakia","Finland",0.918735684076437
+"854","Slovakia","Georgia",0.910729842069432
+"855","Slovakia","Iran (Islamic Rep. of)",0.828008250043355
+"856","Slovakia","Kyrgyzstan",0.791608941751956
+"857","Slovakia","Lebanon",0.920729477665591
+"858","Slovakia","Lesotho",0.919952119666761
+"859","Slovakia","Montenegro",0.866943765937324
+"860","Slovakia","Poland",0.819900640135014
+"861","Slovenia","Austria",0.737380520443499
+"862","Slovenia","Bosnia and Herzegovina",0.837705469579844
+"863","Slovenia","Bulgaria",0.836250613745941
+"864","Slovenia","Denmark",0.815578490774344
+"865","Slovenia","Estonia",0.810738454155708
+"866","Slovenia","Finland",0.815083815221232
+"867","Slovenia","Georgia",0.766693391351633
+"868","Slovenia","Italy",0.789089757616302
+"869","Slovenia","Lebanon",0.81717348723866
+"870","Slovenia","Lesotho",0.817499864852222
+"871","Slovenia","Montenegro",0.944170261076056
+"872","Slovenia","Slovakia",0.810359591866902
+"873","Solomon Islands","Malaysia",0.937534726130744
+"874","Solomon Islands","Papua New Guinea",0.908820187695583
+"875","Solomon Islands","Philippines",0.95670332998895
+"876","South Sudan","American Samoa",1
+"877","South Sudan","Antigua and Barbuda",1
+"878","South Sudan","Barbados",0.999553242677079
+"879","South Sudan","Benin",0.709918034450625
+"880","South Sudan","Brazil",0.852852664748035
+"881","South Sudan","Burkina Faso",0.824647169938164
+"882","South Sudan","Burundi",0.998974014638738
+"883","South Sudan","C?te d'Ivoire",0.917034945591549
+"884","South Sudan","Cameroon",0.773346333403186
+"885","South Sudan","Central African Republic",0.901393718660456
+"886","South Sudan","Chad",0.881697380200406
+"887","South Sudan","Congo",0.999469364536575
+"888","South Sudan","Costa Rica",0.983976870211364
+"889","South Sudan","Dominica",0.985022240115026
+"890","South Sudan","Egypt",0.973520855979448
+"891","South Sudan","El Salvador",0.980864541135496
+"892","South Sudan","Gabon",0.993622432868631
+"893","South Sudan","Ghana",0.998993766930359
+"894","South Sudan","Guam",0.909182092858745
+"895","South Sudan","Guinea-Bissau",1
+"896","South Sudan","Haiti",0.997035692088355
+"897","South Sudan","Jamaica",0.997646397402756
+"898","South Sudan","Kenya",0.974340497140455
+"899","South Sudan","Kuwait",0.999840485252792
+"900","South Sudan","Lao People's Dem. Rep.",0.751270773845146
+"901","South Sudan","Liberia",0.998636351491689
+"902","South Sudan","Mali",0.92659643063452
+"903","South Sudan","Niger",0.908938199015369
+"904","South Sudan","Paraguay",0.978521509684594
+"905","South Sudan","Qatar",1
+"906","South Sudan","Rwanda",0.998095852704993
+"907","South Sudan","Samoa",0.999962928257139
+"908","South Sudan","Senegal",0.729895949864651
+"909","South Sudan","Sierra Leone",0.997751609323015
+"910","Sri Lanka","Angola",0.875236816594927
+"911","Sri Lanka","Aruba",0.875346613798659
+"912","Sri Lanka","Colombia",0.767727042946863
+"913","Sri Lanka","Congo, Dem. Rep. of the",0.87533346990059
+"914","Sri Lanka","Ethiopia",0.889024979736121
+"915","Sri Lanka","Guinea",0.801354630847574
+"916","Sri Lanka","Israel",0.735216262323224
+"917","Sri Lanka","Mozambique",0.931926791031061
+"918","Sri Lanka","R?union",0.748136528961508
+"919","Sri Lanka","Saint Kitts and Nevis",0.865061750116975
+"920","Sudan","American Samoa",0.920348131494698
+"921","Sudan","Antigua and Barbuda",0.920348131494698
+"922","Sudan","Barbados",0.919918074981504
+"923","Sudan","Benin",0.928817421368747
+"924","Sudan","Brazil",0.784194945928376
+"925","Sudan","Burkina Faso",0.864204861231252
+"926","Sudan","Burundi",0.936967130169791
+"927","Sudan","C?te d'Ivoire",0.868251311775368
+"928","Sudan","Cameroon",0.959353029783461
+"929","Sudan","Central African Republic",0.864489013350806
+"930","Sudan","Chad",0.976360654367188
+"931","Sudan","Congo",0.932599000992333
+"932","Sudan","Costa Rica",0.905414965485227
+"933","Sudan","Dominica",0.906454434139923
+"934","Sudan","Egypt",0.900632690591735
+"935","Sudan","El Salvador",0.902610988272953
+"936","Sudan","Gabon",0.958578382307301
+"937","Sudan","Ghana",0.936588014059642
+"938","Sudan","Guam",0.836423572025856
+"939","Sudan","Guinea-Bissau",0.920348131494698
+"940","Sudan","Haiti",0.917545480460009
+"941","Sudan","Jamaica",0.918122773568327
+"942","Sudan","Kenya",0.980115071513516
+"943","Sudan","Kuwait",0.920180266160248
+"944","Sudan","Liberia",0.935958454057916
+"945","Sudan","Mali",0.999769635202629
+"946","Sudan","Niger",0.999601293326241
+"947","Sudan","Paraguay",0.900358890721574
+"948","Sudan","Qatar",0.920348131494698
+"949","Sudan","Rwanda",0.940775067651911
+"950","Sudan","Samoa",0.920308572198434
+"951","Sudan","Sierra Leone",0.944490493814746
+"952","Sudan","South Sudan",0.920348131494698
+"953","Sudan (former)","American Samoa",1
+"954","Sudan (former)","Antigua and Barbuda",1
+"955","Sudan (former)","Barbados",0.999553242677079
+"956","Sudan (former)","Benin",0.709918034450625
+"957","Sudan (former)","Brazil",0.852852664748036
+"958","Sudan (former)","Burkina Faso",0.824647169938164
+"959","Sudan (former)","Burundi",0.998974014638738
+"960","Sudan (former)","C?te d'Ivoire",0.917034945591549
+"961","Sudan (former)","Cameroon",0.773346333403186
+"962","Sudan (former)","Central African Republic",0.901393718660457
+"963","Sudan (former)","Chad",0.881697380200406
+"964","Sudan (former)","Congo",0.999469364536575
+"965","Sudan (former)","Costa Rica",0.983976870211365
+"966","Sudan (former)","Dominica",0.985022240115026
+"967","Sudan (former)","Egypt",0.973520855979448
+"968","Sudan (former)","El Salvador",0.980864541135496
+"969","Sudan (former)","Gabon",0.993622432868631
+"970","Sudan (former)","Ghana",0.998993766930359
+"971","Sudan (former)","Guam",0.909182092858745
+"972","Sudan (former)","Guinea-Bissau",1
+"973","Sudan (former)","Haiti",0.997035692088355
+"974","Sudan (former)","Jamaica",0.997646397402756
+"975","Sudan (former)","Kenya",0.974340497140455
+"976","Sudan (former)","Kuwait",0.999840485252792
+"977","Sudan (former)","Lao People's Dem. Rep.",0.751270773845145
+"978","Sudan (former)","Liberia",0.998636351491689
+"979","Sudan (former)","Mali",0.92659643063452
+"980","Sudan (former)","Niger",0.908938199015369
+"981","Sudan (former)","Paraguay",0.978521509684594
+"982","Sudan (former)","Qatar",1
+"983","Sudan (former)","Rwanda",0.998095852704993
+"984","Sudan (former)","Samoa",0.999962928257139
+"985","Sudan (former)","Senegal",0.729895949864651
+"986","Sudan (former)","Sierra Leone",0.997751609323015
+"987","Sudan (former)","South Sudan",1
+"988","Sudan (former)","Sudan",0.920348131494698
+"989","Suriname","Belize",0.886114297368248
+"990","Suriname","Ecuador",0.881592462285098
+"991","Suriname","Guatemala",0.831476240037977
+"992","Suriname","Mexico",0.852862123218038
+"993","Suriname","Nicaragua",0.885009514615417
+"994","Suriname","Northern Mariana Is.",0.790559885043465
+"995","Suriname","Panama",0.874032109151172
+"996","Suriname","Saudi Arabia",0.802721504963167
+"997","Sweden","Austria",0.817145098225171
+"998","Sweden","Bolivia (Plurinat.State)",0.782587854264169
+"999","Sweden","Bosnia and Herzegovina",0.939160028039592
+"1000","Sweden","Denmark",0.983572054710771
+"1001","Sweden","Estonia",0.955220622075785
+"1002","Sweden","Finland",0.973823918480983
+"1003","Sweden","Georgia",0.852206663517874
+"1004","Sweden","Germany",0.707266685583852
+"1005","Sweden","Iran (Islamic Rep. of)",0.774115708957412
+"1006","Sweden","Lebanon",0.976396823580958
+"1007","Sweden","Lesotho",0.976720704218304
+"1008","Sweden","Montenegro",0.919659257480838
+"1009","Sweden","Slovakia",0.8979727773393
+"1010","Sweden","Slovenia",0.79788852042414
+"1011","Switzerland","Austria",0.817732364617307
+"1012","Switzerland","Bolivia (Plurinat.State)",0.794301562881769
+"1013","Switzerland","Bosnia and Herzegovina",0.952017531872375
+"1014","Switzerland","Denmark",0.987352141203812
+"1015","Switzerland","Estonia",0.967697952359832
+"1016","Switzerland","Finland",0.986529577603049
+"1017","Switzerland","Georgia",0.864112793826592
+"1018","Switzerland","Iran (Islamic Rep. of)",0.784324775418836
+"1019","Switzerland","Lebanon",0.988966777128112
+"1020","Switzerland","Lesotho",0.989288600680134
+"1021","Switzerland","Montenegro",0.931531107558096
+"1022","Switzerland","Slovakia",0.909818877298291
+"1023","Switzerland","Slovenia",0.808355005426555
+"1024","Switzerland","Sweden",0.966151163188768
+"1025","Syrian Arab Republic","Belarus",0.77854378055114
+"1026","Syrian Arab Republic","Czechia",0.787070663016779
+"1027","Syrian Arab Republic","Hungary",0.827779655696988
+"1028","Syrian Arab Republic","Iraq",0.785919039635955
+"1029","Syrian Arab Republic","Jordan",0.761893834408256
+"1030","Syrian Arab Republic","Latvia",0.787334049182619
+"1031","Syrian Arab Republic","Lithuania",0.794704998572562
+"1032","Syrian Arab Republic","Serbia",0.772605370234467
+"1033","Tajikistan","Cuba",0.723885563055536
+"1034","Tajikistan","Moldova, Republic of",0.775370518418928
+"1035","Tanzania, United Rep. of","Fiji",0.962724138383271
+"1036","Tanzania, United Rep. of","Grenada",0.835358138738591
+"1037","Tanzania, United Rep. of","Indonesia",0.881189570589424
+"1038","Tanzania, United Rep. of","Kiribati",0.835393763622042
+"1039","Tanzania, United Rep. of","Madagascar",0.768166243095733
+"1040","Tanzania, United Rep. of","Saint Lucia",0.921381866244231
+"1041","Tanzania, United Rep. of","Saint Vincent/Grenadines",0.835358138738591
+"1042","Thailand","Belize",0.837345764884298
+"1043","Thailand","Ecuador",0.869198321072692
+"1044","Thailand","Guatemala",0.764947740125936
+"1045","Thailand","Honduras",0.887174992816734
+"1046","Thailand","Mexico",0.790015858280584
+"1047","Thailand","Nicaragua",0.837763859802623
+"1048","Thailand","Northern Mariana Is.",0.720576399752545
+"1049","Thailand","Panama",0.841766564890597
+"1050","Thailand","Saudi Arabia",0.893049576734619
+"1051","Thailand","Suriname",0.740206969112739
+"1052","Timor-Leste","Fiji",0.958465932847655
+"1053","Timor-Leste","Grenada",0.999281867935148
+"1054","Timor-Leste","Indonesia",0.981119512625637
+"1055","Timor-Leste","Kiribati",0.999285089218892
+"1056","Timor-Leste","Madagascar",0.835321876456844
+"1057","Timor-Leste","Saint Lucia",0.78713124472453
+"1058","Timor-Leste","Saint Vincent/Grenadines",0.999281867935148
+"1059","Timor-Leste","Tanzania, United Rep. of",0.853400481901826
+"1060","Togo","American Samoa",0.98085500670032
+"1061","Togo","Antigua and Barbuda",0.98085500670032
+"1062","Togo","Barbados",0.980405265432216
+"1063","Togo","Brazil",0.836173993110214
+"1064","Togo","Burkina Faso",0.808543377180712
+"1065","Togo","Burundi",0.979829066600699
+"1066","Togo","C?te d'Ivoire",0.899230877048227
+"1067","Togo","Cameroon",0.758346218625302
+"1068","Togo","Central African Republic",0.884573203952982
+"1069","Togo","Chad",0.864543487334591
+"1070","Togo","Congo",0.980321956920775
+"1071","Togo","Costa Rica",0.965024816636995
+"1072","Togo","Dominica",0.966097437834962
+"1073","Togo","Egypt",0.954701626777097
+"1074","Togo","El Salvador",0.962009003719248
+"1075","Togo","Gabon",0.974556012553315
+"1076","Togo","Ghana",0.979914416993543
+"1077","Togo","Guam",0.891567802605086
+"1078","Togo","Guinea-Bissau",0.98085500670032
+"1079","Togo","Haiti",0.977937342021504
+"1080","Togo","Jamaica",0.978510281486423
+"1081","Togo","Kenya",0.955561007347367
+"1082","Togo","Kuwait",0.980685681799172
+"1083","Togo","Lao People's Dem. Rep.",0.736372868216753
+"1084","Togo","Liberia",0.979484717294283
+"1085","Togo","Mali",0.908802234937826
+"1086","Togo","Niger",0.891375645210579
+"1087","Togo","Paraguay",0.959652367100994
+"1088","Togo","Qatar",0.98085500670032
+"1089","Togo","Rwanda",0.979149304710174
+"1090","Togo","Samoa",0.980815320954342
+"1091","Togo","Senegal",0.715374291634069
+"1092","Togo","Sierra Leone",0.978623791152697
+"1093","Togo","South Sudan",0.98085500670032
+"1094","Togo","Sudan",0.902577105443068
+"1095","Togo","Sudan (former)",0.98085500670032
+"1096","Trinidad and Tobago","Angola",0.949515581792756
+"1097","Trinidad and Tobago","Aruba",0.949617822013845
+"1098","Trinidad and Tobago","Colombia",0.833455403944961
+"1099","Trinidad and Tobago","Congo, Dem. Rep. of the",0.949608255855486
+"1100","Trinidad and Tobago","Ethiopia",0.944326137756424
+"1101","Trinidad and Tobago","Guinea",0.872832260290381
+"1102","Trinidad and Tobago","Israel",0.761282109974891
+"1103","Trinidad and Tobago","Libya",0.745922531454864
+"1104","Trinidad and Tobago","Mozambique",0.933300406297036
+"1105","Trinidad and Tobago","R?union",0.812570186041548
+"1106","Trinidad and Tobago","Saint Kitts and Nevis",0.93187106553397
+"1107","Trinidad and Tobago","Sri Lanka",0.830775650346464
+"1108","Tunisia","Albania",0.801824629422358
+"1109","Tunisia","Bahrain",0.927516819232426
+"1110","Tunisia","Croatia",0.724483373251298
+"1111","Tunisia","Cyprus",0.984061934766863
+"1112","Tunisia","Greece",0.89038372232721
+"1113","Tunisia","Palestine",0.899081327256081
+"1114","Turkey","Bosnia and Herzegovina",0.765096245317849
+"1115","Turkey","Denmark",0.773354448951345
+"1116","Turkey","Estonia",0.757596797421439
+"1117","Turkey","Finland",0.772728327991357
+"1118","Turkey","Lebanon",0.774863605541139
+"1119","Turkey","Lesotho",0.775123778434144
+"1120","Turkey","Montenegro",0.813072922771514
+"1121","Turkey","Slovakia",0.712376677325233
+"1122","Turkey","Sweden",0.756627463773018
+"1123","Turkey","Switzerland",0.766486178026257
+"1124","Turkmenistan","Azerbaijan",0.71207777362272
+"1125","Turkmenistan","Belarus",0.70405622556194
+"1126","Turkmenistan","Kyrgyzstan",0.739287686255583
+"1127","Turkmenistan","Moldova, Republic of",0.912034456715171
+"1128","Turkmenistan","Romania",0.752021230445983
+"1129","Turkmenistan","Russian Federation",0.804268148525219
+"1130","Turkmenistan","Tajikistan",0.82322011817372
+"1131","Tuvalu","Nauru",1
+"1132","Tuvalu","Palau",0.990622378499947
+"1133","Tuvalu","Singapore",0.876989547116882
+"1134","Uganda","American Samoa",0.739864770833834
+"1135","Uganda","Antigua and Barbuda",0.739864770833834
+"1136","Uganda","Barbados",0.73950153994149
+"1137","Uganda","Benin",0.999048460543149
+"1138","Uganda","Burkina Faso",0.791155182603133
+"1139","Uganda","Burundi",0.769336710282309
+"1140","Uganda","C?te d'Ivoire",0.720208280058966
+"1141","Uganda","Cameroon",0.998167159551488
+"1142","Uganda","Central African Republic",0.726965737343906
+"1143","Uganda","Chad",0.935978982512076
+"1144","Uganda","Congo",0.761385443275321
+"1145","Uganda","Costa Rica",0.727687299379626
+"1146","Uganda","Dominica",0.728594658802465
+"1147","Uganda","Egypt",0.728439991543419
+"1148","Uganda","El Salvador",0.725489241254242
+"1149","Uganda","Gabon",0.811004108232698
+"1150","Uganda","Ghana",0.768651845230949
+"1151","Uganda","Guinea-Bissau",0.739864770833834
+"1152","Uganda","Haiti",0.737705456941173
+"1153","Uganda","Jamaica",0.738020899059847
+"1154","Uganda","Kenya",0.864523845370448
+"1155","Uganda","Kuwait",0.73971030063105
+"1156","Uganda","Liberia",0.767868960979692
+"1157","Uganda","Mali",0.938384630033904
+"1158","Uganda","Niger",0.952980296253473
+"1159","Uganda","Paraguay",0.72384390857626
+"1160","Uganda","Qatar",0.739864770833834
+"1161","Uganda","Rwanda",0.776620249634258
+"1162","Uganda","Samoa",0.739827924796762
+"1163","Uganda","Sierra Leone",0.783288991327691
+"1164","Uganda","South Sudan",0.739864770833834
+"1165","Uganda","Sudan",0.944044557903591
+"1166","Uganda","Sudan (former)",0.739864770833834
+"1167","Uganda","Togo",0.72544251968245
+"1168","Ukraine","Azerbaijan",0.846095636600545
+"1169","Ukraine","Belarus",0.967096708310642
+"1170","Ukraine","Czechia",0.936128816550197
+"1171","Ukraine","Hungary",0.948964540047133
+"1172","Ukraine","Iraq",0.945653877640504
+"1173","Ukraine","Jordan",0.830131251965675
+"1174","Ukraine","Kyrgyzstan",0.73328855199531
+"1175","Ukraine","Latvia",0.927092061175674
+"1176","Ukraine","Lithuania",0.93080564357334
+"1177","Ukraine","Moldova, Republic of",0.753720913863338
+"1178","Ukraine","Poland",0.769737000126413
+"1179","Ukraine","Romania",0.859120779186663
+"1180","Ukraine","Russian Federation",0.895215007865127
+"1181","Ukraine","Serbia",0.947117184096615
+"1182","Ukraine","Syrian Arab Republic",0.733818206642252
+"1183","Ukraine","Turkmenistan",0.822275603865451
+"1184","United Arab Emirates","Albania",0.751957499345856
+"1185","United Arab Emirates","Bahrain",0.876183427150421
+"1186","United Arab Emirates","Cyprus",0.933341834343417
+"1187","United Arab Emirates","Greece",0.847222285506663
+"1188","United Arab Emirates","Palestine",0.861857739159357
+"1189","United Arab Emirates","Tunisia",0.938040836182099
+"1190","United Kingdom","Australia",0.949425383044511
+"1191","United Kingdom","Canada",0.976570421545134
+"1192","United Kingdom","Chile",0.828536215062758
+"1193","United Kingdom","Faroe Islands",0.992042618697215
+"1194","United Kingdom","Iceland",0.824074490297533
+"1195","United Kingdom","Norway",0.994842489276508
+"1196","US Virgin Islands","American Samoa",0.780698109781348
+"1197","US Virgin Islands","Antigua and Barbuda",0.780698109781348
+"1198","US Virgin Islands","Barbados",0.780311494320855
+"1199","US Virgin Islands","Burundi",0.779832861116012
+"1200","US Virgin Islands","C?te d'Ivoire",0.715116033337742
+"1201","US Virgin Islands","Central African Republic",0.702787150273009
+"1202","US Virgin Islands","Colombia",0.727810127896931
+"1203","US Virgin Islands","Congo",0.780242612818036
+"1204","US Virgin Islands","Costa Rica",0.767815630671411
+"1205","US Virgin Islands","Dominica",0.768786741528063
+"1206","US Virgin Islands","Dominican Republic",0.713562589738183
+"1207","US Virgin Islands","Egypt",0.759414776222911
+"1208","US Virgin Islands","El Salvador",0.765506945374024
+"1209","US Virgin Islands","Gabon",0.775576424982828
+"1210","US Virgin Islands","Ghana",0.779841534587955
+"1211","US Virgin Islands","Guam",0.709114644126348
+"1212","US Virgin Islands","Guinea-Bissau",0.780698109781348
+"1213","US Virgin Islands","Haiti",0.778234714824033
+"1214","US Virgin Islands","Jamaica",0.778742006455736
+"1215","US Virgin Islands","Kenya",0.760253429174513
+"1216","US Virgin Islands","Kuwait",0.780531392674837
+"1217","US Virgin Islands","Liberia",0.779526123881124
+"1218","US Virgin Islands","Mali",0.7228930277468
+"1219","US Virgin Islands","Niger",0.709078580609351
+"1220","US Virgin Islands","Paraguay",0.763486033090568
+"1221","US Virgin Islands","Qatar",0.780698109781348
+"1222","US Virgin Islands","Rwanda",0.779108245668329
+"1223","US Virgin Islands","Samoa",0.780658268622967
+"1224","US Virgin Islands","Sierra Leone",0.778857960732691
+"1225","US Virgin Islands","South Sudan",0.780698109781348
+"1226","US Virgin Islands","Sudan",0.718018990005778
+"1227","US Virgin Islands","Sudan (former)",0.780698109781348
+"1228","US Virgin Islands","Togo",0.787342032763832
+"1229","Uzbekistan","Cuba",0.8354981995727
+"1230","Uzbekistan","Moldova, Republic of",0.851231618730928
+"1231","Uzbekistan","Tajikistan",0.938970483150979
+"1232","Uzbekistan","Turkmenistan",0.84236311349768
+"1233","Vanuatu","American Samoa",0.959637843460664
+"1234","Vanuatu","Antigua and Barbuda",0.959637843460664
+"1235","Vanuatu","Barbados",0.959189635057324
+"1236","Vanuatu","Brazil",0.888011702041633
+"1237","Vanuatu","Burkina Faso",0.790829111481369
+"1238","Vanuatu","Burundi",0.958620174489558
+"1239","Vanuatu","C?te d'Ivoire",0.879603574884468
+"1240","Vanuatu","Cameroon",0.741672959239237
+"1241","Vanuatu","Central African Republic",0.864532993470253
+"1242","Vanuatu","Chad",0.845647791681818
+"1243","Vanuatu","Congo",0.959107392518774
+"1244","Vanuatu","Costa Rica",0.985266026481605
+"1245","Vanuatu","Dominica",0.945397080342779
+"1246","Vanuatu","Egypt",0.933927028069008
+"1247","Vanuatu","El Salvador",0.99346531172797
+"1248","Vanuatu","Gabon",0.953444185490606
+"1249","Vanuatu","Ghana",0.958635654911773
+"1250","Vanuatu","Guam",0.908338281591545
+"1251","Vanuatu","Guinea-Bissau",0.959637843460664
+"1252","Vanuatu","Haiti",0.958615750783794
+"1253","Vanuatu","Honduras",0.857542563982459
+"1254","Vanuatu","Jamaica",0.966593340598644
+"1255","Vanuatu","Kenya",0.934801658759678
+"1256","Vanuatu","Kuwait",0.959487611877951
+"1257","Vanuatu","Lao People's Dem. Rep.",0.719523098580373
+"1258","Vanuatu","Liberia",0.958273932024969
+"1259","Vanuatu","Mali",0.888939997509137
+"1260","Vanuatu","Niger",0.871979710740028
+"1261","Vanuatu","Paraguay",0.938797692342557
+"1262","Vanuatu","Qatar",0.959637843460664
+"1263","Vanuatu","Rwanda",0.95775735426001
+"1264","Vanuatu","Samoa",0.959596655081618
+"1265","Vanuatu","Sierra Leone",0.957436514504125
+"1266","Vanuatu","South Sudan",0.959637843460664
+"1267","Vanuatu","Sudan",0.882945951874718
+"1268","Vanuatu","Sudan (former)",0.959637843460664
+"1269","Vanuatu","Togo",0.941271692618632
+"1270","Vanuatu","Uganda",0.709560894120619
+"1271","Vanuatu","US Virgin Islands",0.751312469067563
+"1272","Venezuela, Boliv Rep of","Belize",0.982415657898036
+"1273","Venezuela, Boliv Rep of","Ecuador",0.979312607289938
+"1274","Venezuela, Boliv Rep of","Guatemala",0.899355284972979
+"1275","Venezuela, Boliv Rep of","Honduras",0.708124146751057
+"1276","Venezuela, Boliv Rep of","Mexico",0.929713233453331
+"1277","Venezuela, Boliv Rep of","Nicaragua",0.982768942275175
+"1278","Venezuela, Boliv Rep of","Northern Mariana Is.",0.847854662755113
+"1279","Venezuela, Boliv Rep of","Panama",0.970343143624806
+"1280","Venezuela, Boliv Rep of","Saudi Arabia",0.891921567277139
+"1281","Venezuela, Boliv Rep of","Suriname",0.937030133243027
+"1282","Venezuela, Boliv Rep of","Thailand",0.822728733368112
+"1283","Yemen","Oman",0.94976920384588
+"1284","Zambia","American Samoa",0.948057622568946
+"1285","Zambia","Antigua and Barbuda",0.948057622568946
+"1286","Zambia","Barbados",0.947606708655703
+"1287","Zambia","Brazil",0.8074259779533
+"1288","Zambia","Burkina Faso",0.781103595500772
+"1289","Zambia","Burundi",0.947087371995313
+"1290","Zambia","C?te d'Ivoire",0.868824413448582
+"1291","Zambia","Cameroon",0.73278766391289
+"1292","Zambia","Central African Republic",0.853914453949572
+"1293","Zambia","Chad",0.835312833753012
+"1294","Zambia","Congo",0.947529536183179
+"1295","Zambia","Costa Rica",0.932596821598142
+"1296","Zambia","Dominica",0.933699989265591
+"1297","Zambia","Egypt",0.922861057563988
+"1298","Zambia","El Salvador",0.929733741605797
+"1299","Zambia","Gabon",0.941924731780555
+"1300","Zambia","Ghana",0.947058777184926
+"1301","Zambia","Guam",0.861463693664044
+"1302","Zambia","Guinea-Bissau",0.948057622568946
+"1303","Zambia","Haiti",0.945482795263448
+"1304","Zambia","Jamaica",0.945740459133745
+"1305","Zambia","Kenya",0.923922603330805
+"1306","Zambia","Kuwait",0.94787588407705
+"1307","Zambia","Lao People's Dem. Rep.",0.711763000725783
+"1308","Zambia","Liberia",0.946693510959617
+"1309","Zambia","Mali",0.878161331365687
+"1310","Zambia","Niger",0.86140561768502
+"1311","Zambia","Paraguay",0.927915847169888
+"1312","Zambia","Qatar",0.948057622568946
+"1313","Zambia","Rwanda",0.94619040103696
+"1314","Zambia","Samoa",0.94801459360067
+"1315","Zambia","Sierra Leone",0.945874552263254
+"1316","Zambia","South Sudan",0.948057622568946
+"1317","Zambia","Sudan",0.872242727130284
+"1318","Zambia","Sudan (former)",0.948057622568946
+"1319","Zambia","Togo",0.929688322554329
+"1320","Zambia","Uganda",0.700938304732526
+"1321","Zambia","US Virgin Islands",0.739429484278796
+"1322","Zambia","Vanuatu",0.90942257225663
+"1323","Zimbabwe","Angola",0.999860086455794
+"1324","Zimbabwe","Aruba",0.999959275727569
+"1325","Zimbabwe","Colombia",0.879864209182481
+"1326","Zimbabwe","Congo, Dem. Rep. of the",0.999954447700968
+"1327","Zimbabwe","Ethiopia",0.994576316520257
+"1328","Zimbabwe","Guinea",0.91663200083712
+"1329","Zimbabwe","Israel",0.798897396368506
+"1330","Zimbabwe","Libya",0.785992429062332
+"1331","Zimbabwe","Mozambique",0.982918355921696
+"1332","Zimbabwe","R?union",0.86047902640023
+"1333","Zimbabwe","Saint Kitts and Nevis",0.981434305909109
+"1334","Zimbabwe","Sri Lanka",0.875294942068858
+"1335","Zimbabwe","Trinidad and Tobago",0.949573438947278
