@@ -491,7 +491,3 @@ ratio <- ts(wholesale_predict$ratio, start = c(2013,1), frequency=12)
 autoplot(forecast(amount))
 autoplot(forecast(price))
 autoplot(forecast(ratio))
-
-########################################
-#predicting future wholesale#
-########################################
