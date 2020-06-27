@@ -6,10 +6,14 @@ library(gridExtra)
 ####국내 위판자료 분석 코드
 ##selling_domestic(1,2,3,4).RData 필요
 
+load("selling_domestic1.RData")
+load("selling_domestic2.RData")
+load("selling_domestic3.RData")
+load("selling_domestic4.RData")
 selling_domestic<-rbind(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
 rm(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
-selling_domestic  <- filter_all(selling_domestic, all_vars(!is.na(.)))
-View(selling_domestic)
+selling_domestic  <- na.omit(selling_domestic) 
+
 
 selling_d_tot <- selling_domestic %>%
   group_by(위판일자) %>%
