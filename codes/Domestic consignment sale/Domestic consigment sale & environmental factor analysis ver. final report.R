@@ -59,8 +59,8 @@ ggplot(fish_crab %>% filter(as.integer(수산물표준코드명) %in% fish_c_ord
 
 
 #환경 데이터 분석 w. squid&crab
-getwd()
-setwd("C:/Users/user/Desktop/R project")
+#getwd()
+#setwd("C:/Users/user/Desktop/R project")
 env <- read.csv("envdata.csv")
 env <- env[,c(-8,-9,-10,-11,-16)]
 env <- na.omit(env)
