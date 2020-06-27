@@ -4,7 +4,7 @@ library(gridExtra)
 library(tidyr)
 library(reshape2)
 
-setwd("C:\\Users\\HP\\Desktop\\R proj")
+setwd("C:\\Users\\HP\\Desktop\\R proj\\data")
 
 ####preprocessing####
 prod_ton <- as.data.frame(read.csv("Raw_prod_ton(50-18).csv", na.strings='...', stringsAsFactors = FALSE))
@@ -610,34 +610,6 @@ ggplot(data=sp_prod, aes(x=Species, y=log(ratio), color=ifelse(Species %in% crab
   geom_point()+
   ggtitle("Scatter Plot of (Dollar/Ton)")
 
-####filter crabs####
-crab_dol <- prod_dol %>% filter(Species %in% crabs)
-crab_ton <- prod_ton %>% filter(Species %in% crabs)
-crab_ratio <- merge(crab_dol, crab_ton, by=c("Country", "Species")) %>%
-  mutate(p13 = y13.x/y13.y, p14 = y14.x/y14.y, p15 = y15.x/y15.y,
-            p16 = y16.x/y16.y, p17 = y17.x/y17.y, p18 = y18.x/y18.y, ptotal= total.x/total.y) %>%
-  select(Country, Species, p13, p14, p15, p16, p17, p18, ptotal)
-
-
-crab_sp <- crab_ratio %>% group_by(Species) %>% 
-  summarise(pt13 = mean(p13, na.rm=TRUE), pt14 = mean(p14, na.rm=TRUE), pt15 = mean(p15, na.rm=TRUE),
-            pt16 = mean(p16, na.rm=TRUE), pt17 = mean(p17, na.rm=TRUE), pt18 = mean(p18, na.rm=TRUE))
-
-library(tidyr)
-
-t_crab_sp <- as.data.frame(t(as.matrix(crab_sp %>% select(-Species))))
-colnames(t_crab_sp) <-c("c1","c2","c3","c4","c5","c6","c7","c8","c9")
-rownames(t_crab_sp) <- 2013:2018
-t_crab_sp$year = 2013:2018
-t_crab_sp
-t_crab_sp %>%
-  gather(key, value, c1, c2,c3,c4,c5,c6,c7,c8,c9) %>%
-  ggplot(aes(x=year, y=value, color=key))+
-  scale_color_hue(labels=crab_sp$Species)+
-  geom_point()+
-  geom_line()
-
-
 ####per crab analysis####
 c_ton <- data.frame()
 for (c in crabs){
@@ -664,76 +636,6 @@ ggplot(data=c_dol %>% filter(Dollars > 0), aes(x=years, y=log(Dollars), col=Spec
   #geom_point()+
   geom_line()+
   ggtitle("Production of crabs from 1950 to 2018 (1000$)")
-
-
-####Clustering####
-rm(list=ls())
-#in tons
-prod_ton <- as.data.frame(read.csv("Prod_sp_ton(50-18).csv", na.strings='...', stringsAsFactors = FALSE))
-#drop unnecssary columns & rename columns
-p_cols <- c(c("e", "Species", "a", "b","c","d"), paste0(rep('y', 68), 1950:2018)) #a~d are unnecessary!
-colnames(prod_ton) <- p_cols
-prod_ton <- select(prod_ton, -a, -b, -c, -d, -e)
-#add 'total' col
-prod_ton$total <- rowSums(prod_ton[, 3:70])
-#drop rows where total==0
-prod_ton <- filter(prod_ton, total!=0)
-#drop 'total' row(last row)
-prod_ton <- prod_ton[-nrow(prod_ton), ]
-
-spe <- as.character(prod_ton$Species)
-crabs <- crabs <- spe[unique(c(grep("Crab", spe, fixed=TRUE), grep("crab", spe, fixed=TRUE)))]
-t_sliced <- data.frame(matrix(rep(0, length(spe)), ncol=1))
-t_sliced$Species <- spe
-m<-1
-for (i in seq(1950,2018,10)){
-  if (i==2010){
-    t <- prod_ton %>% select(Species, y2010:y2018) %>%
-      mutate(total = rowSums(select(., 3:10))) %>%
-      group_by(Species) %>%
-      summarise(gross_ton = sum(total))
-  }
-  else{
-    t <- prod_ton %>% select(Species, paste0('y',i):paste0('y',i+9)) %>%
-      mutate(total = rowSums(select(., 3:11))) %>%
-      group_by(Species) %>%
-      summarise(gross_ton = sum(total))
-  }
-  t <- as.data.frame(t)
-  colnames(t) <-c("Species", paste0("y", i))
-  t_sliced <- merge(t_sliced, t, by='Species')
-  m <- m+1
-}
-t_sliced <- t_sliced[,-2]
-t_sliced <- t_sliced %>% filter(y2000 != 0 & y2010 != 0)
-t_sliced
-
-vk <- 10
-pmat <- scale(log(t_sliced[, 7:8]))
-d <- dist(pmat, method='euclidean')
-pfit <- hclust(d, method="ward.D")
-plot(pfit, labels=t_sliced[,1])
-rect.hclust(pfit, k=vk)
-groups <- cutree(pfit, k=vk)
-summary(as.factor(groups))
-for(i in 1:vk){
-  print(paste("cluster", i, 'with total', sum(t_sliced[groups==i, 1] %in% crabs), 'crabs'))
-  print(t_sliced[groups==i, 1])
-}
-
-
-pclusters <- kmeans(pmat, vk, nstart=100, iter.max=100)
-summary(pclusters)
-pclusters$size
-for(i in 1:vk){
-  print(paste("cluster", i, 'with total', sum(t_sliced[groups==i, 1] %in% crabs), 'crabs'))
-  print(t_sliced[pclusters$cluster==i, 1])
-}
-
-ggplot(data=t_sliced, aes(x=log(y2000), y=log(y2010), color=as.factor(groups)))+
-  geom_point()+
-  ggtitle("Scatter Plot of Clustered Species")
-
 
 ####Statements####
 #Q1 - Is crab/squid related?
@@ -919,3 +821,71 @@ crab_cor %>% arrange(-crab1) %>% head(11) %>% select(crab1, Species)
 crab_cor %>% arrange(-crab2) %>% head(11) %>% select(crab2, Species)
 crab_cor %>% arrange(-crab3) %>% head(11) %>% select(crab3, Species)
 crab_cor %>% arrange(-corr) %>% tail(11)
+
+####Clustering####
+rm(list=ls())
+#in tons
+prod_ton <- as.data.frame(read.csv("Prod_sp_ton(50-18).csv", na.strings='...', stringsAsFactors = FALSE))
+#drop unnecssary columns & rename columns
+p_cols <- c(c("e", "Species", "a", "b","c","d"), paste0(rep('y', 68), 1950:2018)) #a~d are unnecessary!
+colnames(prod_ton) <- p_cols
+prod_ton <- select(prod_ton, -a, -b, -c, -d, -e)
+#add 'total' col
+prod_ton$total <- rowSums(prod_ton[, 3:70])
+#drop rows where total==0
+prod_ton <- filter(prod_ton, total!=0)
+#drop 'total' row(last row)
+prod_ton <- prod_ton[-nrow(prod_ton), ]
+
+spe <- as.character(prod_ton$Species)
+crabs <- crabs <- spe[unique(c(grep("Crab", spe, fixed=TRUE), grep("crab", spe, fixed=TRUE)))]
+t_sliced <- data.frame(matrix(rep(0, length(spe)), ncol=1))
+t_sliced$Species <- spe
+m<-1
+for (i in seq(1950,2018,10)){
+  if (i==2010){
+    t <- prod_ton %>% select(Species, y2010:y2018) %>%
+      mutate(total = rowSums(select(., 3:10))) %>%
+      group_by(Species) %>%
+      summarise(gross_ton = sum(total))
+  }
+  else{
+    t <- prod_ton %>% select(Species, paste0('y',i):paste0('y',i+9)) %>%
+      mutate(total = rowSums(select(., 3:11))) %>%
+      group_by(Species) %>%
+      summarise(gross_ton = sum(total))
+  }
+  t <- as.data.frame(t)
+  colnames(t) <-c("Species", paste0("y", i))
+  t_sliced <- merge(t_sliced, t, by='Species')
+  m <- m+1
+}
+t_sliced <- t_sliced[,-2]
+t_sliced <- t_sliced %>% filter(y2000 != 0 & y2010 != 0)
+t_sliced
+
+vk <- 10
+pmat <- scale(log(t_sliced[, 7:8]))
+d <- dist(pmat, method='euclidean')
+pfit <- hclust(d, method="ward.D")
+plot(pfit, labels=t_sliced[,1])
+rect.hclust(pfit, k=vk)
+groups <- cutree(pfit, k=vk)
+summary(as.factor(groups))
+for(i in 1:vk){
+  print(paste("cluster", i, 'with total', sum(t_sliced[groups==i, 1] %in% crabs), 'crabs'))
+  print(t_sliced[groups==i, 1])
+}
+
+
+pclusters <- kmeans(pmat, vk, nstart=100, iter.max=100)
+summary(pclusters)
+pclusters$size
+for(i in 1:vk){
+  print(paste("cluster", i, 'with total', sum(t_sliced[groups==i, 1] %in% crabs), 'crabs'))
+  print(t_sliced[pclusters$cluster==i, 1])
+}
+
+ggplot(data=t_sliced, aes(x=log(y2000), y=log(y2010), color=as.factor(groups)))+
+  geom_point()+
+  ggtitle("Scatter Plot of Clustered Species")
