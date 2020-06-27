@@ -2,8 +2,8 @@ rm(list = ls())
 install.packages("ggplot2")
 library(tidyverse)
 #위판장별 위탁판매 집계
-setwd("C:/Users/user/Desktop/R project/수산물 위판 (2013~)/위탁판매 집계")
-getwd()
+#setwd("C:/Users/user/Desktop/R project/수산물 위판 (2013~)/위탁판매 집계")
+#getwd()
 name_1 <- "해양수산부_위판장별 어종별 위탁판매 집계 - 2013년 01월(월간).csv"
 norm <- 0
 year <- 13
