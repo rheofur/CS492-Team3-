@@ -6,8 +6,7 @@ library(gridExtra)
 
 selling_domestic<-rbind(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
 rm(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
-selling_domestic  <- selling_domestic %>%
-  filter(평균가 > 0 )
+selling_domestic  <- na.omit(selling_domestic) 
 
 #게류 분석 데이터
 fish_crab<- selling_domestic %>%
