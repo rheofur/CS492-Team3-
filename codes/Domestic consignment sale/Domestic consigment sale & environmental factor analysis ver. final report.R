@@ -8,9 +8,15 @@ library(forecast)
 library(moonBook)
 library(urca)
 
+
+load("selling_domestic1.RData")
+load("selling_domestic2.RData")
+load("selling_domestic3.RData")
+load("selling_domestic4.RData")
 selling_domestic<-rbind(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
 rm(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
-selling_domestic<-na.omit(selling_domestic)
+selling_domestic  <- na.omit(selling_domestic) 
+
 
 #생선별 분류 - 전국 위판 기록상의 생산량 상위 6가지
 fish_ordered <- selling_domestic %>%
