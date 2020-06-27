@@ -3,7 +3,7 @@ library(ggplot2)
 library(gridExtra)
 library(reshape2)
 
-setwd("C:\\Users\\HP\\Desktop\\R proj")
+setwd("C:\\Users\\HP\\Desktop\\R proj\\data")
 
 ####preprocessing####
 
