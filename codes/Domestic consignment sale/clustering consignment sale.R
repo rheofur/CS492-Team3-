@@ -6,11 +6,15 @@ requiredPackages=c("flexclust","NbClust","rattle","cluster","fMultivar","ggplot2
 for(p in requiredPackages){
   if(!require(p,character.only=TRUE)) install.packages(p)
 }
+
+load("selling_domestic1.RData")
+load("selling_domestic2.RData")
+load("selling_domestic3.RData")
+load("selling_domestic4.RData")
 selling_domestic<-rbind(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
 rm(selling_domestic1,selling_domestic2,selling_domestic3,selling_domestic4)
-selling_domestic  <- selling_domestic %>%
-  filter(!is.na(평균가)) %>%
-  filter(!is.na(물량.KG.))
+selling_domestic  <- na.omit(selling_domestic) 
+
 
 #clustering, need selling_domestic
 sd_year<- cbind(year = as.numeric(format(selling_domestic$위판일자,"%Y")),selling_domestic[,-1])
